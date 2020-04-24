@@ -1,6 +1,6 @@
 //Original file 'ca3b-cell1zr.hoc' modified by Sára Sáray in order to run validation tests on the base model
 
-load_file("nrngui.hoc")
+//load_file("nrngui.hoc")
 cvode_active(1)
 
 Vrest = -64
@@ -38,11 +38,15 @@ KMULTP =  0.02
 xopen("geo-cell1zr.hoc")
 xopen("fixnseg.hoc")    
 
-// Adding section list for main apical dendrites
-objref trunk
+// Adding section list for main apical andbasal dendrites
+objref trunk, basal
 trunk = new SectionList()
 x=0
-for case (&x,0,1,2,6,10,11,12,23,24,25,26,50,51,53,66,68,70,72,74) {apical_dendrite[x] trunk.append()}        
+for case (&x,0,1,2,6,10,11,12,23,24,25,26,50,51,53,66,68,70,72,74) {apical_dendrite[x] trunk.append()}  
+
+basal = new SectionList()
+for i = 0,51 dendrite[i] basal.append() 
+      
 
 objref stim, time, y, y2, infile, ifile, currt, curr
 
