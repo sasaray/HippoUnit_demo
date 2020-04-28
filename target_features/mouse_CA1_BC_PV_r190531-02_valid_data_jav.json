@@ -1,0 +1,5238 @@
+{
+    "AHP1_depth_from_peak.Step0.21": {
+        "Std": "4.4486", 
+        "Stimulus": "Step0.21", 
+        "Type": "AHP1_depth_from_peak", 
+        "Weight": "1", 
+        "Mean": "81.5327"
+    }, 
+    "AHP1_depth_from_peak.Step0.28": {
+        "Std": "3.7634", 
+        "Stimulus": "Step0.28", 
+        "Type": "AHP1_depth_from_peak", 
+        "Weight": "1", 
+        "Mean": "84.0551"
+    }, 
+    "AHP1_depth_from_peak.Step0.35": {
+        "Std": "3.5523", 
+        "Stimulus": "Step0.35", 
+        "Type": "AHP1_depth_from_peak", 
+        "Weight": "1", 
+        "Mean": "83.7608"
+    }, 
+    "AHP1_depth_from_peak.Step0.42": {
+        "Std": "2.13", 
+        "Stimulus": "Step0.42", 
+        "Type": "AHP1_depth_from_peak", 
+        "Weight": "1", 
+        "Mean": "83.1422"
+    }, 
+    "AHP1_depth_from_peak.Step0.56": {
+        "Std": "2.0846", 
+        "Stimulus": "Step0.56", 
+        "Type": "AHP1_depth_from_peak", 
+        "Weight": "1", 
+        "Mean": "84.834"
+    }, 
+    "AHP1_depth_from_peak.Step0.7": {
+        "Std": "1.2231", 
+        "Stimulus": "Step0.7", 
+        "Type": "AHP1_depth_from_peak", 
+        "Weight": "1", 
+        "Mean": "85.0759"
+    }, 
+    "AHP2_depth_from_peak.Step0.21": {
+        "Std": "3.3759", 
+        "Stimulus": "Step0.21", 
+        "Type": "AHP2_depth_from_peak", 
+        "Weight": "1", 
+        "Mean": "82.3891"
+    }, 
+    "AHP2_depth_from_peak.Step0.28": {
+        "Std": "3.3166", 
+        "Stimulus": "Step0.28", 
+        "Type": "AHP2_depth_from_peak", 
+        "Weight": "1", 
+        "Mean": "82.7372"
+    }, 
+    "AHP2_depth_from_peak.Step0.35": {
+        "Std": "2.8382", 
+        "Stimulus": "Step0.35", 
+        "Type": "AHP2_depth_from_peak", 
+        "Weight": "1", 
+        "Mean": "82.0729"
+    }, 
+    "AHP2_depth_from_peak.Step0.42": {
+        "Std": "2.1819", 
+        "Stimulus": "Step0.42", 
+        "Type": "AHP2_depth_from_peak", 
+        "Weight": "1", 
+        "Mean": "81.0158"
+    }, 
+    "AHP2_depth_from_peak.Step0.56": {
+        "Std": "1.3961", 
+        "Stimulus": "Step0.56", 
+        "Type": "AHP2_depth_from_peak", 
+        "Weight": "1", 
+        "Mean": "80.1482"
+    }, 
+    "AHP2_depth_from_peak.Step0.7": {
+        "Std": "0.4422", 
+        "Stimulus": "Step0.7", 
+        "Type": "AHP2_depth_from_peak", 
+        "Weight": "1", 
+        "Mean": "78.2713"
+    }, 
+    "AHP_depth.Step0.21": {
+        "Std": "1.7574", 
+        "Stimulus": "Step0.21", 
+        "Type": "AHP_depth", 
+        "Weight": "1", 
+        "Mean": "5.8377"
+    }, 
+    "AHP_depth.Step0.28": {
+        "Std": "0.9951", 
+        "Stimulus": "Step0.28", 
+        "Type": "AHP_depth", 
+        "Weight": "1", 
+        "Mean": "6.5375"
+    }, 
+    "AHP_depth.Step0.35": {
+        "Std": "1.7583", 
+        "Stimulus": "Step0.35", 
+        "Type": "AHP_depth", 
+        "Weight": "1", 
+        "Mean": "8.4975"
+    }, 
+    "AHP_depth.Step0.42": {
+        "Std": "1.7676", 
+        "Stimulus": "Step0.42", 
+        "Type": "AHP_depth", 
+        "Weight": "1", 
+        "Mean": "10.2956"
+    }, 
+    "AHP_depth.Step0.56": {
+        "Std": "0.6157", 
+        "Stimulus": "Step0.56", 
+        "Type": "AHP_depth", 
+        "Weight": "1", 
+        "Mean": "11.6284"
+    }, 
+    "AHP_depth.Step0.7": {
+        "Std": "0.4635", 
+        "Stimulus": "Step0.7", 
+        "Type": "AHP_depth", 
+        "Weight": "1", 
+        "Mean": "12.1344"
+    }, 
+    "AHP_depth_abs.Step0.21": {
+        "Std": "0.6999", 
+        "Stimulus": "Step0.21", 
+        "Type": "AHP_depth_abs", 
+        "Weight": "1", 
+        "Mean": "-74.3866"
+    }, 
+    "AHP_depth_abs.Step0.28": {
+        "Std": "0.8785", 
+        "Stimulus": "Step0.28", 
+        "Type": "AHP_depth_abs", 
+        "Weight": "1", 
+        "Mean": "-73.4417"
+    }, 
+    "AHP_depth_abs.Step0.35": {
+        "Std": "0.9483", 
+        "Stimulus": "Step0.35", 
+        "Type": "AHP_depth_abs", 
+        "Weight": "1", 
+        "Mean": "-72.4259"
+    }, 
+    "AHP_depth_abs.Step0.42": {
+        "Std": "0.9282", 
+        "Stimulus": "Step0.42", 
+        "Type": "AHP_depth_abs", 
+        "Weight": "1", 
+        "Mean": "-71.2497"
+    }, 
+    "AHP_depth_abs.Step0.56": {
+        "Std": "0.9903", 
+        "Stimulus": "Step0.56", 
+        "Type": "AHP_depth_abs", 
+        "Weight": "1", 
+        "Mean": "-69.6087"
+    }, 
+    "AHP_depth_abs.Step0.7": {
+        "Std": "0.6856", 
+        "Stimulus": "Step0.7", 
+        "Type": "AHP_depth_abs", 
+        "Weight": "1", 
+        "Mean": "-68.0465"
+    }, 
+    "AHP_depth_diff.Step0.21": {
+        "Std": "0.041", 
+        "Stimulus": "Step0.21", 
+        "Type": "AHP_depth_diff", 
+        "Weight": "1", 
+        "Mean": "0.0022"
+    }, 
+    "AHP_depth_diff.Step0.28": {
+        "Std": "0.0043", 
+        "Stimulus": "Step0.28", 
+        "Type": "AHP_depth_diff", 
+        "Weight": "1", 
+        "Mean": "0.0477"
+    }, 
+    "AHP_depth_diff.Step0.35": {
+        "Std": "0.0015", 
+        "Stimulus": "Step0.35", 
+        "Type": "AHP_depth_diff", 
+        "Weight": "1", 
+        "Mean": "0.037"
+    }, 
+    "AHP_depth_diff.Step0.42": {
+        "Std": "0.0016", 
+        "Stimulus": "Step0.42", 
+        "Type": "AHP_depth_diff", 
+        "Weight": "1", 
+        "Mean": "0.038"
+    }, 
+    "AHP_depth_diff.Step0.56": {
+        "Std": "0.0004", 
+        "Stimulus": "Step0.56", 
+        "Type": "AHP_depth_diff", 
+        "Weight": "1", 
+        "Mean": "0.0476"
+    }, 
+    "AHP_depth_diff.Step0.7": {
+        "Std": "0.0002", 
+        "Stimulus": "Step0.7", 
+        "Type": "AHP_depth_diff", 
+        "Weight": "1", 
+        "Mean": "0.0571"
+    }, 
+    "AHP_depth_from_peak.Step0.21": {
+        "Std": "2.9573", 
+        "Stimulus": "Step0.21", 
+        "Type": "AHP_depth_from_peak", 
+        "Weight": "1", 
+        "Mean": "81.8158"
+    }, 
+    "AHP_depth_from_peak.Step0.28": {
+        "Std": "2.9363", 
+        "Stimulus": "Step0.28", 
+        "Type": "AHP_depth_from_peak", 
+        "Weight": "1", 
+        "Mean": "80.4834"
+    }, 
+    "AHP_depth_from_peak.Step0.35": {
+        "Std": "2.5155", 
+        "Stimulus": "Step0.35", 
+        "Type": "AHP_depth_from_peak", 
+        "Weight": "1", 
+        "Mean": "78.8198"
+    }, 
+    "AHP_depth_from_peak.Step0.42": {
+        "Std": "1.8338", 
+        "Stimulus": "Step0.42", 
+        "Type": "AHP_depth_from_peak", 
+        "Weight": "1", 
+        "Mean": "76.7684"
+    }, 
+    "AHP_depth_from_peak.Step0.56": {
+        "Std": "1.1028", 
+        "Stimulus": "Step0.56", 
+        "Type": "AHP_depth_from_peak", 
+        "Weight": "1", 
+        "Mean": "73.6862"
+    }, 
+    "AHP_depth_from_peak.Step0.7": {
+        "Std": "0.3475", 
+        "Stimulus": "Step0.7", 
+        "Type": "AHP_depth_from_peak", 
+        "Weight": "1", 
+        "Mean": "69.7222"
+    }, 
+    "AHP_time_from_peak.Step0.21": {
+        "Std": "0.0471", 
+        "Stimulus": "Step0.21", 
+        "Type": "AHP_time_from_peak", 
+        "Weight": "1", 
+        "Mean": "1.3417"
+    }, 
+    "AHP_time_from_peak.Step0.28": {
+        "Std": "0.0558", 
+        "Stimulus": "Step0.28", 
+        "Type": "AHP_time_from_peak", 
+        "Weight": "1", 
+        "Mean": "1.3431"
+    }, 
+    "AHP_time_from_peak.Step0.35": {
+        "Std": "0.0472", 
+        "Stimulus": "Step0.35", 
+        "Type": "AHP_time_from_peak", 
+        "Weight": "1", 
+        "Mean": "1.3352"
+    }, 
+    "AHP_time_from_peak.Step0.42": {
+        "Std": "0.0339", 
+        "Stimulus": "Step0.42", 
+        "Type": "AHP_time_from_peak", 
+        "Weight": "1", 
+        "Mean": "1.3405"
+    }, 
+    "AHP_time_from_peak.Step0.56": {
+        "Std": "0.02", 
+        "Stimulus": "Step0.56", 
+        "Type": "AHP_time_from_peak", 
+        "Weight": "1", 
+        "Mean": "1.3395"
+    }, 
+    "AHP_time_from_peak.Step0.7": {
+        "Std": "0.0061", 
+        "Stimulus": "Step0.7", 
+        "Type": "AHP_time_from_peak", 
+        "Weight": "1", 
+        "Mean": "1.3589"
+    }, 
+    "AP1_peak.Step0.21": {
+        "Std": "3.2619", 
+        "Stimulus": "Step0.21", 
+        "Type": "AP1_peak", 
+        "Weight": "1", 
+        "Mean": "7.0215"
+    }, 
+    "AP1_peak.Step0.28": {
+        "Std": "2.7167", 
+        "Stimulus": "Step0.28", 
+        "Type": "AP1_peak", 
+        "Weight": "1", 
+        "Mean": "9.056"
+    }, 
+    "AP1_peak.Step0.35": {
+        "Std": "2.4764", 
+        "Stimulus": "Step0.35", 
+        "Type": "AP1_peak", 
+        "Weight": "1", 
+        "Mean": "9.0381"
+    }, 
+    "AP1_peak.Step0.42": {
+        "Std": "1.0968", 
+        "Stimulus": "Step0.42", 
+        "Type": "AP1_peak", 
+        "Weight": "1", 
+        "Mean": "8.7686"
+    }, 
+    "AP1_peak.Step0.56": {
+        "Std": "0.9178", 
+        "Stimulus": "Step0.56", 
+        "Type": "AP1_peak", 
+        "Weight": "1", 
+        "Mean": "10.311"
+    }, 
+    "AP1_peak.Step0.7": {
+        "Std": "0.5271", 
+        "Stimulus": "Step0.7", 
+        "Type": "AP1_peak", 
+        "Weight": "1", 
+        "Mean": "10.1867"
+    }, 
+    "AP2_AP1_peak_diff.Step0.21": {
+        "Std": "0.6593", 
+        "Stimulus": "Step0.21", 
+        "Type": "AP2_AP1_peak_diff", 
+        "Weight": "1", 
+        "Mean": "0.8648"
+    }, 
+    "AP2_AP1_peak_diff.Step0.28": {
+        "Std": "0.38", 
+        "Stimulus": "Step0.28", 
+        "Type": "AP2_AP1_peak_diff", 
+        "Weight": "1", 
+        "Mean": "-0.5357"
+    }, 
+    "AP2_AP1_peak_diff.Step0.35": {
+        "Std": "0.6988", 
+        "Stimulus": "Step0.35", 
+        "Type": "AP2_AP1_peak_diff", 
+        "Weight": "1", 
+        "Mean": "-0.8231"
+    }, 
+    "AP2_AP1_peak_diff.Step0.42": {
+        "Std": "0.187", 
+        "Stimulus": "Step0.42", 
+        "Type": "AP2_AP1_peak_diff", 
+        "Weight": "1", 
+        "Mean": "-1.1218"
+    }, 
+    "AP2_AP1_peak_diff.Step0.56": {
+        "Std": "0.4451", 
+        "Stimulus": "Step0.56", 
+        "Type": "AP2_AP1_peak_diff", 
+        "Weight": "1", 
+        "Mean": "-3.0898"
+    }, 
+    "AP2_AP1_peak_diff.Step0.7": {
+        "Std": "1.4266", 
+        "Stimulus": "Step0.7", 
+        "Type": "AP2_AP1_peak_diff", 
+        "Weight": "1", 
+        "Mean": "-4.2608"
+    }, 
+    "AP2_amp.Step0.21": {
+        "Std": "1.5667", 
+        "Stimulus": "Step0.21", 
+        "Type": "AP2_amp", 
+        "Weight": "1", 
+        "Mean": "65.1558"
+    }, 
+    "AP2_amp.Step0.28": {
+        "Std": "3.4199", 
+        "Stimulus": "Step0.28", 
+        "Type": "AP2_amp", 
+        "Weight": "1", 
+        "Mean": "68.0493"
+    }, 
+    "AP2_amp.Step0.35": {
+        "Std": "2.4736", 
+        "Stimulus": "Step0.35", 
+        "Type": "AP2_amp", 
+        "Weight": "1", 
+        "Mean": "67.9341"
+    }, 
+    "AP2_amp.Step0.42": {
+        "Std": "1.9554", 
+        "Stimulus": "Step0.42", 
+        "Type": "AP2_amp", 
+        "Weight": "1", 
+        "Mean": "67.0007"
+    }, 
+    "AP2_amp.Step0.56": {
+        "Std": "1.22", 
+        "Stimulus": "Step0.56", 
+        "Type": "AP2_amp", 
+        "Weight": "1", 
+        "Mean": "66.9867"
+    }, 
+    "AP2_amp.Step0.7": {
+        "Std": "0.986", 
+        "Stimulus": "Step0.7", 
+        "Type": "AP2_amp", 
+        "Weight": "1", 
+        "Mean": "65.0078"
+    }, 
+    "AP2_begin_voltage.Step0.21": {
+        "Std": "1.036", 
+        "Stimulus": "Step0.21", 
+        "Type": "AP2_begin_voltage", 
+        "Weight": "1", 
+        "Mean": "-57.2695"
+    }, 
+    "AP2_begin_voltage.Step0.28": {
+        "Std": "1.0833", 
+        "Stimulus": "Step0.28", 
+        "Type": "AP2_begin_voltage", 
+        "Weight": "1", 
+        "Mean": "-59.529"
+    }, 
+    "AP2_begin_voltage.Step0.35": {
+        "Std": "0.6959", 
+        "Stimulus": "Step0.35", 
+        "Type": "AP2_begin_voltage", 
+        "Weight": "1", 
+        "Mean": "-59.7191"
+    }, 
+    "AP2_begin_voltage.Step0.42": {
+        "Std": "0.6716", 
+        "Stimulus": "Step0.42", 
+        "Type": "AP2_begin_voltage", 
+        "Weight": "1", 
+        "Mean": "-59.3539"
+    }, 
+    "AP2_begin_voltage.Step0.56": {
+        "Std": "0.7474", 
+        "Stimulus": "Step0.56", 
+        "Type": "AP2_begin_voltage", 
+        "Weight": "1", 
+        "Mean": "-59.7655"
+    }, 
+    "AP2_begin_voltage.Step0.7": {
+        "Std": "0.0865", 
+        "Stimulus": "Step0.7", 
+        "Type": "AP2_begin_voltage", 
+        "Weight": "1", 
+        "Mean": "-59.0819"
+    }, 
+    "AP2_begin_width.Step0.21": {
+        "Std": "0.0943", 
+        "Stimulus": "Step0.21", 
+        "Type": "AP2_begin_width", 
+        "Weight": "1", 
+        "Mean": "1.0333"
+    }, 
+    "AP2_begin_width.Step0.28": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.28", 
+        "Type": "AP2_begin_width", 
+        "Weight": "1", 
+        "Mean": "1.1"
+    }, 
+    "AP2_begin_width.Step0.35": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.35", 
+        "Type": "AP2_begin_width", 
+        "Weight": "1", 
+        "Mean": "1.1"
+    }, 
+    "AP2_begin_width.Step0.42": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.42", 
+        "Type": "AP2_begin_width", 
+        "Weight": "1", 
+        "Mean": "1.1"
+    }, 
+    "AP2_begin_width.Step0.56": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.56", 
+        "Type": "AP2_begin_width", 
+        "Weight": "1", 
+        "Mean": "1.1"
+    }, 
+    "AP2_begin_width.Step0.7": {
+        "Std": "0.0471", 
+        "Stimulus": "Step0.7", 
+        "Type": "AP2_begin_width", 
+        "Weight": "1", 
+        "Mean": "1.1667"
+    }, 
+    "AP2_peak.Step0.21": {
+        "Std": "2.6026", 
+        "Stimulus": "Step0.21", 
+        "Type": "AP2_peak", 
+        "Weight": "1", 
+        "Mean": "7.8863"
+    }, 
+    "AP2_peak.Step0.28": {
+        "Std": "2.3367", 
+        "Stimulus": "Step0.28", 
+        "Type": "AP2_peak", 
+        "Weight": "1", 
+        "Mean": "8.5203"
+    }, 
+    "AP2_peak.Step0.35": {
+        "Std": "1.7777", 
+        "Stimulus": "Step0.35", 
+        "Type": "AP2_peak", 
+        "Weight": "1", 
+        "Mean": "8.215"
+    }, 
+    "AP2_peak.Step0.42": {
+        "Std": "1.2838", 
+        "Stimulus": "Step0.42", 
+        "Type": "AP2_peak", 
+        "Weight": "1", 
+        "Mean": "7.6468"
+    }, 
+    "AP2_peak.Step0.56": {
+        "Std": "0.4726", 
+        "Stimulus": "Step0.56", 
+        "Type": "AP2_peak", 
+        "Weight": "1", 
+        "Mean": "7.2212"
+    }, 
+    "AP2_peak.Step0.7": {
+        "Std": "0.8995", 
+        "Stimulus": "Step0.7", 
+        "Type": "AP2_peak", 
+        "Weight": "1", 
+        "Mean": "5.9259"
+    }, 
+    "AP2_width.Step0.21": {
+        "Std": "0.01", 
+        "Stimulus": "Step0.21", 
+        "Type": "AP2_width", 
+        "Weight": "1", 
+        "Mean": "0.5007"
+    }, 
+    "AP2_width.Step0.28": {
+        "Std": "0.0123", 
+        "Stimulus": "Step0.28", 
+        "Type": "AP2_width", 
+        "Weight": "1", 
+        "Mean": "0.4855"
+    }, 
+    "AP2_width.Step0.35": {
+        "Std": "0.0001", 
+        "Stimulus": "Step0.35", 
+        "Type": "AP2_width", 
+        "Weight": "1", 
+        "Mean": "0.5096"
+    }, 
+    "AP2_width.Step0.42": {
+        "Std": "0.0088", 
+        "Stimulus": "Step0.42", 
+        "Type": "AP2_width", 
+        "Weight": "1", 
+        "Mean": "0.4521"
+    }, 
+    "AP2_width.Step0.56": {
+        "Std": "0.0108", 
+        "Stimulus": "Step0.56", 
+        "Type": "AP2_width", 
+        "Weight": "1", 
+        "Mean": "0.5136"
+    }, 
+    "AP2_width.Step0.7": {
+        "Std": "0.0617", 
+        "Stimulus": "Step0.7", 
+        "Type": "AP2_width", 
+        "Weight": "1", 
+        "Mean": "0.4791"
+    }, 
+    "AP_amplitude.Step0.21": {
+        "Std": "2.0894", 
+        "Stimulus": "Step0.21", 
+        "Type": "AP_amplitude", 
+        "Weight": "1", 
+        "Mean": "64.8462"
+    }, 
+    "AP_amplitude.Step0.28": {
+        "Std": "3.1728", 
+        "Stimulus": "Step0.28", 
+        "Type": "AP_amplitude", 
+        "Weight": "1", 
+        "Mean": "63.5618"
+    }, 
+    "AP_amplitude.Step0.35": {
+        "Std": "2.2484", 
+        "Stimulus": "Step0.35", 
+        "Type": "AP_amplitude", 
+        "Weight": "1", 
+        "Mean": "63.441"
+    }, 
+    "AP_amplitude.Step0.42": {
+        "Std": "1.661", 
+        "Stimulus": "Step0.42", 
+        "Type": "AP_amplitude", 
+        "Weight": "1", 
+        "Mean": "61.9078"
+    }, 
+    "AP_amplitude.Step0.56": {
+        "Std": "0.9064", 
+        "Stimulus": "Step0.56", 
+        "Type": "AP_amplitude", 
+        "Weight": "1", 
+        "Mean": "59.3532"
+    }, 
+    "AP_amplitude.Step0.7": {
+        "Std": "0.2496", 
+        "Stimulus": "Step0.7", 
+        "Type": "AP_amplitude", 
+        "Weight": "1", 
+        "Mean": "55.5711"
+    }, 
+    "AP_amplitude_change.Step0.21": {
+        "Std": "0.0405", 
+        "Stimulus": "Step0.21", 
+        "Type": "AP_amplitude_change", 
+        "Weight": "1", 
+        "Mean": "0.0034"
+    }, 
+    "AP_amplitude_change.Step0.28": {
+        "Std": "0.0007", 
+        "Stimulus": "Step0.28", 
+        "Type": "AP_amplitude_change", 
+        "Weight": "1", 
+        "Mean": "-0.107"
+    }, 
+    "AP_amplitude_change.Step0.35": {
+        "Std": "0.0182", 
+        "Stimulus": "Step0.35", 
+        "Type": "AP_amplitude_change", 
+        "Weight": "1", 
+        "Mean": "-0.1012"
+    }, 
+    "AP_amplitude_change.Step0.42": {
+        "Std": "0.0051", 
+        "Stimulus": "Step0.42", 
+        "Type": "AP_amplitude_change", 
+        "Weight": "1", 
+        "Mean": "-0.1312"
+    }, 
+    "AP_amplitude_change.Step0.56": {
+        "Std": "0.0023", 
+        "Stimulus": "Step0.56", 
+        "Type": "AP_amplitude_change", 
+        "Weight": "1", 
+        "Mean": "-0.3521"
+    }, 
+    "AP_amplitude_change.Step0.7": {
+        "Std": "0.0055", 
+        "Stimulus": "Step0.7", 
+        "Type": "AP_amplitude_change", 
+        "Weight": "1", 
+        "Mean": "-0.3867"
+    }, 
+    "AP_amplitude_from_voltagebase.Step0.21": {
+        "Std": "1.1927", 
+        "Stimulus": "Step0.21", 
+        "Type": "AP_amplitude_from_voltagebase", 
+        "Weight": "1", 
+        "Mean": "87.6484"
+    }, 
+    "AP_amplitude_from_voltagebase.Step0.28": {
+        "Std": "1.9413", 
+        "Stimulus": "Step0.28", 
+        "Type": "AP_amplitude_from_voltagebase", 
+        "Weight": "1", 
+        "Mean": "87.0208"
+    }, 
+    "AP_amplitude_from_voltagebase.Step0.35": {
+        "Std": "0.7572", 
+        "Stimulus": "Step0.35", 
+        "Type": "AP_amplitude_from_voltagebase", 
+        "Weight": "1", 
+        "Mean": "87.3173"
+    }, 
+    "AP_amplitude_from_voltagebase.Step0.42": {
+        "Std": "0.0662", 
+        "Stimulus": "Step0.42", 
+        "Type": "AP_amplitude_from_voltagebase", 
+        "Weight": "1", 
+        "Mean": "87.0639"
+    }, 
+    "AP_amplitude_from_voltagebase.Step0.56": {
+        "Std": "0.4871", 
+        "Stimulus": "Step0.56", 
+        "Type": "AP_amplitude_from_voltagebase", 
+        "Weight": "1", 
+        "Mean": "85.3146"
+    }, 
+    "AP_amplitude_from_voltagebase.Step0.7": {
+        "Std": "0.116", 
+        "Stimulus": "Step0.7", 
+        "Type": "AP_amplitude_from_voltagebase", 
+        "Weight": "1", 
+        "Mean": "81.8566"
+    }, 
+    "AP_begin_voltage.Step0.21": {
+        "Std": "0.161", 
+        "Stimulus": "Step0.21", 
+        "Type": "AP_begin_voltage", 
+        "Weight": "1", 
+        "Mean": "-57.4221"
+    }, 
+    "AP_begin_voltage.Step0.28": {
+        "Std": "1.115", 
+        "Stimulus": "Step0.28", 
+        "Type": "AP_begin_voltage", 
+        "Weight": "1", 
+        "Mean": "-56.5201"
+    }, 
+    "AP_begin_voltage.Step0.35": {
+        "Std": "0.6812", 
+        "Stimulus": "Step0.35", 
+        "Type": "AP_begin_voltage", 
+        "Weight": "1", 
+        "Mean": "-57.0472"
+    }, 
+    "AP_begin_voltage.Step0.42": {
+        "Std": "0.7555", 
+        "Stimulus": "Step0.42", 
+        "Type": "AP_begin_voltage", 
+        "Weight": "1", 
+        "Mean": "-56.3891"
+    }, 
+    "AP_begin_voltage.Step0.56": {
+        "Std": "0.7939", 
+        "Stimulus": "Step0.56", 
+        "Type": "AP_begin_voltage", 
+        "Weight": "1", 
+        "Mean": "-55.2757"
+    }, 
+    "AP_begin_voltage.Step0.7": {
+        "Std": "0.5877", 
+        "Stimulus": "Step0.7", 
+        "Type": "AP_begin_voltage", 
+        "Weight": "1", 
+        "Mean": "-53.8954"
+    }, 
+    "AP_begin_width.Step0.21": {
+        "Std": "0.0265", 
+        "Stimulus": "Step0.21", 
+        "Type": "AP_begin_width", 
+        "Weight": "1", 
+        "Mean": "1.0563"
+    }, 
+    "AP_begin_width.Step0.28": {
+        "Std": "0.0051", 
+        "Stimulus": "Step0.28", 
+        "Type": "AP_begin_width", 
+        "Weight": "1", 
+        "Mean": "1.0789"
+    }, 
+    "AP_begin_width.Step0.35": {
+        "Std": "0.017", 
+        "Stimulus": "Step0.35", 
+        "Type": "AP_begin_width", 
+        "Weight": "1", 
+        "Mean": "1.128"
+    }, 
+    "AP_begin_width.Step0.42": {
+        "Std": "0.0097", 
+        "Stimulus": "Step0.42", 
+        "Type": "AP_begin_width", 
+        "Weight": "1", 
+        "Mean": "1.1632"
+    }, 
+    "AP_begin_width.Step0.56": {
+        "Std": "0.0066", 
+        "Stimulus": "Step0.56", 
+        "Type": "AP_begin_width", 
+        "Weight": "1", 
+        "Mean": "1.236"
+    }, 
+    "AP_begin_width.Step0.7": {
+        "Std": "0.0027", 
+        "Stimulus": "Step0.7", 
+        "Type": "AP_begin_width", 
+        "Weight": "1", 
+        "Mean": "1.2682"
+    }, 
+    "AP_duration.Step0.21": {
+        "Std": "0.0305", 
+        "Stimulus": "Step0.21", 
+        "Type": "AP_duration", 
+        "Weight": "1", 
+        "Mean": "1.4784"
+    }, 
+    "AP_duration.Step0.28": {
+        "Std": "0.0186", 
+        "Stimulus": "Step0.28", 
+        "Type": "AP_duration", 
+        "Weight": "1", 
+        "Mean": "1.5018"
+    }, 
+    "AP_duration.Step0.35": {
+        "Std": "0.0238", 
+        "Stimulus": "Step0.35", 
+        "Type": "AP_duration", 
+        "Weight": "1", 
+        "Mean": "1.5232"
+    }, 
+    "AP_duration.Step0.42": {
+        "Std": "0.0152", 
+        "Stimulus": "Step0.42", 
+        "Type": "AP_duration", 
+        "Weight": "1", 
+        "Mean": "1.5637"
+    }, 
+    "AP_duration.Step0.56": {
+        "Std": "0.0073", 
+        "Stimulus": "Step0.56", 
+        "Type": "AP_duration", 
+        "Weight": "1", 
+        "Mean": "1.6273"
+    }, 
+    "AP_duration.Step0.7": {
+        "Std": "0.0024", 
+        "Stimulus": "Step0.7", 
+        "Type": "AP_duration", 
+        "Weight": "1", 
+        "Mean": "1.6615"
+    }, 
+    "AP_duration_change.Step0.21": {
+        "Std": "0.0126", 
+        "Stimulus": "Step0.21", 
+        "Type": "AP_duration_change", 
+        "Weight": "1", 
+        "Mean": "0.0089"
+    }, 
+    "AP_duration_change.Step0.28": {
+        "Std": "0.0211", 
+        "Stimulus": "Step0.28", 
+        "Type": "AP_duration_change", 
+        "Weight": "1", 
+        "Mean": "0.0252"
+    }, 
+    "AP_duration_change.Step0.35": {
+        "Std": "0.0173", 
+        "Stimulus": "Step0.35", 
+        "Type": "AP_duration_change", 
+        "Weight": "1", 
+        "Mean": "0.0892"
+    }, 
+    "AP_duration_change.Step0.42": {
+        "Std": "0.0247", 
+        "Stimulus": "Step0.42", 
+        "Type": "AP_duration_change", 
+        "Weight": "1", 
+        "Mean": "0.0677"
+    }, 
+    "AP_duration_change.Step0.56": {
+        "Std": "0.0019", 
+        "Stimulus": "Step0.56", 
+        "Type": "AP_duration_change", 
+        "Weight": "1", 
+        "Mean": "-0.5875"
+    }, 
+    "AP_duration_change.Step0.7": {
+        "Std": "0.0093", 
+        "Stimulus": "Step0.7", 
+        "Type": "AP_duration_change", 
+        "Weight": "1", 
+        "Mean": "-0.4553"
+    }, 
+    "AP_duration_half_width.Step0.21": {
+        "Std": "0.0166", 
+        "Stimulus": "Step0.21", 
+        "Type": "AP_duration_half_width", 
+        "Weight": "1", 
+        "Mean": "0.4882"
+    }, 
+    "AP_duration_half_width.Step0.28": {
+        "Std": "0.0109", 
+        "Stimulus": "Step0.28", 
+        "Type": "AP_duration_half_width", 
+        "Weight": "1", 
+        "Mean": "0.5023"
+    }, 
+    "AP_duration_half_width.Step0.35": {
+        "Std": "0.0154", 
+        "Stimulus": "Step0.35", 
+        "Type": "AP_duration_half_width", 
+        "Weight": "1", 
+        "Mean": "0.5191"
+    }, 
+    "AP_duration_half_width.Step0.42": {
+        "Std": "0.0059", 
+        "Stimulus": "Step0.42", 
+        "Type": "AP_duration_half_width", 
+        "Weight": "1", 
+        "Mean": "0.5325"
+    }, 
+    "AP_duration_half_width.Step0.56": {
+        "Std": "0.0086", 
+        "Stimulus": "Step0.56", 
+        "Type": "AP_duration_half_width", 
+        "Weight": "1", 
+        "Mean": "0.5565"
+    }, 
+    "AP_duration_half_width.Step0.7": {
+        "Std": "0.005", 
+        "Stimulus": "Step0.7", 
+        "Type": "AP_duration_half_width", 
+        "Weight": "1", 
+        "Mean": "0.5812"
+    }, 
+    "AP_duration_half_width_change.Step0.21": {
+        "Std": "0.0354", 
+        "Stimulus": "Step0.21", 
+        "Type": "AP_duration_half_width_change", 
+        "Weight": "1", 
+        "Mean": "-0.025"
+    }, 
+    "AP_duration_half_width_change.Step0.28": {
+        "Std": "0.0224", 
+        "Stimulus": "Step0.28", 
+        "Type": "AP_duration_half_width_change", 
+        "Weight": "1", 
+        "Mean": "0.0047"
+    }, 
+    "AP_duration_half_width_change.Step0.35": {
+        "Std": "0.0312", 
+        "Stimulus": "Step0.35", 
+        "Type": "AP_duration_half_width_change", 
+        "Weight": "1", 
+        "Mean": "0.0388"
+    }, 
+    "AP_duration_half_width_change.Step0.42": {
+        "Std": "0.0119", 
+        "Stimulus": "Step0.42", 
+        "Type": "AP_duration_half_width_change", 
+        "Weight": "1", 
+        "Mean": "0.0658"
+    }, 
+    "AP_duration_half_width_change.Step0.56": {
+        "Std": "0.0718", 
+        "Stimulus": "Step0.56", 
+        "Type": "AP_duration_half_width_change", 
+        "Weight": "1", 
+        "Mean": "-0.0121"
+    }, 
+    "AP_duration_half_width_change.Step0.7": {
+        "Std": "0.0825", 
+        "Stimulus": "Step0.7", 
+        "Type": "AP_duration_half_width_change", 
+        "Weight": "1", 
+        "Mean": "0.0327"
+    }, 
+    "AP_fall_rate.Step0.21": {
+        "Std": "4.4085", 
+        "Stimulus": "Step0.21", 
+        "Type": "AP_fall_rate", 
+        "Weight": "1", 
+        "Mean": "-81.4605"
+    }, 
+    "AP_fall_rate.Step0.28": {
+        "Std": "5.0803", 
+        "Stimulus": "Step0.28", 
+        "Type": "AP_fall_rate", 
+        "Weight": "1", 
+        "Mean": "-78.6364"
+    }, 
+    "AP_fall_rate.Step0.35": {
+        "Std": "4.4223", 
+        "Stimulus": "Step0.35", 
+        "Type": "AP_fall_rate", 
+        "Weight": "1", 
+        "Mean": "-76.7783"
+    }, 
+    "AP_fall_rate.Step0.42": {
+        "Std": "3.3985", 
+        "Stimulus": "Step0.42", 
+        "Type": "AP_fall_rate", 
+        "Weight": "1", 
+        "Mean": "-73.481"
+    }, 
+    "AP_fall_rate.Step0.56": {
+        "Std": "1.6096", 
+        "Stimulus": "Step0.56", 
+        "Type": "AP_fall_rate", 
+        "Weight": "1", 
+        "Mean": "-69.7922"
+    }, 
+    "AP_fall_rate.Step0.7": {
+        "Std": "0.8401", 
+        "Stimulus": "Step0.7", 
+        "Type": "AP_fall_rate", 
+        "Weight": "1", 
+        "Mean": "-64.8051"
+    }, 
+    "AP_fall_time.Step0.21": {
+        "Std": "0.0139", 
+        "Stimulus": "Step0.21", 
+        "Type": "AP_fall_time", 
+        "Weight": "1", 
+        "Mean": "0.9902"
+    }, 
+    "AP_fall_time.Step0.28": {
+        "Std": "0.0248", 
+        "Stimulus": "Step0.28", 
+        "Type": "AP_fall_time", 
+        "Weight": "1", 
+        "Mean": "1.0125"
+    }, 
+    "AP_fall_time.Step0.35": {
+        "Std": "0.0235", 
+        "Stimulus": "Step0.35", 
+        "Type": "AP_fall_time", 
+        "Weight": "1", 
+        "Mean": "1.0148"
+    }, 
+    "AP_fall_time.Step0.42": {
+        "Std": "0.0215", 
+        "Stimulus": "Step0.42", 
+        "Type": "AP_fall_time", 
+        "Weight": "1", 
+        "Mean": "1.0326"
+    }, 
+    "AP_fall_time.Step0.56": {
+        "Std": "0.0074", 
+        "Stimulus": "Step0.56", 
+        "Type": "AP_fall_time", 
+        "Weight": "1", 
+        "Mean": "1.0435"
+    }, 
+    "AP_fall_time.Step0.7": {
+        "Std": "0.008", 
+        "Stimulus": "Step0.7", 
+        "Type": "AP_fall_time", 
+        "Weight": "1", 
+        "Mean": "1.0617"
+    }, 
+    "AP_height.Step0.21": {
+        "Std": "2.2503", 
+        "Stimulus": "Step0.21", 
+        "Type": "AP_height", 
+        "Weight": "1", 
+        "Mean": "7.4241"
+    }, 
+    "AP_height.Step0.28": {
+        "Std": "2.0578", 
+        "Stimulus": "Step0.28", 
+        "Type": "AP_height", 
+        "Weight": "1", 
+        "Mean": "7.0417"
+    }, 
+    "AP_height.Step0.35": {
+        "Std": "1.5672", 
+        "Stimulus": "Step0.35", 
+        "Type": "AP_height", 
+        "Weight": "1", 
+        "Mean": "6.3938"
+    }, 
+    "AP_height.Step0.42": {
+        "Std": "0.9056", 
+        "Stimulus": "Step0.42", 
+        "Type": "AP_height", 
+        "Weight": "1", 
+        "Mean": "5.5187"
+    }, 
+    "AP_height.Step0.56": {
+        "Std": "0.1124", 
+        "Stimulus": "Step0.56", 
+        "Type": "AP_height", 
+        "Weight": "1", 
+        "Mean": "4.0775"
+    }, 
+    "AP_height.Step0.7": {
+        "Std": "0.3381", 
+        "Stimulus": "Step0.7", 
+        "Type": "AP_height", 
+        "Weight": "1", 
+        "Mean": "1.6757"
+    }, 
+    "AP_rise_rate.Step0.21": {
+        "Std": "9.7852", 
+        "Stimulus": "Step0.21", 
+        "Type": "AP_rise_rate", 
+        "Weight": "1", 
+        "Mean": "133.6567"
+    }, 
+    "AP_rise_rate.Step0.28": {
+        "Std": "4.5449", 
+        "Stimulus": "Step0.28", 
+        "Type": "AP_rise_rate", 
+        "Weight": "1", 
+        "Mean": "130.3258"
+    }, 
+    "AP_rise_rate.Step0.35": {
+        "Std": "4.5589", 
+        "Stimulus": "Step0.35", 
+        "Type": "AP_rise_rate", 
+        "Weight": "1", 
+        "Mean": "125.3756"
+    }, 
+    "AP_rise_rate.Step0.42": {
+        "Std": "1.8325", 
+        "Stimulus": "Step0.42", 
+        "Type": "AP_rise_rate", 
+        "Weight": "1", 
+        "Mean": "117.3976"
+    }, 
+    "AP_rise_rate.Step0.56": {
+        "Std": "1.5856", 
+        "Stimulus": "Step0.56", 
+        "Type": "AP_rise_rate", 
+        "Weight": "1", 
+        "Mean": "104.9979"
+    }, 
+    "AP_rise_rate.Step0.7": {
+        "Std": "0.3617", 
+        "Stimulus": "Step0.7", 
+        "Type": "AP_rise_rate", 
+        "Weight": "1", 
+        "Mean": "94.2037"
+    }, 
+    "AP_rise_rate_change.Step0.21": {
+        "Std": "0.1022", 
+        "Stimulus": "Step0.21", 
+        "Type": "AP_rise_rate_change", 
+        "Weight": "1", 
+        "Mean": "-0.0402"
+    }, 
+    "AP_rise_rate_change.Step0.28": {
+        "Std": "0.0145", 
+        "Stimulus": "Step0.28", 
+        "Type": "AP_rise_rate_change", 
+        "Weight": "1", 
+        "Mean": "-0.0832"
+    }, 
+    "AP_rise_rate_change.Step0.35": {
+        "Std": "0.069", 
+        "Stimulus": "Step0.35", 
+        "Type": "AP_rise_rate_change", 
+        "Weight": "1", 
+        "Mean": "-0.234"
+    }, 
+    "AP_rise_rate_change.Step0.42": {
+        "Std": "0.0044", 
+        "Stimulus": "Step0.42", 
+        "Type": "AP_rise_rate_change", 
+        "Weight": "1", 
+        "Mean": "-0.1766"
+    }, 
+    "AP_rise_rate_change.Step0.56": {
+        "Std": "0.0132", 
+        "Stimulus": "Step0.56", 
+        "Type": "AP_rise_rate_change", 
+        "Weight": "1", 
+        "Mean": "2.4737"
+    }, 
+    "AP_rise_rate_change.Step0.7": {
+        "Std": "0.0606", 
+        "Stimulus": "Step0.7", 
+        "Type": "AP_rise_rate_change", 
+        "Weight": "1", 
+        "Mean": "1.1648"
+    }, 
+    "AP_rise_time.Step0.21": {
+        "Std": "0.0166", 
+        "Stimulus": "Step0.21", 
+        "Type": "AP_rise_time", 
+        "Weight": "1", 
+        "Mean": "0.4882"
+    }, 
+    "AP_rise_time.Step0.28": {
+        "Std": "0.0062", 
+        "Stimulus": "Step0.28", 
+        "Type": "AP_rise_time", 
+        "Weight": "1", 
+        "Mean": "0.4894"
+    }, 
+    "AP_rise_time.Step0.35": {
+        "Std": "0.0003", 
+        "Stimulus": "Step0.35", 
+        "Type": "AP_rise_time", 
+        "Weight": "1", 
+        "Mean": "0.5083"
+    }, 
+    "AP_rise_time.Step0.42": {
+        "Std": "0.0063", 
+        "Stimulus": "Step0.42", 
+        "Type": "AP_rise_time", 
+        "Weight": "1", 
+        "Mean": "0.5311"
+    }, 
+    "AP_rise_time.Step0.56": {
+        "Std": "0.0001", 
+        "Stimulus": "Step0.56", 
+        "Type": "AP_rise_time", 
+        "Weight": "1", 
+        "Mean": "0.5838"
+    }, 
+    "AP_rise_time.Step0.7": {
+        "Std": "0.0056", 
+        "Stimulus": "Step0.7", 
+        "Type": "AP_rise_time", 
+        "Weight": "1", 
+        "Mean": "0.5998"
+    }, 
+    "AP_width.Step0.21": {
+        "Std": "0.0088", 
+        "Stimulus": "Step0.21", 
+        "Type": "AP_width", 
+        "Weight": "1", 
+        "Mean": "0.4313"
+    }, 
+    "AP_width.Step0.28": {
+        "Std": "0.0061", 
+        "Stimulus": "Step0.28", 
+        "Type": "AP_width", 
+        "Weight": "1", 
+        "Mean": "0.4482"
+    }, 
+    "AP_width.Step0.35": {
+        "Std": "0.0048", 
+        "Stimulus": "Step0.35", 
+        "Type": "AP_width", 
+        "Weight": "1", 
+        "Mean": "0.4581"
+    }, 
+    "AP_width.Step0.42": {
+        "Std": "0.0037", 
+        "Stimulus": "Step0.42", 
+        "Type": "AP_width", 
+        "Weight": "1", 
+        "Mean": "0.4652"
+    }, 
+    "AP_width.Step0.56": {
+        "Std": "0.0125", 
+        "Stimulus": "Step0.56", 
+        "Type": "AP_width", 
+        "Weight": "1", 
+        "Mean": "0.4863"
+    }, 
+    "AP_width.Step0.7": {
+        "Std": "0.0102", 
+        "Stimulus": "Step0.7", 
+        "Type": "AP_width", 
+        "Weight": "1", 
+        "Mean": "0.4914"
+    }, 
+    "APlast_amp.Step0.21": {
+        "Std": "3.0204", 
+        "Stimulus": "Step0.21", 
+        "Type": "APlast_amp", 
+        "Weight": "1", 
+        "Mean": "62.8388"
+    }, 
+    "APlast_amp.Step0.28": {
+        "Std": "4.0244", 
+        "Stimulus": "Step0.28", 
+        "Type": "APlast_amp", 
+        "Weight": "1", 
+        "Mean": "60.7067"
+    }, 
+    "APlast_amp.Step0.35": {
+        "Std": "1.6441", 
+        "Stimulus": "Step0.35", 
+        "Type": "APlast_amp", 
+        "Weight": "1", 
+        "Mean": "61.8975"
+    }, 
+    "APlast_amp.Step0.42": {
+        "Std": "1.6105", 
+        "Stimulus": "Step0.42", 
+        "Type": "APlast_amp", 
+        "Weight": "1", 
+        "Mean": "60.3368"
+    }, 
+    "APlast_amp.Step0.56": {
+        "Std": "1.1002", 
+        "Stimulus": "Step0.56", 
+        "Type": "APlast_amp", 
+        "Weight": "1", 
+        "Mean": "57.017"
+    }, 
+    "APlast_amp.Step0.7": {
+        "Std": "0.5725", 
+        "Stimulus": "Step0.7", 
+        "Type": "APlast_amp", 
+        "Weight": "1", 
+        "Mean": "51.8878"
+    }, 
+    "ISI_CV.Step0.21": {
+        "Std": "0.1016", 
+        "Stimulus": "Step0.21", 
+        "Type": "ISI_CV", 
+        "Weight": "1", 
+        "Mean": "0.378"
+    }, 
+    "ISI_CV.Step0.28": {
+        "Std": "0.0219", 
+        "Stimulus": "Step0.28", 
+        "Type": "ISI_CV", 
+        "Weight": "1", 
+        "Mean": "0.187"
+    }, 
+    "ISI_CV.Step0.35": {
+        "Std": "0.0039", 
+        "Stimulus": "Step0.35", 
+        "Type": "ISI_CV", 
+        "Weight": "1", 
+        "Mean": "0.0814"
+    }, 
+    "ISI_CV.Step0.42": {
+        "Std": "0.0024", 
+        "Stimulus": "Step0.42", 
+        "Type": "ISI_CV", 
+        "Weight": "1", 
+        "Mean": "0.0613"
+    }, 
+    "ISI_CV.Step0.56": {
+        "Std": "0.0031", 
+        "Stimulus": "Step0.56", 
+        "Type": "ISI_CV", 
+        "Weight": "1", 
+        "Mean": "0.0397"
+    }, 
+    "ISI_CV.Step0.7": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.7", 
+        "Type": "ISI_CV", 
+        "Weight": "1", 
+        "Mean": "0.0325"
+    }, 
+    "ISI_log_slope.Step0.21": {
+        "Std": "0.0256", 
+        "Stimulus": "Step0.21", 
+        "Type": "ISI_log_slope", 
+        "Weight": "1", 
+        "Mean": "0.1799"
+    }, 
+    "ISI_log_slope.Step0.28": {
+        "Std": "0.0123", 
+        "Stimulus": "Step0.28", 
+        "Type": "ISI_log_slope", 
+        "Weight": "1", 
+        "Mean": "0.104"
+    }, 
+    "ISI_log_slope.Step0.35": {
+        "Std": "0.0077", 
+        "Stimulus": "Step0.35", 
+        "Type": "ISI_log_slope", 
+        "Weight": "1", 
+        "Mean": "0.0635"
+    }, 
+    "ISI_log_slope.Step0.42": {
+        "Std": "0.0018", 
+        "Stimulus": "Step0.42", 
+        "Type": "ISI_log_slope", 
+        "Weight": "1", 
+        "Mean": "0.0429"
+    }, 
+    "ISI_log_slope.Step0.56": {
+        "Std": "0.0007", 
+        "Stimulus": "Step0.56", 
+        "Type": "ISI_log_slope", 
+        "Weight": "1", 
+        "Mean": "0.0206"
+    }, 
+    "ISI_log_slope.Step0.7": {
+        "Std": "0.0007", 
+        "Stimulus": "Step0.7", 
+        "Type": "ISI_log_slope", 
+        "Weight": "1", 
+        "Mean": "0.019"
+    }, 
+    "ISI_log_slope_skip.Step0.21": {
+        "Std": "0.016", 
+        "Stimulus": "Step0.21", 
+        "Type": "ISI_log_slope_skip", 
+        "Weight": "1", 
+        "Mean": "0.1509"
+    }, 
+    "ISI_log_slope_skip.Step0.28": {
+        "Std": "0.0076", 
+        "Stimulus": "Step0.28", 
+        "Type": "ISI_log_slope_skip", 
+        "Weight": "1", 
+        "Mean": "0.0856"
+    }, 
+    "ISI_log_slope_skip.Step0.35": {
+        "Std": "0.0069", 
+        "Stimulus": "Step0.35", 
+        "Type": "ISI_log_slope_skip", 
+        "Weight": "1", 
+        "Mean": "0.0564"
+    }, 
+    "ISI_log_slope_skip.Step0.42": {
+        "Std": "0.0014", 
+        "Stimulus": "Step0.42", 
+        "Type": "ISI_log_slope_skip", 
+        "Weight": "1", 
+        "Mean": "0.0385"
+    }, 
+    "ISI_log_slope_skip.Step0.56": {
+        "Std": "0.0018", 
+        "Stimulus": "Step0.56", 
+        "Type": "ISI_log_slope_skip", 
+        "Weight": "1", 
+        "Mean": "0.0214"
+    }, 
+    "ISI_log_slope_skip.Step0.7": {
+        "Std": "0.0001", 
+        "Stimulus": "Step0.7", 
+        "Type": "ISI_log_slope_skip", 
+        "Weight": "1", 
+        "Mean": "0.0193"
+    }, 
+    "ISI_semilog_slope.Step0.21": {
+        "Std": "0.0288", 
+        "Stimulus": "Step0.21", 
+        "Type": "ISI_semilog_slope", 
+        "Weight": "1", 
+        "Mean": "0.0661"
+    }, 
+    "ISI_semilog_slope.Step0.28": {
+        "Std": "0.0015", 
+        "Stimulus": "Step0.28", 
+        "Type": "ISI_semilog_slope", 
+        "Weight": "1", 
+        "Mean": "0.007"
+    }, 
+    "ISI_semilog_slope.Step0.35": {
+        "Std": "0.0004", 
+        "Stimulus": "Step0.35", 
+        "Type": "ISI_semilog_slope", 
+        "Weight": "1", 
+        "Mean": "0.0029"
+    }, 
+    "ISI_semilog_slope.Step0.42": {
+        "Std": "0.0001", 
+        "Stimulus": "Step0.42", 
+        "Type": "ISI_semilog_slope", 
+        "Weight": "1", 
+        "Mean": "0.0017"
+    }, 
+    "ISI_semilog_slope.Step0.56": {
+        "Std": "0.0001", 
+        "Stimulus": "Step0.56", 
+        "Type": "ISI_semilog_slope", 
+        "Weight": "1", 
+        "Mean": "0.0007"
+    }, 
+    "ISI_semilog_slope.Step0.7": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.7", 
+        "Type": "ISI_semilog_slope", 
+        "Weight": "1", 
+        "Mean": "0.0006"
+    }, 
+    "ISI_values.Step0.21": {
+        "Std": "25.5533", 
+        "Stimulus": "Step0.21", 
+        "Type": "ISI_values", 
+        "Weight": "1", 
+        "Mean": "85.8311"
+    }, 
+    "ISI_values.Step0.28": {
+        "Std": "2.3844", 
+        "Stimulus": "Step0.28", 
+        "Type": "ISI_values", 
+        "Weight": "1", 
+        "Mean": "18.4113"
+    }, 
+    "ISI_values.Step0.35": {
+        "Std": "0.4501", 
+        "Stimulus": "Step0.35", 
+        "Type": "ISI_values", 
+        "Weight": "1", 
+        "Mean": "11.1068"
+    }, 
+    "ISI_values.Step0.42": {
+        "Std": "0.2307", 
+        "Stimulus": "Step0.42", 
+        "Type": "ISI_values", 
+        "Weight": "1", 
+        "Mean": "8.7596"
+    }, 
+    "ISI_values.Step0.56": {
+        "Std": "0.0216", 
+        "Stimulus": "Step0.56", 
+        "Type": "ISI_values", 
+        "Weight": "1", 
+        "Mean": "6.4715"
+    }, 
+    "ISI_values.Step0.7": {
+        "Std": "0.0096", 
+        "Stimulus": "Step0.7", 
+        "Type": "ISI_values", 
+        "Weight": "1", 
+        "Mean": "5.5701"
+    }, 
+    "Spikecount.Step0.014": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.014", 
+        "Type": "Spikecount", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "Spikecount.Step0.028": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.028", 
+        "Type": "Spikecount", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "Spikecount.Step0.042": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.042", 
+        "Type": "Spikecount", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "Spikecount.Step0.056": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.056", 
+        "Type": "Spikecount", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "Spikecount.Step0.07": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.07", 
+        "Type": "Spikecount", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "Spikecount.Step0.084": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.084", 
+        "Type": "Spikecount", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "Spikecount.Step0.098": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.098", 
+        "Type": "Spikecount", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "Spikecount.Step0.112": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.112", 
+        "Type": "Spikecount", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "Spikecount.Step0.126": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.126", 
+        "Type": "Spikecount", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "Spikecount.Step0.14": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.14", 
+        "Type": "Spikecount", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "Spikecount.Step0.21": {
+        "Std": "4.2426", 
+        "Stimulus": "Step0.21", 
+        "Type": "Spikecount", 
+        "Weight": "1", 
+        "Mean": "11.0"
+    }, 
+    "Spikecount.Step0.28": {
+        "Std": "6.1283", 
+        "Stimulus": "Step0.28", 
+        "Type": "Spikecount", 
+        "Weight": "1", 
+        "Mean": "44.3333"
+    }, 
+    "Spikecount.Step0.35": {
+        "Std": "2.8284", 
+        "Stimulus": "Step0.35", 
+        "Type": "Spikecount", 
+        "Weight": "1", 
+        "Mean": "72.0"
+    }, 
+    "Spikecount.Step0.42": {
+        "Std": "2.357", 
+        "Stimulus": "Step0.42", 
+        "Type": "Spikecount", 
+        "Weight": "1", 
+        "Mean": "91.6667"
+    }, 
+    "Spikecount.Step0.56": {
+        "Std": "0.4714", 
+        "Stimulus": "Step0.56", 
+        "Type": "Spikecount", 
+        "Weight": "1", 
+        "Mean": "123.3333"
+    }, 
+    "Spikecount.Step0.7": {
+        "Std": "0.4714", 
+        "Stimulus": "Step0.7", 
+        "Type": "Spikecount", 
+        "Weight": "1", 
+        "Mean": "143.6667"
+    }, 
+    "Spikecount_stimint.Step0.014": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.014", 
+        "Type": "Spikecount_stimint", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "Spikecount_stimint.Step0.028": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.028", 
+        "Type": "Spikecount_stimint", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "Spikecount_stimint.Step0.042": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.042", 
+        "Type": "Spikecount_stimint", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "Spikecount_stimint.Step0.056": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.056", 
+        "Type": "Spikecount_stimint", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "Spikecount_stimint.Step0.07": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.07", 
+        "Type": "Spikecount_stimint", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "Spikecount_stimint.Step0.084": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.084", 
+        "Type": "Spikecount_stimint", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "Spikecount_stimint.Step0.098": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.098", 
+        "Type": "Spikecount_stimint", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "Spikecount_stimint.Step0.112": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.112", 
+        "Type": "Spikecount_stimint", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "Spikecount_stimint.Step0.126": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.126", 
+        "Type": "Spikecount_stimint", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "Spikecount_stimint.Step0.14": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.14", 
+        "Type": "Spikecount_stimint", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "Spikecount_stimint.Step0.21": {
+        "Std": "4.2426", 
+        "Stimulus": "Step0.21", 
+        "Type": "Spikecount_stimint", 
+        "Weight": "1", 
+        "Mean": "11.0"
+    }, 
+    "Spikecount_stimint.Step0.28": {
+        "Std": "6.1283", 
+        "Stimulus": "Step0.28", 
+        "Type": "Spikecount_stimint", 
+        "Weight": "1", 
+        "Mean": "44.3333"
+    }, 
+    "Spikecount_stimint.Step0.35": {
+        "Std": "2.8284", 
+        "Stimulus": "Step0.35", 
+        "Type": "Spikecount_stimint", 
+        "Weight": "1", 
+        "Mean": "72.0"
+    }, 
+    "Spikecount_stimint.Step0.42": {
+        "Std": "2.357", 
+        "Stimulus": "Step0.42", 
+        "Type": "Spikecount_stimint", 
+        "Weight": "1", 
+        "Mean": "91.6667"
+    }, 
+    "Spikecount_stimint.Step0.56": {
+        "Std": "0.4714", 
+        "Stimulus": "Step0.56", 
+        "Type": "Spikecount_stimint", 
+        "Weight": "1", 
+        "Mean": "123.3333"
+    }, 
+    "Spikecount_stimint.Step0.7": {
+        "Std": "0.4714", 
+        "Stimulus": "Step0.7", 
+        "Type": "Spikecount_stimint", 
+        "Weight": "1", 
+        "Mean": "143.6667"
+    }, 
+    "adaptation_index.Step0.21": {
+        "Std": "0.01", 
+        "Stimulus": "Step0.21", 
+        "Type": "adaptation_index", 
+        "Weight": "1", 
+        "Mean": "0.0507"
+    }, 
+    "adaptation_index.Step0.28": {
+        "Std": "0.0038", 
+        "Stimulus": "Step0.28", 
+        "Type": "adaptation_index", 
+        "Weight": "1", 
+        "Mean": "0.007"
+    }, 
+    "adaptation_index.Step0.35": {
+        "Std": "0.0001", 
+        "Stimulus": "Step0.35", 
+        "Type": "adaptation_index", 
+        "Weight": "1", 
+        "Mean": "0.0021"
+    }, 
+    "adaptation_index.Step0.42": {
+        "Std": "0.0002", 
+        "Stimulus": "Step0.42", 
+        "Type": "adaptation_index", 
+        "Weight": "1", 
+        "Mean": "0.0012"
+    }, 
+    "adaptation_index.Step0.56": {
+        "Std": "0.0001", 
+        "Stimulus": "Step0.56", 
+        "Type": "adaptation_index", 
+        "Weight": "1", 
+        "Mean": "0.0003"
+    }, 
+    "adaptation_index.Step0.7": {
+        "Std": "0.0001", 
+        "Stimulus": "Step0.7", 
+        "Type": "adaptation_index", 
+        "Weight": "1", 
+        "Mean": "0.0003"
+    }, 
+    "adaptation_index2.Step0.21": {
+        "Std": "0.0087", 
+        "Stimulus": "Step0.21", 
+        "Type": "adaptation_index2", 
+        "Weight": "1", 
+        "Mean": "0.0516"
+    }, 
+    "adaptation_index2.Step0.28": {
+        "Std": "0.0036", 
+        "Stimulus": "Step0.28", 
+        "Type": "adaptation_index2", 
+        "Weight": "1", 
+        "Mean": "0.0084"
+    }, 
+    "adaptation_index2.Step0.35": {
+        "Std": "0.0001", 
+        "Stimulus": "Step0.35", 
+        "Type": "adaptation_index2", 
+        "Weight": "1", 
+        "Mean": "0.002"
+    }, 
+    "adaptation_index2.Step0.42": {
+        "Std": "0.0003", 
+        "Stimulus": "Step0.42", 
+        "Type": "adaptation_index2", 
+        "Weight": "1", 
+        "Mean": "0.0011"
+    }, 
+    "adaptation_index2.Step0.56": {
+        "Std": "0.0001", 
+        "Stimulus": "Step0.56", 
+        "Type": "adaptation_index2", 
+        "Weight": "1", 
+        "Mean": "0.0003"
+    }, 
+    "adaptation_index2.Step0.7": {
+        "Std": "0.0001", 
+        "Stimulus": "Step0.7", 
+        "Type": "adaptation_index2", 
+        "Weight": "1", 
+        "Mean": "0.0003"
+    }, 
+    "amp_drop_first_last.Step0.21": {
+        "Std": "0.4892", 
+        "Stimulus": "Step0.21", 
+        "Type": "amp_drop_first_last", 
+        "Weight": "1", 
+        "Mean": "0.5779"
+    }, 
+    "amp_drop_first_last.Step0.28": {
+        "Std": "0.6218", 
+        "Stimulus": "Step0.28", 
+        "Type": "amp_drop_first_last", 
+        "Weight": "1", 
+        "Mean": "2.7657"
+    }, 
+    "amp_drop_first_last.Step0.35": {
+        "Std": "1.0345", 
+        "Stimulus": "Step0.35", 
+        "Type": "amp_drop_first_last", 
+        "Weight": "1", 
+        "Mean": "3.2005"
+    }, 
+    "amp_drop_first_last.Step0.42": {
+        "Std": "0.3705", 
+        "Stimulus": "Step0.42", 
+        "Type": "amp_drop_first_last", 
+        "Weight": "1", 
+        "Mean": "3.205"
+    }, 
+    "amp_drop_first_last.Step0.56": {
+        "Std": "0.942", 
+        "Stimulus": "Step0.56", 
+        "Type": "amp_drop_first_last", 
+        "Weight": "1", 
+        "Mean": "6.7831"
+    }, 
+    "amp_drop_first_last.Step0.7": {
+        "Std": "1.15", 
+        "Stimulus": "Step0.7", 
+        "Type": "amp_drop_first_last", 
+        "Weight": "1", 
+        "Mean": "10.0342"
+    }, 
+    "amp_drop_first_second.Step0.21": {
+        "Std": "0.6593", 
+        "Stimulus": "Step0.21", 
+        "Type": "amp_drop_first_second", 
+        "Weight": "1", 
+        "Mean": "-0.8648"
+    }, 
+    "amp_drop_first_second.Step0.28": {
+        "Std": "0.38", 
+        "Stimulus": "Step0.28", 
+        "Type": "amp_drop_first_second", 
+        "Weight": "1", 
+        "Mean": "0.5357"
+    }, 
+    "amp_drop_first_second.Step0.35": {
+        "Std": "0.6988", 
+        "Stimulus": "Step0.35", 
+        "Type": "amp_drop_first_second", 
+        "Weight": "1", 
+        "Mean": "0.8231"
+    }, 
+    "amp_drop_first_second.Step0.42": {
+        "Std": "0.187", 
+        "Stimulus": "Step0.42", 
+        "Type": "amp_drop_first_second", 
+        "Weight": "1", 
+        "Mean": "1.1218"
+    }, 
+    "amp_drop_first_second.Step0.56": {
+        "Std": "0.4451", 
+        "Stimulus": "Step0.56", 
+        "Type": "amp_drop_first_second", 
+        "Weight": "1", 
+        "Mean": "3.0898"
+    }, 
+    "amp_drop_first_second.Step0.7": {
+        "Std": "1.4266", 
+        "Stimulus": "Step0.7", 
+        "Type": "amp_drop_first_second", 
+        "Weight": "1", 
+        "Mean": "4.2608"
+    }, 
+    "amp_drop_second_last.Step0.21": {
+        "Std": "0.1701", 
+        "Stimulus": "Step0.21", 
+        "Type": "amp_drop_second_last", 
+        "Weight": "1", 
+        "Mean": "1.4427"
+    }, 
+    "amp_drop_second_last.Step0.28": {
+        "Std": "0.2418", 
+        "Stimulus": "Step0.28", 
+        "Type": "amp_drop_second_last", 
+        "Weight": "1", 
+        "Mean": "2.23"
+    }, 
+    "amp_drop_second_last.Step0.35": {
+        "Std": "0.3358", 
+        "Stimulus": "Step0.35", 
+        "Type": "amp_drop_second_last", 
+        "Weight": "1", 
+        "Mean": "2.3774"
+    }, 
+    "amp_drop_second_last.Step0.42": {
+        "Std": "0.5575", 
+        "Stimulus": "Step0.42", 
+        "Type": "amp_drop_second_last", 
+        "Weight": "1", 
+        "Mean": "2.0832"
+    }, 
+    "amp_drop_second_last.Step0.56": {
+        "Std": "0.4969", 
+        "Stimulus": "Step0.56", 
+        "Type": "amp_drop_second_last", 
+        "Weight": "1", 
+        "Mean": "3.6933"
+    }, 
+    "amp_drop_second_last.Step0.7": {
+        "Std": "0.2766", 
+        "Stimulus": "Step0.7", 
+        "Type": "amp_drop_second_last", 
+        "Weight": "1", 
+        "Mean": "5.7734"
+    }, 
+    "burst_mean_freq.Step0.21": {
+        "Std": "8.1348", 
+        "Stimulus": "Step0.21", 
+        "Type": "burst_mean_freq", 
+        "Weight": "1", 
+        "Mean": "17.4927"
+    }, 
+    "burst_mean_freq.Step0.28": {
+        "Std": "0.8852", 
+        "Stimulus": "Step0.28", 
+        "Type": "burst_mean_freq", 
+        "Weight": "1", 
+        "Mean": "66.819"
+    }, 
+    "burst_mean_freq.Step0.35": {
+        "Std": "3.7661", 
+        "Stimulus": "Step0.35", 
+        "Type": "burst_mean_freq", 
+        "Weight": "1", 
+        "Mean": "91.5632"
+    }, 
+    "burst_mean_freq.Step0.42": {
+        "Std": "3.0848", 
+        "Stimulus": "Step0.42", 
+        "Type": "burst_mean_freq", 
+        "Weight": "1", 
+        "Mean": "115.6172"
+    }, 
+    "burst_mean_freq.Step0.56": {
+        "Std": "0.5026", 
+        "Stimulus": "Step0.56", 
+        "Type": "burst_mean_freq", 
+        "Weight": "1", 
+        "Mean": "155.8351"
+    }, 
+    "burst_mean_freq.Step0.7": {
+        "Std": "0.3255", 
+        "Stimulus": "Step0.7", 
+        "Type": "burst_mean_freq", 
+        "Weight": "1", 
+        "Mean": "180.8336"
+    }, 
+    "burst_number.Step0.21": {
+        "Std": "0.9428", 
+        "Stimulus": "Step0.21", 
+        "Type": "burst_number", 
+        "Weight": "1", 
+        "Mean": "1.6667"
+    }, 
+    "burst_number.Step0.28": {
+        "Std": "0.4714", 
+        "Stimulus": "Step0.28", 
+        "Type": "burst_number", 
+        "Weight": "1", 
+        "Mean": "1.6667"
+    }, 
+    "burst_number.Step0.35": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.35", 
+        "Type": "burst_number", 
+        "Weight": "1", 
+        "Mean": "1.0"
+    }, 
+    "burst_number.Step0.42": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.42", 
+        "Type": "burst_number", 
+        "Weight": "1", 
+        "Mean": "1.0"
+    }, 
+    "burst_number.Step0.56": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.56", 
+        "Type": "burst_number", 
+        "Weight": "1", 
+        "Mean": "1.0"
+    }, 
+    "burst_number.Step0.7": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.7", 
+        "Type": "burst_number", 
+        "Weight": "1", 
+        "Mean": "1.0"
+    }, 
+    "decay_time_constant_after_stim.Step-0.014": {
+        "Std": "7.8158", 
+        "Stimulus": "Step-0.014", 
+        "Type": "decay_time_constant_after_stim", 
+        "Weight": "1", 
+        "Mean": "11.5804"
+    }, 
+    "decay_time_constant_after_stim.Step-0.028": {
+        "Std": "1178.2799", 
+        "Stimulus": "Step-0.028", 
+        "Type": "decay_time_constant_after_stim", 
+        "Weight": "1", 
+        "Mean": "1670.4118"
+    }, 
+    "decay_time_constant_after_stim.Step-0.042": {
+        "Std": "5.5965", 
+        "Stimulus": "Step-0.042", 
+        "Type": "decay_time_constant_after_stim", 
+        "Weight": "1", 
+        "Mean": "17.4065"
+    }, 
+    "decay_time_constant_after_stim.Step-0.056": {
+        "Std": "3.1548", 
+        "Stimulus": "Step-0.056", 
+        "Type": "decay_time_constant_after_stim", 
+        "Weight": "1", 
+        "Mean": "6.824"
+    }, 
+    "decay_time_constant_after_stim.Step-0.07": {
+        "Std": "1.6705", 
+        "Stimulus": "Step-0.07", 
+        "Type": "decay_time_constant_after_stim", 
+        "Weight": "1", 
+        "Mean": "12.0345"
+    }, 
+    "decay_time_constant_after_stim.Step-0.084": {
+        "Std": "4.3591", 
+        "Stimulus": "Step-0.084", 
+        "Type": "decay_time_constant_after_stim", 
+        "Weight": "1", 
+        "Mean": "10.7136"
+    }, 
+    "decay_time_constant_after_stim.Step-0.098": {
+        "Std": "1.4189", 
+        "Stimulus": "Step-0.098", 
+        "Type": "decay_time_constant_after_stim", 
+        "Weight": "1", 
+        "Mean": "10.1192"
+    }, 
+    "decay_time_constant_after_stim.Step-0.112": {
+        "Std": "1.1964", 
+        "Stimulus": "Step-0.112", 
+        "Type": "decay_time_constant_after_stim", 
+        "Weight": "1", 
+        "Mean": "8.5512"
+    }, 
+    "decay_time_constant_after_stim.Step-0.126": {
+        "Std": "0.8258", 
+        "Stimulus": "Step-0.126", 
+        "Type": "decay_time_constant_after_stim", 
+        "Weight": "1", 
+        "Mean": "9.5021"
+    }, 
+    "decay_time_constant_after_stim.Step-0.14": {
+        "Std": "0.4602", 
+        "Stimulus": "Step-0.14", 
+        "Type": "decay_time_constant_after_stim", 
+        "Weight": "1", 
+        "Mean": "8.6944"
+    }, 
+    "decay_time_constant_after_stim.Step0.014": {
+        "Std": "5.6937", 
+        "Stimulus": "Step0.014", 
+        "Type": "decay_time_constant_after_stim", 
+        "Weight": "1", 
+        "Mean": "7.3013"
+    }, 
+    "decay_time_constant_after_stim.Step0.028": {
+        "Std": "0.7809", 
+        "Stimulus": "Step0.028", 
+        "Type": "decay_time_constant_after_stim", 
+        "Weight": "1", 
+        "Mean": "6.0587"
+    }, 
+    "decay_time_constant_after_stim.Step0.042": {
+        "Std": "1.3462", 
+        "Stimulus": "Step0.042", 
+        "Type": "decay_time_constant_after_stim", 
+        "Weight": "1", 
+        "Mean": "5.8672"
+    }, 
+    "decay_time_constant_after_stim.Step0.056": {
+        "Std": "1.4492", 
+        "Stimulus": "Step0.056", 
+        "Type": "decay_time_constant_after_stim", 
+        "Weight": "1", 
+        "Mean": "7.5537"
+    }, 
+    "decay_time_constant_after_stim.Step0.07": {
+        "Std": "2.7105", 
+        "Stimulus": "Step0.07", 
+        "Type": "decay_time_constant_after_stim", 
+        "Weight": "1", 
+        "Mean": "8.9585"
+    }, 
+    "decay_time_constant_after_stim.Step0.084": {
+        "Std": "1.6523", 
+        "Stimulus": "Step0.084", 
+        "Type": "decay_time_constant_after_stim", 
+        "Weight": "1", 
+        "Mean": "8.1806"
+    }, 
+    "decay_time_constant_after_stim.Step0.098": {
+        "Std": "0.7944", 
+        "Stimulus": "Step0.098", 
+        "Type": "decay_time_constant_after_stim", 
+        "Weight": "1", 
+        "Mean": "5.1425"
+    }, 
+    "decay_time_constant_after_stim.Step0.112": {
+        "Std": "1.1571", 
+        "Stimulus": "Step0.112", 
+        "Type": "decay_time_constant_after_stim", 
+        "Weight": "1", 
+        "Mean": "9.1554"
+    }, 
+    "decay_time_constant_after_stim.Step0.126": {
+        "Std": "0.6482", 
+        "Stimulus": "Step0.126", 
+        "Type": "decay_time_constant_after_stim", 
+        "Weight": "1", 
+        "Mean": "8.725"
+    }, 
+    "decay_time_constant_after_stim.Step0.14": {
+        "Std": "0.1668", 
+        "Stimulus": "Step0.14", 
+        "Type": "decay_time_constant_after_stim", 
+        "Weight": "1", 
+        "Mean": "8.2206"
+    }, 
+    "decay_time_constant_after_stim.Step0.21": {
+        "Std": "0.2942", 
+        "Stimulus": "Step0.21", 
+        "Type": "decay_time_constant_after_stim", 
+        "Weight": "1", 
+        "Mean": "8.2468"
+    }, 
+    "decay_time_constant_after_stim.Step0.28": {
+        "Std": "0.0051", 
+        "Stimulus": "Step0.28", 
+        "Type": "decay_time_constant_after_stim", 
+        "Weight": "1", 
+        "Mean": "7.5189"
+    }, 
+    "decay_time_constant_after_stim.Step0.35": {
+        "Std": "0.3891", 
+        "Stimulus": "Step0.35", 
+        "Type": "decay_time_constant_after_stim", 
+        "Weight": "1", 
+        "Mean": "7.168"
+    }, 
+    "decay_time_constant_after_stim.Step0.42": {
+        "Std": "0.5797", 
+        "Stimulus": "Step0.42", 
+        "Type": "decay_time_constant_after_stim", 
+        "Weight": "1", 
+        "Mean": "7.7052"
+    }, 
+    "decay_time_constant_after_stim.Step0.56": {
+        "Std": "0.2622", 
+        "Stimulus": "Step0.56", 
+        "Type": "decay_time_constant_after_stim", 
+        "Weight": "1", 
+        "Mean": "7.1605"
+    }, 
+    "decay_time_constant_after_stim.Step0.7": {
+        "Std": "0.4564", 
+        "Stimulus": "Step0.7", 
+        "Type": "decay_time_constant_after_stim", 
+        "Weight": "1", 
+        "Mean": "7.5408"
+    }, 
+    "doublet_ISI.Step0.21": {
+        "Std": "9.5224", 
+        "Stimulus": "Step0.21", 
+        "Type": "doublet_ISI", 
+        "Weight": "1", 
+        "Mean": "51.2667"
+    }, 
+    "doublet_ISI.Step0.28": {
+        "Std": "1.3671", 
+        "Stimulus": "Step0.28", 
+        "Type": "doublet_ISI", 
+        "Weight": "1", 
+        "Mean": "13.5333"
+    }, 
+    "doublet_ISI.Step0.35": {
+        "Std": "0.4243", 
+        "Stimulus": "Step0.35", 
+        "Type": "doublet_ISI", 
+        "Weight": "1", 
+        "Mean": "10.2"
+    }, 
+    "doublet_ISI.Step0.42": {
+        "Std": "0.33", 
+        "Stimulus": "Step0.42", 
+        "Type": "doublet_ISI", 
+        "Weight": "1", 
+        "Mean": "7.9667"
+    }, 
+    "doublet_ISI.Step0.56": {
+        "Std": "0.0471", 
+        "Stimulus": "Step0.56", 
+        "Type": "doublet_ISI", 
+        "Weight": "1", 
+        "Mean": "6.2333"
+    }, 
+    "doublet_ISI.Step0.7": {
+        "Std": "0.0943", 
+        "Stimulus": "Step0.7", 
+        "Type": "doublet_ISI", 
+        "Weight": "1", 
+        "Mean": "5.3667"
+    }, 
+    "fast_AHP.Step0.21": {
+        "Std": "0.934", 
+        "Stimulus": "Step0.21", 
+        "Type": "fast_AHP", 
+        "Weight": "1", 
+        "Mean": "16.833"
+    }, 
+    "fast_AHP.Step0.28": {
+        "Std": "0.2158", 
+        "Stimulus": "Step0.28", 
+        "Type": "fast_AHP", 
+        "Weight": "1", 
+        "Mean": "16.8812"
+    }, 
+    "fast_AHP.Step0.35": {
+        "Std": "0.262", 
+        "Stimulus": "Step0.35", 
+        "Type": "fast_AHP", 
+        "Weight": "1", 
+        "Mean": "15.3698"
+    }, 
+    "fast_AHP.Step0.42": {
+        "Std": "0.176", 
+        "Stimulus": "Step0.42", 
+        "Type": "fast_AHP", 
+        "Weight": "1", 
+        "Mean": "14.8462"
+    }, 
+    "fast_AHP.Step0.56": {
+        "Std": "0.1983", 
+        "Stimulus": "Step0.56", 
+        "Type": "fast_AHP", 
+        "Weight": "1", 
+        "Mean": "14.3258"
+    }, 
+    "fast_AHP.Step0.7": {
+        "Std": "0.1017", 
+        "Stimulus": "Step0.7", 
+        "Type": "fast_AHP", 
+        "Weight": "1", 
+        "Mean": "14.145"
+    }, 
+    "fast_AHP_change.Step0.21": {
+        "Std": "0.0724", 
+        "Stimulus": "Step0.21", 
+        "Type": "fast_AHP_change", 
+        "Weight": "1", 
+        "Mean": "0.0113"
+    }, 
+    "fast_AHP_change.Step0.28": {
+        "Std": "0.0314", 
+        "Stimulus": "Step0.28", 
+        "Type": "fast_AHP_change", 
+        "Weight": "1", 
+        "Mean": "0.2992"
+    }, 
+    "fast_AHP_change.Step0.35": {
+        "Std": "0.0585", 
+        "Stimulus": "Step0.35", 
+        "Type": "fast_AHP_change", 
+        "Weight": "1", 
+        "Mean": "0.168"
+    }, 
+    "fast_AHP_change.Step0.42": {
+        "Std": "0.05", 
+        "Stimulus": "Step0.42", 
+        "Type": "fast_AHP_change", 
+        "Weight": "1", 
+        "Mean": "0.2416"
+    }, 
+    "fast_AHP_change.Step0.56": {
+        "Std": "0.1663", 
+        "Stimulus": "Step0.56", 
+        "Type": "fast_AHP_change", 
+        "Weight": "1", 
+        "Mean": "-3.2821"
+    }, 
+    "fast_AHP_change.Step0.7": {
+        "Std": "0.0226", 
+        "Stimulus": "Step0.7", 
+        "Type": "fast_AHP_change", 
+        "Weight": "1", 
+        "Mean": "-3.7744"
+    }, 
+    "initburst_sahp.Step0.28": {
+        "Std": "0.2158", 
+        "Stimulus": "Step0.28", 
+        "Type": "initburst_sahp", 
+        "Weight": "1", 
+        "Mean": "-67.4176"
+    }, 
+    "initburst_sahp.Step0.35": {
+        "Std": "0.2144", 
+        "Stimulus": "Step0.35", 
+        "Type": "initburst_sahp", 
+        "Weight": "1", 
+        "Mean": "-65.0346"
+    }, 
+    "initburst_sahp_ssse.Step0.28": {
+        "Std": "0.628", 
+        "Stimulus": "Step0.28", 
+        "Type": "initburst_sahp_ssse", 
+        "Weight": "1", 
+        "Mean": "-5.6849"
+    }, 
+    "initburst_sahp_ssse.Step0.35": {
+        "Std": "0.3532", 
+        "Stimulus": "Step0.35", 
+        "Type": "initburst_sahp_ssse", 
+        "Weight": "1", 
+        "Mean": "-4.5042"
+    }, 
+    "initburst_sahp_vb.Step0.28": {
+        "Std": "0.3323", 
+        "Stimulus": "Step0.28", 
+        "Type": "initburst_sahp_vb", 
+        "Weight": "1", 
+        "Mean": "12.5616"
+    }, 
+    "initburst_sahp_vb.Step0.35": {
+        "Std": "1.0244", 
+        "Stimulus": "Step0.35", 
+        "Type": "initburst_sahp_vb", 
+        "Weight": "1", 
+        "Mean": "15.8889"
+    }, 
+    "inv_fifth_ISI.Step0.014": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.014", 
+        "Type": "inv_fifth_ISI", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "inv_fifth_ISI.Step0.028": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.028", 
+        "Type": "inv_fifth_ISI", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "inv_fifth_ISI.Step0.042": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.042", 
+        "Type": "inv_fifth_ISI", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "inv_fifth_ISI.Step0.056": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.056", 
+        "Type": "inv_fifth_ISI", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "inv_fifth_ISI.Step0.07": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.07", 
+        "Type": "inv_fifth_ISI", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "inv_fifth_ISI.Step0.084": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.084", 
+        "Type": "inv_fifth_ISI", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "inv_fifth_ISI.Step0.098": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.098", 
+        "Type": "inv_fifth_ISI", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "inv_fifth_ISI.Step0.112": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.112", 
+        "Type": "inv_fifth_ISI", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "inv_fifth_ISI.Step0.126": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.126", 
+        "Type": "inv_fifth_ISI", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "inv_fifth_ISI.Step0.14": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.14", 
+        "Type": "inv_fifth_ISI", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "inv_fifth_ISI.Step0.21": {
+        "Std": "10.4476", 
+        "Stimulus": "Step0.21", 
+        "Type": "inv_fifth_ISI", 
+        "Weight": "1", 
+        "Mean": "23.8349"
+    }, 
+    "inv_fifth_ISI.Step0.28": {
+        "Std": "8.4215", 
+        "Stimulus": "Step0.28", 
+        "Type": "inv_fifth_ISI", 
+        "Weight": "1", 
+        "Mean": "70.0574"
+    }, 
+    "inv_fifth_ISI.Step0.35": {
+        "Std": "6.907", 
+        "Stimulus": "Step0.35", 
+        "Type": "inv_fifth_ISI", 
+        "Weight": "1", 
+        "Mean": "100.1221"
+    }, 
+    "inv_fifth_ISI.Step0.42": {
+        "Std": "8.244", 
+        "Stimulus": "Step0.42", 
+        "Type": "inv_fifth_ISI", 
+        "Weight": "1", 
+        "Mean": "123.4764"
+    }, 
+    "inv_fifth_ISI.Step0.56": {
+        "Std": "2.376", 
+        "Stimulus": "Step0.56", 
+        "Type": "inv_fifth_ISI", 
+        "Weight": "1", 
+        "Mean": "157.9301"
+    }, 
+    "inv_fifth_ISI.Step0.7": {
+        "Std": "1.5305", 
+        "Stimulus": "Step0.7", 
+        "Type": "inv_fifth_ISI", 
+        "Weight": "1", 
+        "Mean": "179.6537"
+    }, 
+    "inv_first_ISI.Step0.014": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.014", 
+        "Type": "inv_first_ISI", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "inv_first_ISI.Step0.028": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.028", 
+        "Type": "inv_first_ISI", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "inv_first_ISI.Step0.042": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.042", 
+        "Type": "inv_first_ISI", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "inv_first_ISI.Step0.056": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.056", 
+        "Type": "inv_first_ISI", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "inv_first_ISI.Step0.07": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.07", 
+        "Type": "inv_first_ISI", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "inv_first_ISI.Step0.084": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.084", 
+        "Type": "inv_first_ISI", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "inv_first_ISI.Step0.098": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.098", 
+        "Type": "inv_first_ISI", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "inv_first_ISI.Step0.112": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.112", 
+        "Type": "inv_first_ISI", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "inv_first_ISI.Step0.126": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.126", 
+        "Type": "inv_first_ISI", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "inv_first_ISI.Step0.14": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.14", 
+        "Type": "inv_first_ISI", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "inv_first_ISI.Step0.21": {
+        "Std": "4.3434", 
+        "Stimulus": "Step0.21", 
+        "Type": "inv_first_ISI", 
+        "Weight": "1", 
+        "Mean": "20.3126"
+    }, 
+    "inv_first_ISI.Step0.28": {
+        "Std": "8.1277", 
+        "Stimulus": "Step0.28", 
+        "Type": "inv_first_ISI", 
+        "Weight": "1", 
+        "Mean": "74.7126"
+    }, 
+    "inv_first_ISI.Step0.35": {
+        "Std": "4.209", 
+        "Stimulus": "Step0.35", 
+        "Type": "inv_first_ISI", 
+        "Weight": "1", 
+        "Mean": "98.2143"
+    }, 
+    "inv_first_ISI.Step0.42": {
+        "Std": "5.3656", 
+        "Stimulus": "Step0.42", 
+        "Type": "inv_first_ISI", 
+        "Weight": "1", 
+        "Mean": "125.7453"
+    }, 
+    "inv_first_ISI.Step0.56": {
+        "Std": "1.2069", 
+        "Stimulus": "Step0.56", 
+        "Type": "inv_first_ISI", 
+        "Weight": "1", 
+        "Mean": "160.4369"
+    }, 
+    "inv_first_ISI.Step0.7": {
+        "Std": "3.2343", 
+        "Stimulus": "Step0.7", 
+        "Type": "inv_first_ISI", 
+        "Weight": "1", 
+        "Mean": "186.3922"
+    }, 
+    "inv_fourth_ISI.Step0.014": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.014", 
+        "Type": "inv_fourth_ISI", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "inv_fourth_ISI.Step0.028": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.028", 
+        "Type": "inv_fourth_ISI", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "inv_fourth_ISI.Step0.042": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.042", 
+        "Type": "inv_fourth_ISI", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "inv_fourth_ISI.Step0.056": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.056", 
+        "Type": "inv_fourth_ISI", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "inv_fourth_ISI.Step0.07": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.07", 
+        "Type": "inv_fourth_ISI", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "inv_fourth_ISI.Step0.084": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.084", 
+        "Type": "inv_fourth_ISI", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "inv_fourth_ISI.Step0.098": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.098", 
+        "Type": "inv_fourth_ISI", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "inv_fourth_ISI.Step0.112": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.112", 
+        "Type": "inv_fourth_ISI", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "inv_fourth_ISI.Step0.126": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.126", 
+        "Type": "inv_fourth_ISI", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "inv_fourth_ISI.Step0.14": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.14", 
+        "Type": "inv_fourth_ISI", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "inv_fourth_ISI.Step0.21": {
+        "Std": "7.0737", 
+        "Stimulus": "Step0.21", 
+        "Type": "inv_fourth_ISI", 
+        "Weight": "1", 
+        "Mean": "15.1852"
+    }, 
+    "inv_fourth_ISI.Step0.28": {
+        "Std": "7.1032", 
+        "Stimulus": "Step0.28", 
+        "Type": "inv_fourth_ISI", 
+        "Weight": "1", 
+        "Mean": "73.9882"
+    }, 
+    "inv_fourth_ISI.Step0.35": {
+        "Std": "0.4487", 
+        "Stimulus": "Step0.35", 
+        "Type": "inv_fourth_ISI", 
+        "Weight": "1", 
+        "Mean": "97.4047"
+    }, 
+    "inv_fourth_ISI.Step0.42": {
+        "Std": "2.2958", 
+        "Stimulus": "Step0.42", 
+        "Type": "inv_fourth_ISI", 
+        "Weight": "1", 
+        "Mean": "126.6234"
+    }, 
+    "inv_fourth_ISI.Step0.56": {
+        "Std": "3.5092", 
+        "Stimulus": "Step0.56", 
+        "Type": "inv_fourth_ISI", 
+        "Weight": "1", 
+        "Mean": "156.3275"
+    }, 
+    "inv_fourth_ISI.Step0.7": {
+        "Std": "3.2343", 
+        "Stimulus": "Step0.7", 
+        "Type": "inv_fourth_ISI", 
+        "Weight": "1", 
+        "Mean": "184.1052"
+    }, 
+    "inv_last_ISI.Step0.014": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.014", 
+        "Type": "inv_last_ISI", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "inv_last_ISI.Step0.028": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.028", 
+        "Type": "inv_last_ISI", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "inv_last_ISI.Step0.042": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.042", 
+        "Type": "inv_last_ISI", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "inv_last_ISI.Step0.056": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.056", 
+        "Type": "inv_last_ISI", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "inv_last_ISI.Step0.07": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.07", 
+        "Type": "inv_last_ISI", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "inv_last_ISI.Step0.084": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.084", 
+        "Type": "inv_last_ISI", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "inv_last_ISI.Step0.098": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.098", 
+        "Type": "inv_last_ISI", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "inv_last_ISI.Step0.112": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.112", 
+        "Type": "inv_last_ISI", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "inv_last_ISI.Step0.126": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.126", 
+        "Type": "inv_last_ISI", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "inv_last_ISI.Step0.14": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.14", 
+        "Type": "inv_last_ISI", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "inv_last_ISI.Step0.21": {
+        "Std": "2.3438", 
+        "Stimulus": "Step0.21", 
+        "Type": "inv_last_ISI", 
+        "Weight": "1", 
+        "Mean": "8.2061"
+    }, 
+    "inv_last_ISI.Step0.28": {
+        "Std": "15.7408", 
+        "Stimulus": "Step0.28", 
+        "Type": "inv_last_ISI", 
+        "Weight": "1", 
+        "Mean": "41.4334"
+    }, 
+    "inv_last_ISI.Step0.35": {
+        "Std": "0.5939", 
+        "Stimulus": "Step0.35", 
+        "Type": "inv_last_ISI", 
+        "Weight": "1", 
+        "Mean": "79.5801"
+    }, 
+    "inv_last_ISI.Step0.42": {
+        "Std": "6.4282", 
+        "Stimulus": "Step0.42", 
+        "Type": "inv_last_ISI", 
+        "Weight": "1", 
+        "Mean": "104.5455"
+    }, 
+    "inv_last_ISI.Step0.56": {
+        "Std": "1.9807", 
+        "Stimulus": "Step0.56", 
+        "Type": "inv_last_ISI", 
+        "Weight": "1", 
+        "Mean": "145.6583"
+    }, 
+    "inv_last_ISI.Step0.7": {
+        "Std": "1.3776", 
+        "Stimulus": "Step0.7", 
+        "Type": "inv_last_ISI", 
+        "Weight": "1", 
+        "Mean": "170.4656"
+    }, 
+    "inv_second_ISI.Step0.014": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.014", 
+        "Type": "inv_second_ISI", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "inv_second_ISI.Step0.028": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.028", 
+        "Type": "inv_second_ISI", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "inv_second_ISI.Step0.042": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.042", 
+        "Type": "inv_second_ISI", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "inv_second_ISI.Step0.056": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.056", 
+        "Type": "inv_second_ISI", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "inv_second_ISI.Step0.07": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.07", 
+        "Type": "inv_second_ISI", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "inv_second_ISI.Step0.084": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.084", 
+        "Type": "inv_second_ISI", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "inv_second_ISI.Step0.098": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.098", 
+        "Type": "inv_second_ISI", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "inv_second_ISI.Step0.112": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.112", 
+        "Type": "inv_second_ISI", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "inv_second_ISI.Step0.126": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.126", 
+        "Type": "inv_second_ISI", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "inv_second_ISI.Step0.14": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.14", 
+        "Type": "inv_second_ISI", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "inv_second_ISI.Step0.21": {
+        "Std": "7.9665", 
+        "Stimulus": "Step0.21", 
+        "Type": "inv_second_ISI", 
+        "Weight": "1", 
+        "Mean": "17.5521"
+    }, 
+    "inv_second_ISI.Step0.28": {
+        "Std": "9.1243", 
+        "Stimulus": "Step0.28", 
+        "Type": "inv_second_ISI", 
+        "Weight": "1", 
+        "Mean": "76.382"
+    }, 
+    "inv_second_ISI.Step0.35": {
+        "Std": "2.6412", 
+        "Stimulus": "Step0.35", 
+        "Type": "inv_second_ISI", 
+        "Weight": "1", 
+        "Mean": "104.9604"
+    }, 
+    "inv_second_ISI.Step0.42": {
+        "Std": "1.5499", 
+        "Stimulus": "Step0.42", 
+        "Type": "inv_second_ISI", 
+        "Weight": "1", 
+        "Mean": "127.6782"
+    }, 
+    "inv_second_ISI.Step0.56": {
+        "Std": "3.5092", 
+        "Stimulus": "Step0.56", 
+        "Type": "inv_second_ISI", 
+        "Weight": "1", 
+        "Mean": "156.3275"
+    }, 
+    "inv_second_ISI.Step0.7": {
+        "Std": "6.4753", 
+        "Stimulus": "Step0.7", 
+        "Type": "inv_second_ISI", 
+        "Weight": "1", 
+        "Mean": "183.1502"
+    }, 
+    "inv_third_ISI.Step0.014": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.014", 
+        "Type": "inv_third_ISI", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "inv_third_ISI.Step0.028": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.028", 
+        "Type": "inv_third_ISI", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "inv_third_ISI.Step0.042": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.042", 
+        "Type": "inv_third_ISI", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "inv_third_ISI.Step0.056": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.056", 
+        "Type": "inv_third_ISI", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "inv_third_ISI.Step0.07": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.07", 
+        "Type": "inv_third_ISI", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "inv_third_ISI.Step0.084": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.084", 
+        "Type": "inv_third_ISI", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "inv_third_ISI.Step0.098": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.098", 
+        "Type": "inv_third_ISI", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "inv_third_ISI.Step0.112": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.112", 
+        "Type": "inv_third_ISI", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "inv_third_ISI.Step0.126": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.126", 
+        "Type": "inv_third_ISI", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "inv_third_ISI.Step0.14": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.14", 
+        "Type": "inv_third_ISI", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "inv_third_ISI.Step0.21": {
+        "Std": "7.1444", 
+        "Stimulus": "Step0.21", 
+        "Type": "inv_third_ISI", 
+        "Weight": "1", 
+        "Mean": "14.6488"
+    }, 
+    "inv_third_ISI.Step0.28": {
+        "Std": "5.8997", 
+        "Stimulus": "Step0.28", 
+        "Type": "inv_third_ISI", 
+        "Weight": "1", 
+        "Mean": "66.2835"
+    }, 
+    "inv_third_ISI.Step0.35": {
+        "Std": "2.135", 
+        "Stimulus": "Step0.35", 
+        "Type": "inv_third_ISI", 
+        "Weight": "1", 
+        "Mean": "105.6763"
+    }, 
+    "inv_third_ISI.Step0.42": {
+        "Std": "4.7777", 
+        "Stimulus": "Step0.42", 
+        "Type": "inv_third_ISI", 
+        "Weight": "1", 
+        "Mean": "128.3784"
+    }, 
+    "inv_third_ISI.Step0.56": {
+        "Std": "2.376", 
+        "Stimulus": "Step0.56", 
+        "Type": "inv_third_ISI", 
+        "Weight": "1", 
+        "Mean": "157.9301"
+    }, 
+    "inv_third_ISI.Step0.7": {
+        "Std": "3.1178", 
+        "Stimulus": "Step0.7", 
+        "Type": "inv_third_ISI", 
+        "Weight": "1", 
+        "Mean": "182.9806"
+    }, 
+    "inv_time_to_first_spike.Step0.014": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.014", 
+        "Type": "inv_time_to_first_spike", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "inv_time_to_first_spike.Step0.028": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.028", 
+        "Type": "inv_time_to_first_spike", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "inv_time_to_first_spike.Step0.042": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.042", 
+        "Type": "inv_time_to_first_spike", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "inv_time_to_first_spike.Step0.056": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.056", 
+        "Type": "inv_time_to_first_spike", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "inv_time_to_first_spike.Step0.07": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.07", 
+        "Type": "inv_time_to_first_spike", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "inv_time_to_first_spike.Step0.084": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.084", 
+        "Type": "inv_time_to_first_spike", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "inv_time_to_first_spike.Step0.098": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.098", 
+        "Type": "inv_time_to_first_spike", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "inv_time_to_first_spike.Step0.112": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.112", 
+        "Type": "inv_time_to_first_spike", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "inv_time_to_first_spike.Step0.126": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.126", 
+        "Type": "inv_time_to_first_spike", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "inv_time_to_first_spike.Step0.14": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.14", 
+        "Type": "inv_time_to_first_spike", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "inv_time_to_first_spike.Step0.21": {
+        "Std": "20.3685", 
+        "Stimulus": "Step0.21", 
+        "Type": "inv_time_to_first_spike", 
+        "Weight": "1", 
+        "Mean": "33.3063"
+    }, 
+    "inv_time_to_first_spike.Step0.28": {
+        "Std": "9.4187", 
+        "Stimulus": "Step0.28", 
+        "Type": "inv_time_to_first_spike", 
+        "Weight": "1", 
+        "Mean": "116.5501"
+    }, 
+    "inv_time_to_first_spike.Step0.35": {
+        "Std": "16.8359", 
+        "Stimulus": "Step0.35", 
+        "Type": "inv_time_to_first_spike", 
+        "Weight": "1", 
+        "Mean": "154.7619"
+    }, 
+    "inv_time_to_first_spike.Step0.42": {
+        "Std": "8.1983", 
+        "Stimulus": "Step0.42", 
+        "Type": "inv_time_to_first_spike", 
+        "Weight": "1", 
+        "Mean": "205.7971"
+    }, 
+    "inv_time_to_first_spike.Step0.56": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.56", 
+        "Type": "inv_time_to_first_spike", 
+        "Weight": "1", 
+        "Mean": "312.5"
+    }, 
+    "inv_time_to_first_spike.Step0.7": {
+        "Std": "17.8562", 
+        "Stimulus": "Step0.7", 
+        "Type": "inv_time_to_first_spike", 
+        "Weight": "1", 
+        "Mean": "441.9192"
+    }, 
+    "irregularity_index.Step0.21": {
+        "Std": "1.2288", 
+        "Stimulus": "Step0.21", 
+        "Type": "irregularity_index", 
+        "Weight": "1", 
+        "Mean": "26.8022"
+    }, 
+    "irregularity_index.Step0.28": {
+        "Std": "0.7049", 
+        "Stimulus": "Step0.28", 
+        "Type": "irregularity_index", 
+        "Weight": "1", 
+        "Mean": "2.9831"
+    }, 
+    "irregularity_index.Step0.35": {
+        "Std": "0.0372", 
+        "Stimulus": "Step0.35", 
+        "Type": "irregularity_index", 
+        "Weight": "1", 
+        "Mean": "0.7296"
+    }, 
+    "irregularity_index.Step0.42": {
+        "Std": "0.0368", 
+        "Stimulus": "Step0.42", 
+        "Type": "irregularity_index", 
+        "Weight": "1", 
+        "Mean": "0.3842"
+    }, 
+    "irregularity_index.Step0.56": {
+        "Std": "0.0119", 
+        "Stimulus": "Step0.56", 
+        "Type": "irregularity_index", 
+        "Weight": "1", 
+        "Mean": "0.1841"
+    }, 
+    "irregularity_index.Step0.7": {
+        "Std": "0.0046", 
+        "Stimulus": "Step0.7", 
+        "Type": "irregularity_index", 
+        "Weight": "1", 
+        "Mean": "0.127"
+    }, 
+    "max_amp_difference.Step0.21": {
+        "Std": "0.1107", 
+        "Stimulus": "Step0.21", 
+        "Type": "max_amp_difference", 
+        "Weight": "1", 
+        "Mean": "1.9937"
+    }, 
+    "max_amp_difference.Step0.28": {
+        "Std": "0.4344", 
+        "Stimulus": "Step0.28", 
+        "Type": "max_amp_difference", 
+        "Weight": "1", 
+        "Mean": "1.6062"
+    }, 
+    "max_amp_difference.Step0.35": {
+        "Std": "0.222", 
+        "Stimulus": "Step0.35", 
+        "Type": "max_amp_difference", 
+        "Weight": "1", 
+        "Mean": "1.665"
+    }, 
+    "max_amp_difference.Step0.42": {
+        "Std": "0.0745", 
+        "Stimulus": "Step0.42", 
+        "Type": "max_amp_difference", 
+        "Weight": "1", 
+        "Mean": "1.5073"
+    }, 
+    "max_amp_difference.Step0.56": {
+        "Std": "0.4451", 
+        "Stimulus": "Step0.56", 
+        "Type": "max_amp_difference", 
+        "Weight": "1", 
+        "Mean": "3.0898"
+    }, 
+    "max_amp_difference.Step0.7": {
+        "Std": "1.4266", 
+        "Stimulus": "Step0.7", 
+        "Type": "max_amp_difference", 
+        "Weight": "1", 
+        "Mean": "4.2608"
+    }, 
+    "maximum_voltage.Step0.014": {
+        "Std": "1.4995", 
+        "Stimulus": "Step0.014", 
+        "Type": "maximum_voltage", 
+        "Weight": "1", 
+        "Mean": "-76.4827"
+    }, 
+    "maximum_voltage.Step0.028": {
+        "Std": "1.366", 
+        "Stimulus": "Step0.028", 
+        "Type": "maximum_voltage", 
+        "Weight": "1", 
+        "Mean": "-75.6041"
+    }, 
+    "maximum_voltage.Step0.042": {
+        "Std": "1.1606", 
+        "Stimulus": "Step0.042", 
+        "Type": "maximum_voltage", 
+        "Weight": "1", 
+        "Mean": "-73.4443"
+    }, 
+    "maximum_voltage.Step0.056": {
+        "Std": "1.0379", 
+        "Stimulus": "Step0.056", 
+        "Type": "maximum_voltage", 
+        "Weight": "1", 
+        "Mean": "-72.9001"
+    }, 
+    "maximum_voltage.Step0.07": {
+        "Std": "1.1015", 
+        "Stimulus": "Step0.07", 
+        "Type": "maximum_voltage", 
+        "Weight": "1", 
+        "Mean": "-72.4841"
+    }, 
+    "maximum_voltage.Step0.084": {
+        "Std": "1.9752", 
+        "Stimulus": "Step0.084", 
+        "Type": "maximum_voltage", 
+        "Weight": "1", 
+        "Mean": "-70.2453"
+    }, 
+    "maximum_voltage.Step0.098": {
+        "Std": "1.2793", 
+        "Stimulus": "Step0.098", 
+        "Type": "maximum_voltage", 
+        "Weight": "1", 
+        "Mean": "-69.0324"
+    }, 
+    "maximum_voltage.Step0.112": {
+        "Std": "0.5803", 
+        "Stimulus": "Step0.112", 
+        "Type": "maximum_voltage", 
+        "Weight": "1", 
+        "Mean": "-67.9536"
+    }, 
+    "maximum_voltage.Step0.126": {
+        "Std": "1.0591", 
+        "Stimulus": "Step0.126", 
+        "Type": "maximum_voltage", 
+        "Weight": "1", 
+        "Mean": "-65.9041"
+    }, 
+    "maximum_voltage.Step0.14": {
+        "Std": "1.4234", 
+        "Stimulus": "Step0.14", 
+        "Type": "maximum_voltage", 
+        "Weight": "1", 
+        "Mean": "-64.8015"
+    }, 
+    "maximum_voltage.Step0.21": {
+        "Std": "2.3337", 
+        "Stimulus": "Step0.21", 
+        "Type": "maximum_voltage", 
+        "Weight": "1", 
+        "Mean": "8.3342"
+    }, 
+    "maximum_voltage.Step0.28": {
+        "Std": "2.7167", 
+        "Stimulus": "Step0.28", 
+        "Type": "maximum_voltage", 
+        "Weight": "1", 
+        "Mean": "9.056"
+    }, 
+    "maximum_voltage.Step0.35": {
+        "Std": "2.4764", 
+        "Stimulus": "Step0.35", 
+        "Type": "maximum_voltage", 
+        "Weight": "1", 
+        "Mean": "9.0381"
+    }, 
+    "maximum_voltage.Step0.42": {
+        "Std": "1.0968", 
+        "Stimulus": "Step0.42", 
+        "Type": "maximum_voltage", 
+        "Weight": "1", 
+        "Mean": "8.7686"
+    }, 
+    "maximum_voltage.Step0.56": {
+        "Std": "0.9178", 
+        "Stimulus": "Step0.56", 
+        "Type": "maximum_voltage", 
+        "Weight": "1", 
+        "Mean": "10.311"
+    }, 
+    "maximum_voltage.Step0.7": {
+        "Std": "0.5271", 
+        "Stimulus": "Step0.7", 
+        "Type": "maximum_voltage", 
+        "Weight": "1", 
+        "Mean": "10.1867"
+    }, 
+    "maximum_voltage_from_voltagebase.Step0.014": {
+        "Std": "0.1763", 
+        "Stimulus": "Step0.014", 
+        "Type": "maximum_voltage_from_voltagebase", 
+        "Weight": "1", 
+        "Mean": "3.291"
+    }, 
+    "maximum_voltage_from_voltagebase.Step0.028": {
+        "Std": "0.3396", 
+        "Stimulus": "Step0.028", 
+        "Type": "maximum_voltage_from_voltagebase", 
+        "Weight": "1", 
+        "Mean": "4.0028"
+    }, 
+    "maximum_voltage_from_voltagebase.Step0.042": {
+        "Std": "0.2845", 
+        "Stimulus": "Step0.042", 
+        "Type": "maximum_voltage_from_voltagebase", 
+        "Weight": "1", 
+        "Mean": "6.2458"
+    }, 
+    "maximum_voltage_from_voltagebase.Step0.056": {
+        "Std": "0.5247", 
+        "Stimulus": "Step0.056", 
+        "Type": "maximum_voltage_from_voltagebase", 
+        "Weight": "1", 
+        "Mean": "7.7705"
+    }, 
+    "maximum_voltage_from_voltagebase.Step0.07": {
+        "Std": "0.4517", 
+        "Stimulus": "Step0.07", 
+        "Type": "maximum_voltage_from_voltagebase", 
+        "Weight": "1", 
+        "Mean": "7.783"
+    }, 
+    "maximum_voltage_from_voltagebase.Step0.084": {
+        "Std": "0.4213", 
+        "Stimulus": "Step0.084", 
+        "Type": "maximum_voltage_from_voltagebase", 
+        "Weight": "1", 
+        "Mean": "10.1717"
+    }, 
+    "maximum_voltage_from_voltagebase.Step0.098": {
+        "Std": "0.6685", 
+        "Stimulus": "Step0.098", 
+        "Type": "maximum_voltage_from_voltagebase", 
+        "Weight": "1", 
+        "Mean": "10.1636"
+    }, 
+    "maximum_voltage_from_voltagebase.Step0.112": {
+        "Std": "0.4919", 
+        "Stimulus": "Step0.112", 
+        "Type": "maximum_voltage_from_voltagebase", 
+        "Weight": "1", 
+        "Mean": "12.3356"
+    }, 
+    "maximum_voltage_from_voltagebase.Step0.126": {
+        "Std": "0.1083", 
+        "Stimulus": "Step0.126", 
+        "Type": "maximum_voltage_from_voltagebase", 
+        "Weight": "1", 
+        "Mean": "14.583"
+    }, 
+    "maximum_voltage_from_voltagebase.Step0.14": {
+        "Std": "0.1281", 
+        "Stimulus": "Step0.14", 
+        "Type": "maximum_voltage_from_voltagebase", 
+        "Weight": "1", 
+        "Mean": "15.7074"
+    }, 
+    "maximum_voltage_from_voltagebase.Step0.21": {
+        "Std": "1.2761", 
+        "Stimulus": "Step0.21", 
+        "Type": "maximum_voltage_from_voltagebase", 
+        "Weight": "1", 
+        "Mean": "88.5586"
+    }, 
+    "maximum_voltage_from_voltagebase.Step0.28": {
+        "Std": "2.6001", 
+        "Stimulus": "Step0.28", 
+        "Type": "maximum_voltage_from_voltagebase", 
+        "Weight": "1", 
+        "Mean": "89.0351"
+    }, 
+    "maximum_voltage_from_voltagebase.Step0.35": {
+        "Std": "1.6664", 
+        "Stimulus": "Step0.35", 
+        "Type": "maximum_voltage_from_voltagebase", 
+        "Weight": "1", 
+        "Mean": "89.9616"
+    }, 
+    "maximum_voltage_from_voltagebase.Step0.42": {
+        "Std": "0.2575", 
+        "Stimulus": "Step0.42", 
+        "Type": "maximum_voltage_from_voltagebase", 
+        "Weight": "1", 
+        "Mean": "90.3138"
+    }, 
+    "maximum_voltage_from_voltagebase.Step0.56": {
+        "Std": "1.2924", 
+        "Stimulus": "Step0.56", 
+        "Type": "maximum_voltage_from_voltagebase", 
+        "Weight": "1", 
+        "Mean": "91.5481"
+    }, 
+    "maximum_voltage_from_voltagebase.Step0.7": {
+        "Std": "0.7491", 
+        "Stimulus": "Step0.7", 
+        "Type": "maximum_voltage_from_voltagebase", 
+        "Weight": "1", 
+        "Mean": "90.3676"
+    }, 
+    "mean_frequency.Step0.21": {
+        "Std": "4.8903", 
+        "Stimulus": "Step0.21", 
+        "Type": "mean_frequency", 
+        "Weight": "1", 
+        "Mean": "14.3527"
+    }, 
+    "mean_frequency.Step0.28": {
+        "Std": "7.8243", 
+        "Stimulus": "Step0.28", 
+        "Type": "mean_frequency", 
+        "Weight": "1", 
+        "Mean": "56.3391"
+    }, 
+    "mean_frequency.Step0.35": {
+        "Std": "3.8116", 
+        "Stimulus": "Step0.35", 
+        "Type": "mean_frequency", 
+        "Weight": "1", 
+        "Mean": "90.8121"
+    }, 
+    "mean_frequency.Step0.42": {
+        "Std": "3.093", 
+        "Stimulus": "Step0.42", 
+        "Type": "mean_frequency", 
+        "Weight": "1", 
+        "Mean": "114.9126"
+    }, 
+    "mean_frequency.Step0.56": {
+        "Std": "0.501", 
+        "Stimulus": "Step0.56", 
+        "Type": "mean_frequency", 
+        "Weight": "1", 
+        "Mean": "155.2076"
+    }, 
+    "mean_frequency.Step0.7": {
+        "Std": "0.3466", 
+        "Stimulus": "Step0.7", 
+        "Type": "mean_frequency", 
+        "Weight": "1", 
+        "Mean": "180.3192"
+    }, 
+    "min_AHP_values.Step0.21": {
+        "Std": "0.6999", 
+        "Stimulus": "Step0.21", 
+        "Type": "min_AHP_values", 
+        "Weight": "1", 
+        "Mean": "-74.3866"
+    }, 
+    "min_AHP_values.Step0.28": {
+        "Std": "0.8785", 
+        "Stimulus": "Step0.28", 
+        "Type": "min_AHP_values", 
+        "Weight": "1", 
+        "Mean": "-73.4417"
+    }, 
+    "min_AHP_values.Step0.35": {
+        "Std": "0.9483", 
+        "Stimulus": "Step0.35", 
+        "Type": "min_AHP_values", 
+        "Weight": "1", 
+        "Mean": "-72.4259"
+    }, 
+    "min_AHP_values.Step0.42": {
+        "Std": "0.9282", 
+        "Stimulus": "Step0.42", 
+        "Type": "min_AHP_values", 
+        "Weight": "1", 
+        "Mean": "-71.2497"
+    }, 
+    "min_AHP_values.Step0.56": {
+        "Std": "0.9903", 
+        "Stimulus": "Step0.56", 
+        "Type": "min_AHP_values", 
+        "Weight": "1", 
+        "Mean": "-69.6087"
+    }, 
+    "min_AHP_values.Step0.7": {
+        "Std": "0.6856", 
+        "Stimulus": "Step0.7", 
+        "Type": "min_AHP_values", 
+        "Weight": "1", 
+        "Mean": "-68.0465"
+    }, 
+    "min_voltage_between_spikes.Step0.21": {
+        "Std": "0.6977", 
+        "Stimulus": "Step0.21", 
+        "Type": "min_voltage_between_spikes", 
+        "Weight": "1", 
+        "Mean": "-74.3897"
+    }, 
+    "min_voltage_between_spikes.Step0.28": {
+        "Std": "0.8754", 
+        "Stimulus": "Step0.28", 
+        "Type": "min_voltage_between_spikes", 
+        "Weight": "1", 
+        "Mean": "-73.4532"
+    }, 
+    "min_voltage_between_spikes.Step0.35": {
+        "Std": "0.9493", 
+        "Stimulus": "Step0.35", 
+        "Type": "min_voltage_between_spikes", 
+        "Weight": "1", 
+        "Mean": "-72.4306"
+    }, 
+    "min_voltage_between_spikes.Step0.42": {
+        "Std": "0.9296", 
+        "Stimulus": "Step0.42", 
+        "Type": "min_voltage_between_spikes", 
+        "Weight": "1", 
+        "Mean": "-71.2532"
+    }, 
+    "min_voltage_between_spikes.Step0.56": {
+        "Std": "0.9894", 
+        "Stimulus": "Step0.56", 
+        "Type": "min_voltage_between_spikes", 
+        "Weight": "1", 
+        "Mean": "-69.6161"
+    }, 
+    "min_voltage_between_spikes.Step0.7": {
+        "Std": "0.6851", 
+        "Stimulus": "Step0.7", 
+        "Type": "min_voltage_between_spikes", 
+        "Weight": "1", 
+        "Mean": "-68.0556"
+    }, 
+    "minimum_voltage.Step-0.014": {
+        "Std": "1.1409", 
+        "Stimulus": "Step-0.014", 
+        "Type": "minimum_voltage", 
+        "Weight": "1", 
+        "Mean": "-81.7542"
+    }, 
+    "minimum_voltage.Step-0.028": {
+        "Std": "1.2292", 
+        "Stimulus": "Step-0.028", 
+        "Type": "minimum_voltage", 
+        "Weight": "1", 
+        "Mean": "-82.9458"
+    }, 
+    "minimum_voltage.Step-0.042": {
+        "Std": "1.4112", 
+        "Stimulus": "Step-0.042", 
+        "Type": "minimum_voltage", 
+        "Weight": "1", 
+        "Mean": "-83.8381"
+    }, 
+    "minimum_voltage.Step-0.056": {
+        "Std": "1.3643", 
+        "Stimulus": "Step-0.056", 
+        "Type": "minimum_voltage", 
+        "Weight": "1", 
+        "Mean": "-85.3833"
+    }, 
+    "minimum_voltage.Step-0.07": {
+        "Std": "1.6136", 
+        "Stimulus": "Step-0.07", 
+        "Type": "minimum_voltage", 
+        "Weight": "1", 
+        "Mean": "-86.316"
+    }, 
+    "minimum_voltage.Step-0.084": {
+        "Std": "0.6671", 
+        "Stimulus": "Step-0.084", 
+        "Type": "minimum_voltage", 
+        "Weight": "1", 
+        "Mean": "-87.1883"
+    }, 
+    "minimum_voltage.Step-0.098": {
+        "Std": "1.5071", 
+        "Stimulus": "Step-0.098", 
+        "Type": "minimum_voltage", 
+        "Weight": "1", 
+        "Mean": "-88.6373"
+    }, 
+    "minimum_voltage.Step-0.112": {
+        "Std": "1.3748", 
+        "Stimulus": "Step-0.112", 
+        "Type": "minimum_voltage", 
+        "Weight": "1", 
+        "Mean": "-89.7459"
+    }, 
+    "minimum_voltage.Step-0.126": {
+        "Std": "1.6285", 
+        "Stimulus": "Step-0.126", 
+        "Type": "minimum_voltage", 
+        "Weight": "1", 
+        "Mean": "-91.4455"
+    }, 
+    "minimum_voltage.Step-0.14": {
+        "Std": "1.3597", 
+        "Stimulus": "Step-0.14", 
+        "Type": "minimum_voltage", 
+        "Weight": "1", 
+        "Mean": "-92.8186"
+    }, 
+    "number_initial_spikes.Step0.014": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.014", 
+        "Type": "number_initial_spikes", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "number_initial_spikes.Step0.028": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.028", 
+        "Type": "number_initial_spikes", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "number_initial_spikes.Step0.042": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.042", 
+        "Type": "number_initial_spikes", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "number_initial_spikes.Step0.056": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.056", 
+        "Type": "number_initial_spikes", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "number_initial_spikes.Step0.07": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.07", 
+        "Type": "number_initial_spikes", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "number_initial_spikes.Step0.084": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.084", 
+        "Type": "number_initial_spikes", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "number_initial_spikes.Step0.098": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.098", 
+        "Type": "number_initial_spikes", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "number_initial_spikes.Step0.112": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.112", 
+        "Type": "number_initial_spikes", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "number_initial_spikes.Step0.126": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.126", 
+        "Type": "number_initial_spikes", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "number_initial_spikes.Step0.14": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.14", 
+        "Type": "number_initial_spikes", 
+        "Weight": "1", 
+        "Mean": "0.0"
+    }, 
+    "number_initial_spikes.Step0.21": {
+        "Std": "0.4714", 
+        "Stimulus": "Step0.21", 
+        "Type": "number_initial_spikes", 
+        "Weight": "1", 
+        "Mean": "1.3333"
+    }, 
+    "number_initial_spikes.Step0.28": {
+        "Std": "0.4714", 
+        "Stimulus": "Step0.28", 
+        "Type": "number_initial_spikes", 
+        "Weight": "1", 
+        "Mean": "5.3333"
+    }, 
+    "number_initial_spikes.Step0.35": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.35", 
+        "Type": "number_initial_spikes", 
+        "Weight": "1", 
+        "Mean": "8.0"
+    }, 
+    "number_initial_spikes.Step0.42": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.42", 
+        "Type": "number_initial_spikes", 
+        "Weight": "1", 
+        "Mean": "10.0"
+    }, 
+    "number_initial_spikes.Step0.56": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.56", 
+        "Type": "number_initial_spikes", 
+        "Weight": "1", 
+        "Mean": "13.0"
+    }, 
+    "number_initial_spikes.Step0.7": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.7", 
+        "Type": "number_initial_spikes", 
+        "Weight": "1", 
+        "Mean": "15.0"
+    }, 
+    "peak_voltage.Step0.21": {
+        "Std": "2.2503", 
+        "Stimulus": "Step0.21", 
+        "Type": "peak_voltage", 
+        "Weight": "1", 
+        "Mean": "7.4241"
+    }, 
+    "peak_voltage.Step0.28": {
+        "Std": "2.0578", 
+        "Stimulus": "Step0.28", 
+        "Type": "peak_voltage", 
+        "Weight": "1", 
+        "Mean": "7.0417"
+    }, 
+    "peak_voltage.Step0.35": {
+        "Std": "1.5672", 
+        "Stimulus": "Step0.35", 
+        "Type": "peak_voltage", 
+        "Weight": "1", 
+        "Mean": "6.3938"
+    }, 
+    "peak_voltage.Step0.42": {
+        "Std": "0.9056", 
+        "Stimulus": "Step0.42", 
+        "Type": "peak_voltage", 
+        "Weight": "1", 
+        "Mean": "5.5187"
+    }, 
+    "peak_voltage.Step0.56": {
+        "Std": "0.1124", 
+        "Stimulus": "Step0.56", 
+        "Type": "peak_voltage", 
+        "Weight": "1", 
+        "Mean": "4.0775"
+    }, 
+    "peak_voltage.Step0.7": {
+        "Std": "0.3381", 
+        "Stimulus": "Step0.7", 
+        "Type": "peak_voltage", 
+        "Weight": "1", 
+        "Mean": "1.6757"
+    }, 
+    "sag_amplitude.Step-0.014": {
+        "Std": "0.4537", 
+        "Stimulus": "Step-0.014", 
+        "Type": "sag_amplitude", 
+        "Weight": "1", 
+        "Mean": "0.9062"
+    }, 
+    "sag_amplitude.Step-0.028": {
+        "Std": "0.4048", 
+        "Stimulus": "Step-0.028", 
+        "Type": "sag_amplitude", 
+        "Weight": "1", 
+        "Mean": "0.9498"
+    }, 
+    "sag_amplitude.Step-0.042": {
+        "Std": "0.0586", 
+        "Stimulus": "Step-0.042", 
+        "Type": "sag_amplitude", 
+        "Weight": "1", 
+        "Mean": "0.5732"
+    }, 
+    "sag_amplitude.Step-0.056": {
+        "Std": "0.2693", 
+        "Stimulus": "Step-0.056", 
+        "Type": "sag_amplitude", 
+        "Weight": "1", 
+        "Mean": "0.9687"
+    }, 
+    "sag_amplitude.Step-0.07": {
+        "Std": "0.1084", 
+        "Stimulus": "Step-0.07", 
+        "Type": "sag_amplitude", 
+        "Weight": "1", 
+        "Mean": "0.9273"
+    }, 
+    "sag_amplitude.Step-0.084": {
+        "Std": "0.0006", 
+        "Stimulus": "Step-0.084", 
+        "Type": "sag_amplitude", 
+        "Weight": "1", 
+        "Mean": "1.0148"
+    }, 
+    "sag_amplitude.Step-0.098": {
+        "Std": "0.1444", 
+        "Stimulus": "Step-0.098", 
+        "Type": "sag_amplitude", 
+        "Weight": "1", 
+        "Mean": "1.0749"
+    }, 
+    "sag_amplitude.Step-0.112": {
+        "Std": "0.0538", 
+        "Stimulus": "Step-0.112", 
+        "Type": "sag_amplitude", 
+        "Weight": "1", 
+        "Mean": "0.6756"
+    }, 
+    "sag_amplitude.Step-0.126": {
+        "Std": "0.4487", 
+        "Stimulus": "Step-0.126", 
+        "Type": "sag_amplitude", 
+        "Weight": "1", 
+        "Mean": "0.6339"
+    }, 
+    "sag_amplitude.Step-0.14": {
+        "Std": "0.0302", 
+        "Stimulus": "Step-0.14", 
+        "Type": "sag_amplitude", 
+        "Weight": "1", 
+        "Mean": "0.8659"
+    }, 
+    "sag_ratio1.Step-0.014": {
+        "Std": "0.2029", 
+        "Stimulus": "Step-0.014", 
+        "Type": "sag_ratio1", 
+        "Weight": "1", 
+        "Mean": "0.3651"
+    }, 
+    "sag_ratio1.Step-0.028": {
+        "Std": "0.1481", 
+        "Stimulus": "Step-0.028", 
+        "Type": "sag_ratio1", 
+        "Weight": "1", 
+        "Mean": "0.2839"
+    }, 
+    "sag_ratio1.Step-0.042": {
+        "Std": "0.0216", 
+        "Stimulus": "Step-0.042", 
+        "Type": "sag_ratio1", 
+        "Weight": "1", 
+        "Mean": "0.1102"
+    }, 
+    "sag_ratio1.Step-0.056": {
+        "Std": "0.0738", 
+        "Stimulus": "Step-0.056", 
+        "Type": "sag_ratio1", 
+        "Weight": "1", 
+        "Mean": "0.1912"
+    }, 
+    "sag_ratio1.Step-0.07": {
+        "Std": "0.0234", 
+        "Stimulus": "Step-0.07", 
+        "Type": "sag_ratio1", 
+        "Weight": "1", 
+        "Mean": "0.1483"
+    }, 
+    "sag_ratio1.Step-0.084": {
+        "Std": "0.0013", 
+        "Stimulus": "Step-0.084", 
+        "Type": "sag_ratio1", 
+        "Weight": "1", 
+        "Mean": "0.1167"
+    }, 
+    "sag_ratio1.Step-0.098": {
+        "Std": "0.0157", 
+        "Stimulus": "Step-0.098", 
+        "Type": "sag_ratio1", 
+        "Weight": "1", 
+        "Mean": "0.1209"
+    }, 
+    "sag_ratio1.Step-0.112": {
+        "Std": "0.008", 
+        "Stimulus": "Step-0.112", 
+        "Type": "sag_ratio1", 
+        "Weight": "1", 
+        "Mean": "0.07"
+    }, 
+    "sag_ratio1.Step-0.126": {
+        "Std": "0.0454", 
+        "Stimulus": "Step-0.126", 
+        "Type": "sag_ratio1", 
+        "Weight": "1", 
+        "Mean": "0.06"
+    }, 
+    "sag_ratio1.Step-0.14": {
+        "Std": "0.0042", 
+        "Stimulus": "Step-0.14", 
+        "Type": "sag_ratio1", 
+        "Weight": "1", 
+        "Mean": "0.07"
+    }, 
+    "sag_ratio2.Step-0.014": {
+        "Std": "0.2029", 
+        "Stimulus": "Step-0.014", 
+        "Type": "sag_ratio2", 
+        "Weight": "1", 
+        "Mean": "0.6349"
+    }, 
+    "sag_ratio2.Step-0.028": {
+        "Std": "0.1481", 
+        "Stimulus": "Step-0.028", 
+        "Type": "sag_ratio2", 
+        "Weight": "1", 
+        "Mean": "0.7161"
+    }, 
+    "sag_ratio2.Step-0.042": {
+        "Std": "0.0216", 
+        "Stimulus": "Step-0.042", 
+        "Type": "sag_ratio2", 
+        "Weight": "1", 
+        "Mean": "0.8898"
+    }, 
+    "sag_ratio2.Step-0.056": {
+        "Std": "0.0738", 
+        "Stimulus": "Step-0.056", 
+        "Type": "sag_ratio2", 
+        "Weight": "1", 
+        "Mean": "0.8088"
+    }, 
+    "sag_ratio2.Step-0.07": {
+        "Std": "0.0234", 
+        "Stimulus": "Step-0.07", 
+        "Type": "sag_ratio2", 
+        "Weight": "1", 
+        "Mean": "0.8517"
+    }, 
+    "sag_ratio2.Step-0.084": {
+        "Std": "0.0013", 
+        "Stimulus": "Step-0.084", 
+        "Type": "sag_ratio2", 
+        "Weight": "1", 
+        "Mean": "0.8833"
+    }, 
+    "sag_ratio2.Step-0.098": {
+        "Std": "0.0157", 
+        "Stimulus": "Step-0.098", 
+        "Type": "sag_ratio2", 
+        "Weight": "1", 
+        "Mean": "0.8791"
+    }, 
+    "sag_ratio2.Step-0.112": {
+        "Std": "0.008", 
+        "Stimulus": "Step-0.112", 
+        "Type": "sag_ratio2", 
+        "Weight": "1", 
+        "Mean": "0.93"
+    }, 
+    "sag_ratio2.Step-0.126": {
+        "Std": "0.0454", 
+        "Stimulus": "Step-0.126", 
+        "Type": "sag_ratio2", 
+        "Weight": "1", 
+        "Mean": "0.94"
+    }, 
+    "sag_ratio2.Step-0.14": {
+        "Std": "0.0042", 
+        "Stimulus": "Step-0.14", 
+        "Type": "sag_ratio2", 
+        "Weight": "1", 
+        "Mean": "0.93"
+    }, 
+    "single_burst_ratio.Step0.21": {
+        "Std": "0.0443", 
+        "Stimulus": "Step0.21", 
+        "Type": "single_burst_ratio", 
+        "Weight": "1", 
+        "Mean": "0.7462"
+    }, 
+    "single_burst_ratio.Step0.28": {
+        "Std": "0.0165", 
+        "Stimulus": "Step0.28", 
+        "Type": "single_burst_ratio", 
+        "Weight": "1", 
+        "Mean": "0.7177"
+    }, 
+    "single_burst_ratio.Step0.35": {
+        "Std": "0.0142", 
+        "Stimulus": "Step0.35", 
+        "Type": "single_burst_ratio", 
+        "Weight": "1", 
+        "Mean": "0.8571"
+    }, 
+    "single_burst_ratio.Step0.42": {
+        "Std": "0.0132", 
+        "Stimulus": "Step0.42", 
+        "Type": "single_burst_ratio", 
+        "Weight": "1", 
+        "Mean": "0.8935"
+    }, 
+    "single_burst_ratio.Step0.56": {
+        "Std": "0.0187", 
+        "Stimulus": "Step0.56", 
+        "Type": "single_burst_ratio", 
+        "Weight": "1", 
+        "Mean": "0.9888"
+    }, 
+    "single_burst_ratio.Step0.7": {
+        "Std": "0.0357", 
+        "Stimulus": "Step0.7", 
+        "Type": "single_burst_ratio", 
+        "Weight": "1", 
+        "Mean": "0.9814"
+    }, 
+    "spike_half_width.Step0.21": {
+        "Std": "0.0063", 
+        "Stimulus": "Step0.21", 
+        "Type": "spike_half_width", 
+        "Weight": "1", 
+        "Mean": "0.4774"
+    }, 
+    "spike_half_width.Step0.28": {
+        "Std": "0.0146", 
+        "Stimulus": "Step0.28", 
+        "Type": "spike_half_width", 
+        "Weight": "1", 
+        "Mean": "0.4889"
+    }, 
+    "spike_half_width.Step0.35": {
+        "Std": "0.0171", 
+        "Stimulus": "Step0.35", 
+        "Type": "spike_half_width", 
+        "Weight": "1", 
+        "Mean": "0.4979"
+    }, 
+    "spike_half_width.Step0.42": {
+        "Std": "0.0091", 
+        "Stimulus": "Step0.42", 
+        "Type": "spike_half_width", 
+        "Weight": "1", 
+        "Mean": "0.5217"
+    }, 
+    "spike_half_width.Step0.56": {
+        "Std": "0.006", 
+        "Stimulus": "Step0.56", 
+        "Type": "spike_half_width", 
+        "Weight": "1", 
+        "Mean": "0.539"
+    }, 
+    "spike_half_width.Step0.7": {
+        "Std": "0.0071", 
+        "Stimulus": "Step0.7", 
+        "Type": "spike_half_width", 
+        "Weight": "1", 
+        "Mean": "0.575"
+    }, 
+    "spike_width2.Step0.21": {
+        "Std": "0.0123", 
+        "Stimulus": "Step0.21", 
+        "Type": "spike_width2", 
+        "Weight": "1", 
+        "Mean": "0.451"
+    }, 
+    "spike_width2.Step0.28": {
+        "Std": "0.0149", 
+        "Stimulus": "Step0.28", 
+        "Type": "spike_width2", 
+        "Weight": "1", 
+        "Mean": "0.4574"
+    }, 
+    "spike_width2.Step0.35": {
+        "Std": "0.0133", 
+        "Stimulus": "Step0.35", 
+        "Type": "spike_width2", 
+        "Weight": "1", 
+        "Mean": "0.4714"
+    }, 
+    "spike_width2.Step0.42": {
+        "Std": "0.0135", 
+        "Stimulus": "Step0.42", 
+        "Type": "spike_width2", 
+        "Weight": "1", 
+        "Mean": "0.4818"
+    }, 
+    "spike_width2.Step0.56": {
+        "Std": "0.0069", 
+        "Stimulus": "Step0.56", 
+        "Type": "spike_width2", 
+        "Weight": "1", 
+        "Mean": "0.4914"
+    }, 
+    "spike_width2.Step0.7": {
+        "Std": "0.0036", 
+        "Stimulus": "Step0.7", 
+        "Type": "spike_width2", 
+        "Weight": "1", 
+        "Mean": "0.5092"
+    }, 
+    "steady_state_hyper.Step-0.014": {
+        "Std": "1.4443", 
+        "Stimulus": "Step-0.014", 
+        "Type": "steady_state_hyper", 
+        "Weight": "1", 
+        "Mean": "-81.1416"
+    }, 
+    "steady_state_hyper.Step-0.028": {
+        "Std": "0.9866", 
+        "Stimulus": "Step-0.028", 
+        "Type": "steady_state_hyper", 
+        "Weight": "1", 
+        "Mean": "-81.1406"
+    }, 
+    "steady_state_hyper.Step-0.042": {
+        "Std": "1.1953", 
+        "Stimulus": "Step-0.042", 
+        "Type": "steady_state_hyper", 
+        "Weight": "1", 
+        "Mean": "-83.1368"
+    }, 
+    "steady_state_hyper.Step-0.056": {
+        "Std": "1.7788", 
+        "Stimulus": "Step-0.056", 
+        "Type": "steady_state_hyper", 
+        "Weight": "1", 
+        "Mean": "-84.2931"
+    }, 
+    "steady_state_hyper.Step-0.07": {
+        "Std": "1.6347", 
+        "Stimulus": "Step-0.07", 
+        "Type": "steady_state_hyper", 
+        "Weight": "1", 
+        "Mean": "-85.8534"
+    }, 
+    "steady_state_hyper.Step-0.084": {
+        "Std": "0.4487", 
+        "Stimulus": "Step-0.084", 
+        "Type": "steady_state_hyper", 
+        "Weight": "1", 
+        "Mean": "-85.9019"
+    }, 
+    "steady_state_hyper.Step-0.098": {
+        "Std": "1.2921", 
+        "Stimulus": "Step-0.098", 
+        "Type": "steady_state_hyper", 
+        "Weight": "1", 
+        "Mean": "-87.7639"
+    }, 
+    "steady_state_hyper.Step-0.112": {
+        "Std": "1.2695", 
+        "Stimulus": "Step-0.112", 
+        "Type": "steady_state_hyper", 
+        "Weight": "1", 
+        "Mean": "-89.1891"
+    }, 
+    "steady_state_hyper.Step-0.126": {
+        "Std": "2.0135", 
+        "Stimulus": "Step-0.126", 
+        "Type": "steady_state_hyper", 
+        "Weight": "1", 
+        "Mean": "-90.952"
+    }, 
+    "steady_state_hyper.Step-0.14": {
+        "Std": "0.8857", 
+        "Stimulus": "Step-0.14", 
+        "Type": "steady_state_hyper", 
+        "Weight": "1", 
+        "Mean": "-91.7076"
+    }, 
+    "steady_state_voltage.Step-0.014": {
+        "Std": "1.3199", 
+        "Stimulus": "Step-0.014", 
+        "Type": "steady_state_voltage", 
+        "Weight": "1", 
+        "Mean": "-79.92"
+    }, 
+    "steady_state_voltage.Step-0.028": {
+        "Std": "1.3518", 
+        "Stimulus": "Step-0.028", 
+        "Type": "steady_state_voltage", 
+        "Weight": "1", 
+        "Mean": "-79.9085"
+    }, 
+    "steady_state_voltage.Step-0.042": {
+        "Std": "1.1332", 
+        "Stimulus": "Step-0.042", 
+        "Type": "steady_state_voltage", 
+        "Weight": "1", 
+        "Mean": "-80.115"
+    }, 
+    "steady_state_voltage.Step-0.056": {
+        "Std": "1.4635", 
+        "Stimulus": "Step-0.056", 
+        "Type": "steady_state_voltage", 
+        "Weight": "1", 
+        "Mean": "-80.008"
+    }, 
+    "steady_state_voltage.Step-0.07": {
+        "Std": "1.3598", 
+        "Stimulus": "Step-0.07", 
+        "Type": "steady_state_voltage", 
+        "Weight": "1", 
+        "Mean": "-80.2723"
+    }, 
+    "steady_state_voltage.Step-0.084": {
+        "Std": "0.5277", 
+        "Stimulus": "Step-0.084", 
+        "Type": "steady_state_voltage", 
+        "Weight": "1", 
+        "Mean": "-79.4823"
+    }, 
+    "steady_state_voltage.Step-0.098": {
+        "Std": "1.2449", 
+        "Stimulus": "Step-0.098", 
+        "Type": "steady_state_voltage", 
+        "Weight": "1", 
+        "Mean": "-80.4083"
+    }, 
+    "steady_state_voltage.Step-0.112": {
+        "Std": "1.1481", 
+        "Stimulus": "Step-0.112", 
+        "Type": "steady_state_voltage", 
+        "Weight": "1", 
+        "Mean": "-80.3438"
+    }, 
+    "steady_state_voltage.Step-0.126": {
+        "Std": "1.5772", 
+        "Stimulus": "Step-0.126", 
+        "Type": "steady_state_voltage", 
+        "Weight": "1", 
+        "Mean": "-80.8166"
+    }, 
+    "steady_state_voltage.Step-0.14": {
+        "Std": "1.3677", 
+        "Stimulus": "Step-0.14", 
+        "Type": "steady_state_voltage", 
+        "Weight": "1", 
+        "Mean": "-80.8501"
+    }, 
+    "steady_state_voltage.Step0.014": {
+        "Std": "1.3535", 
+        "Stimulus": "Step0.014", 
+        "Type": "steady_state_voltage", 
+        "Weight": "1", 
+        "Mean": "-79.8358"
+    }, 
+    "steady_state_voltage.Step0.028": {
+        "Std": "1.3154", 
+        "Stimulus": "Step0.028", 
+        "Type": "steady_state_voltage", 
+        "Weight": "1", 
+        "Mean": "-79.8753"
+    }, 
+    "steady_state_voltage.Step0.042": {
+        "Std": "0.9834", 
+        "Stimulus": "Step0.042", 
+        "Type": "steady_state_voltage", 
+        "Weight": "1", 
+        "Mean": "-79.8025"
+    }, 
+    "steady_state_voltage.Step0.056": {
+        "Std": "1.503", 
+        "Stimulus": "Step0.056", 
+        "Type": "steady_state_voltage", 
+        "Weight": "1", 
+        "Mean": "-79.9936"
+    }, 
+    "steady_state_voltage.Step0.07": {
+        "Std": "1.5018", 
+        "Stimulus": "Step0.07", 
+        "Type": "steady_state_voltage", 
+        "Weight": "1", 
+        "Mean": "-79.9683"
+    }, 
+    "steady_state_voltage.Step0.084": {
+        "Std": "1.4098", 
+        "Stimulus": "Step0.084", 
+        "Type": "steady_state_voltage", 
+        "Weight": "1", 
+        "Mean": "-79.9785"
+    }, 
+    "steady_state_voltage.Step0.098": {
+        "Std": "1.0749", 
+        "Stimulus": "Step0.098", 
+        "Type": "steady_state_voltage", 
+        "Weight": "1", 
+        "Mean": "-79.1806"
+    }, 
+    "steady_state_voltage.Step0.112": {
+        "Std": "1.1445", 
+        "Stimulus": "Step0.112", 
+        "Type": "steady_state_voltage", 
+        "Weight": "1", 
+        "Mean": "-79.9378"
+    }, 
+    "steady_state_voltage.Step0.126": {
+        "Std": "1.3193", 
+        "Stimulus": "Step0.126", 
+        "Type": "steady_state_voltage", 
+        "Weight": "1", 
+        "Mean": "-80.2411"
+    }, 
+    "steady_state_voltage.Step0.14": {
+        "Std": "1.0771", 
+        "Stimulus": "Step0.14", 
+        "Type": "steady_state_voltage", 
+        "Weight": "1", 
+        "Mean": "-80.589"
+    }, 
+    "steady_state_voltage.Step0.21": {
+        "Std": "0.6037", 
+        "Stimulus": "Step0.21", 
+        "Type": "steady_state_voltage", 
+        "Weight": "1", 
+        "Mean": "-80.2923"
+    }, 
+    "steady_state_voltage.Step0.28": {
+        "Std": "0.5729", 
+        "Stimulus": "Step0.28", 
+        "Type": "steady_state_voltage", 
+        "Weight": "1", 
+        "Mean": "-81.0695"
+    }, 
+    "steady_state_voltage.Step0.35": {
+        "Std": "0.4772", 
+        "Stimulus": "Step0.35", 
+        "Type": "steady_state_voltage", 
+        "Weight": "1", 
+        "Mean": "-82.0272"
+    }, 
+    "steady_state_voltage.Step0.42": {
+        "Std": "0.4201", 
+        "Stimulus": "Step0.42", 
+        "Type": "steady_state_voltage", 
+        "Weight": "1", 
+        "Mean": "-82.8076"
+    }, 
+    "steady_state_voltage.Step0.56": {
+        "Std": "0.8188", 
+        "Stimulus": "Step0.56", 
+        "Type": "steady_state_voltage", 
+        "Weight": "1", 
+        "Mean": "-81.6801"
+    }, 
+    "steady_state_voltage.Step0.7": {
+        "Std": "0.367", 
+        "Stimulus": "Step0.7", 
+        "Type": "steady_state_voltage", 
+        "Weight": "1", 
+        "Mean": "-81.3517"
+    }, 
+    "steady_state_voltage_stimend.Step-0.014": {
+        "Std": "1.5947", 
+        "Stimulus": "Step-0.014", 
+        "Type": "steady_state_voltage_stimend", 
+        "Weight": "1", 
+        "Mean": "-80.848"
+    }, 
+    "steady_state_voltage_stimend.Step-0.028": {
+        "Std": "1.634", 
+        "Stimulus": "Step-0.028", 
+        "Type": "steady_state_voltage_stimend", 
+        "Weight": "1", 
+        "Mean": "-81.996"
+    }, 
+    "steady_state_voltage_stimend.Step-0.042": {
+        "Std": "1.4698", 
+        "Stimulus": "Step-0.042", 
+        "Type": "steady_state_voltage_stimend", 
+        "Weight": "1", 
+        "Mean": "-83.265"
+    }, 
+    "steady_state_voltage_stimend.Step-0.056": {
+        "Std": "1.6336", 
+        "Stimulus": "Step-0.056", 
+        "Type": "steady_state_voltage_stimend", 
+        "Weight": "1", 
+        "Mean": "-84.4146"
+    }, 
+    "steady_state_voltage_stimend.Step-0.07": {
+        "Std": "1.722", 
+        "Stimulus": "Step-0.07", 
+        "Type": "steady_state_voltage_stimend", 
+        "Weight": "1", 
+        "Mean": "-85.3887"
+    }, 
+    "steady_state_voltage_stimend.Step-0.084": {
+        "Std": "0.6677", 
+        "Stimulus": "Step-0.084", 
+        "Type": "steady_state_voltage_stimend", 
+        "Weight": "1", 
+        "Mean": "-86.1735"
+    }, 
+    "steady_state_voltage_stimend.Step-0.098": {
+        "Std": "1.3627", 
+        "Stimulus": "Step-0.098", 
+        "Type": "steady_state_voltage_stimend", 
+        "Weight": "1", 
+        "Mean": "-87.5625"
+    }, 
+    "steady_state_voltage_stimend.Step-0.112": {
+        "Std": "1.4286", 
+        "Stimulus": "Step-0.112", 
+        "Type": "steady_state_voltage_stimend", 
+        "Weight": "1", 
+        "Mean": "-89.0702"
+    }, 
+    "steady_state_voltage_stimend.Step-0.126": {
+        "Std": "2.0772", 
+        "Stimulus": "Step-0.126", 
+        "Type": "steady_state_voltage_stimend", 
+        "Weight": "1", 
+        "Mean": "-90.8116"
+    }, 
+    "steady_state_voltage_stimend.Step-0.14": {
+        "Std": "1.3899", 
+        "Stimulus": "Step-0.14", 
+        "Type": "steady_state_voltage_stimend", 
+        "Weight": "1", 
+        "Mean": "-91.9527"
+    }, 
+    "time_constant.Step-0.014": {
+        "Std": "9.763", 
+        "Stimulus": "Step-0.014", 
+        "Type": "time_constant", 
+        "Weight": "1", 
+        "Mean": "21.7152"
+    }, 
+    "time_constant.Step-0.042": {
+        "Std": "10.9193", 
+        "Stimulus": "Step-0.042", 
+        "Type": "time_constant", 
+        "Weight": "1", 
+        "Mean": "28.97"
+    }, 
+    "time_constant.Step-0.07": {
+        "Std": "4.1949", 
+        "Stimulus": "Step-0.07", 
+        "Type": "time_constant", 
+        "Weight": "1", 
+        "Mean": "13.4025"
+    }, 
+    "time_constant.Step-0.084": {
+        "Std": "2.2911", 
+        "Stimulus": "Step-0.084", 
+        "Type": "time_constant", 
+        "Weight": "1", 
+        "Mean": "18.4753"
+    }, 
+    "time_constant.Step-0.098": {
+        "Std": "3.3058", 
+        "Stimulus": "Step-0.098", 
+        "Type": "time_constant", 
+        "Weight": "1", 
+        "Mean": "10.9198"
+    }, 
+    "time_constant.Step-0.112": {
+        "Std": "1.8686", 
+        "Stimulus": "Step-0.112", 
+        "Type": "time_constant", 
+        "Weight": "1", 
+        "Mean": "8.7157"
+    }, 
+    "time_constant.Step-0.126": {
+        "Std": "0.3646", 
+        "Stimulus": "Step-0.126", 
+        "Type": "time_constant", 
+        "Weight": "1", 
+        "Mean": "7.5642"
+    }, 
+    "time_constant.Step-0.14": {
+        "Std": "0.5783", 
+        "Stimulus": "Step-0.14", 
+        "Type": "time_constant", 
+        "Weight": "1", 
+        "Mean": "9.133"
+    }, 
+    "time_to_first_spike.Step0.21": {
+        "Std": "17.3477", 
+        "Stimulus": "Step0.21", 
+        "Type": "time_to_first_spike", 
+        "Weight": "1", 
+        "Mean": "40.6333"
+    }, 
+    "time_to_first_spike.Step0.28": {
+        "Std": "0.66", 
+        "Stimulus": "Step0.28", 
+        "Type": "time_to_first_spike", 
+        "Weight": "1", 
+        "Mean": "8.6333"
+    }, 
+    "time_to_first_spike.Step0.35": {
+        "Std": "0.66", 
+        "Stimulus": "Step0.35", 
+        "Type": "time_to_first_spike", 
+        "Weight": "1", 
+        "Mean": "6.5333"
+    }, 
+    "time_to_first_spike.Step0.42": {
+        "Std": "0.1886", 
+        "Stimulus": "Step0.42", 
+        "Type": "time_to_first_spike", 
+        "Weight": "1", 
+        "Mean": "4.8667"
+    }, 
+    "time_to_first_spike.Step0.56": {
+        "Std": "0.001", 
+        "Stimulus": "Step0.56", 
+        "Type": "time_to_first_spike", 
+        "Weight": "1", 
+        "Mean": "3.2"
+    }, 
+    "time_to_first_spike.Step0.7": {
+        "Std": "0.0943", 
+        "Stimulus": "Step0.7", 
+        "Type": "time_to_first_spike", 
+        "Weight": "1", 
+        "Mean": "2.2667"
+    }, 
+    "time_to_last_spike.Step0.21": {
+        "Std": "30.6413", 
+        "Stimulus": "Step0.21", 
+        "Type": "time_to_last_spike", 
+        "Weight": "1", 
+        "Mean": "755.9667"
+    }, 
+    "time_to_last_spike.Step0.28": {
+        "Std": "0.4714", 
+        "Stimulus": "Step0.28", 
+        "Type": "time_to_last_spike", 
+        "Weight": "1", 
+        "Mean": "786.9667"
+    }, 
+    "time_to_last_spike.Step0.35": {
+        "Std": "2.0742", 
+        "Stimulus": "Step0.35", 
+        "Type": "time_to_last_spike", 
+        "Weight": "1", 
+        "Mean": "792.9333"
+    }, 
+    "time_to_last_spike.Step0.42": {
+        "Std": "0.9428", 
+        "Stimulus": "Step0.42", 
+        "Type": "time_to_last_spike", 
+        "Weight": "1", 
+        "Mean": "797.7333"
+    }, 
+    "time_to_last_spike.Step0.56": {
+        "Std": "0.4714", 
+        "Stimulus": "Step0.56", 
+        "Type": "time_to_last_spike", 
+        "Weight": "1", 
+        "Mean": "794.6333"
+    }, 
+    "time_to_last_spike.Step0.7": {
+        "Std": "1.0842", 
+        "Stimulus": "Step0.7", 
+        "Type": "time_to_last_spike", 
+        "Weight": "1", 
+        "Mean": "796.7333"
+    }, 
+    "time_to_second_spike.Step0.21": {
+        "Std": "26.8701", 
+        "Stimulus": "Step0.21", 
+        "Type": "time_to_second_spike", 
+        "Weight": "1", 
+        "Mean": "91.9"
+    }, 
+    "time_to_second_spike.Step0.28": {
+        "Std": "2.027", 
+        "Stimulus": "Step0.28", 
+        "Type": "time_to_second_spike", 
+        "Weight": "1", 
+        "Mean": "22.1667"
+    }, 
+    "time_to_second_spike.Step0.35": {
+        "Std": "1.0842", 
+        "Stimulus": "Step0.35", 
+        "Type": "time_to_second_spike", 
+        "Weight": "1", 
+        "Mean": "16.7333"
+    }, 
+    "time_to_second_spike.Step0.42": {
+        "Std": "0.5185", 
+        "Stimulus": "Step0.42", 
+        "Type": "time_to_second_spike", 
+        "Weight": "1", 
+        "Mean": "12.8333"
+    }, 
+    "time_to_second_spike.Step0.56": {
+        "Std": "0.0471", 
+        "Stimulus": "Step0.56", 
+        "Type": "time_to_second_spike", 
+        "Weight": "1", 
+        "Mean": "9.4333"
+    }, 
+    "time_to_second_spike.Step0.7": {
+        "Std": "0.1886", 
+        "Stimulus": "Step0.7", 
+        "Type": "time_to_second_spike", 
+        "Weight": "1", 
+        "Mean": "7.6333"
+    }, 
+    "voltage_after_stim.Step-0.014": {
+        "Std": "1.4042", 
+        "Stimulus": "Step-0.014", 
+        "Type": "voltage_after_stim", 
+        "Weight": "1", 
+        "Mean": "-79.9819"
+    }, 
+    "voltage_after_stim.Step-0.028": {
+        "Std": "1.294", 
+        "Stimulus": "Step-0.028", 
+        "Type": "voltage_after_stim", 
+        "Weight": "1", 
+        "Mean": "-79.7727"
+    }, 
+    "voltage_after_stim.Step-0.042": {
+        "Std": "1.1668", 
+        "Stimulus": "Step-0.042", 
+        "Type": "voltage_after_stim", 
+        "Weight": "1", 
+        "Mean": "-80.2057"
+    }, 
+    "voltage_after_stim.Step-0.056": {
+        "Std": "1.5988", 
+        "Stimulus": "Step-0.056", 
+        "Type": "voltage_after_stim", 
+        "Weight": "1", 
+        "Mean": "-79.7458"
+    }, 
+    "voltage_after_stim.Step-0.07": {
+        "Std": "1.4255", 
+        "Stimulus": "Step-0.07", 
+        "Type": "voltage_after_stim", 
+        "Weight": "1", 
+        "Mean": "-80.0694"
+    }, 
+    "voltage_after_stim.Step-0.084": {
+        "Std": "0.4328", 
+        "Stimulus": "Step-0.084", 
+        "Type": "voltage_after_stim", 
+        "Weight": "1", 
+        "Mean": "-79.3033"
+    }, 
+    "voltage_after_stim.Step-0.098": {
+        "Std": "1.2269", 
+        "Stimulus": "Step-0.098", 
+        "Type": "voltage_after_stim", 
+        "Weight": "1", 
+        "Mean": "-80.2114"
+    }, 
+    "voltage_after_stim.Step-0.112": {
+        "Std": "1.1452", 
+        "Stimulus": "Step-0.112", 
+        "Type": "voltage_after_stim", 
+        "Weight": "1", 
+        "Mean": "-80.1376"
+    }, 
+    "voltage_after_stim.Step-0.126": {
+        "Std": "1.3658", 
+        "Stimulus": "Step-0.126", 
+        "Type": "voltage_after_stim", 
+        "Weight": "1", 
+        "Mean": "-80.6133"
+    }, 
+    "voltage_after_stim.Step-0.14": {
+        "Std": "1.5613", 
+        "Stimulus": "Step-0.14", 
+        "Type": "voltage_after_stim", 
+        "Weight": "1", 
+        "Mean": "-80.7197"
+    }, 
+    "voltage_after_stim.Step0.014": {
+        "Std": "1.3722", 
+        "Stimulus": "Step0.014", 
+        "Type": "voltage_after_stim", 
+        "Weight": "1", 
+        "Mean": "-79.8204"
+    }, 
+    "voltage_after_stim.Step0.028": {
+        "Std": "1.3875", 
+        "Stimulus": "Step0.028", 
+        "Type": "voltage_after_stim", 
+        "Weight": "1", 
+        "Mean": "-79.8952"
+    }, 
+    "voltage_after_stim.Step0.042": {
+        "Std": "0.8636", 
+        "Stimulus": "Step0.042", 
+        "Type": "voltage_after_stim", 
+        "Weight": "1", 
+        "Mean": "-80.0062"
+    }, 
+    "voltage_after_stim.Step0.056": {
+        "Std": "1.643", 
+        "Stimulus": "Step0.056", 
+        "Type": "voltage_after_stim", 
+        "Weight": "1", 
+        "Mean": "-80.0714"
+    }, 
+    "voltage_after_stim.Step0.07": {
+        "Std": "1.6281", 
+        "Stimulus": "Step0.07", 
+        "Type": "voltage_after_stim", 
+        "Weight": "1", 
+        "Mean": "-80.1032"
+    }, 
+    "voltage_after_stim.Step0.084": {
+        "Std": "1.4995", 
+        "Stimulus": "Step0.084", 
+        "Type": "voltage_after_stim", 
+        "Weight": "1", 
+        "Mean": "-80.3047"
+    }, 
+    "voltage_after_stim.Step0.098": {
+        "Std": "1.0167", 
+        "Stimulus": "Step0.098", 
+        "Type": "voltage_after_stim", 
+        "Weight": "1", 
+        "Mean": "-79.3789"
+    }, 
+    "voltage_after_stim.Step0.112": {
+        "Std": "1.1775", 
+        "Stimulus": "Step0.112", 
+        "Type": "voltage_after_stim", 
+        "Weight": "1", 
+        "Mean": "-80.2138"
+    }, 
+    "voltage_after_stim.Step0.126": {
+        "Std": "1.2317", 
+        "Stimulus": "Step0.126", 
+        "Type": "voltage_after_stim", 
+        "Weight": "1", 
+        "Mean": "-80.4419"
+    }, 
+    "voltage_after_stim.Step0.14": {
+        "Std": "1.0867", 
+        "Stimulus": "Step0.14", 
+        "Type": "voltage_after_stim", 
+        "Weight": "1", 
+        "Mean": "-80.7658"
+    }, 
+    "voltage_after_stim.Step0.21": {
+        "Std": "0.8706", 
+        "Stimulus": "Step0.21", 
+        "Type": "voltage_after_stim", 
+        "Weight": "1", 
+        "Mean": "-80.6572"
+    }, 
+    "voltage_after_stim.Step0.28": {
+        "Std": "0.5858", 
+        "Stimulus": "Step0.28", 
+        "Type": "voltage_after_stim", 
+        "Weight": "1", 
+        "Mean": "-81.4724"
+    }, 
+    "voltage_after_stim.Step0.35": {
+        "Std": "0.4092", 
+        "Stimulus": "Step0.35", 
+        "Type": "voltage_after_stim", 
+        "Weight": "1", 
+        "Mean": "-82.4684"
+    }, 
+    "voltage_after_stim.Step0.42": {
+        "Std": "0.31", 
+        "Stimulus": "Step0.42", 
+        "Type": "voltage_after_stim", 
+        "Weight": "1", 
+        "Mean": "-83.3564"
+    }, 
+    "voltage_after_stim.Step0.56": {
+        "Std": "0.9385", 
+        "Stimulus": "Step0.56", 
+        "Type": "voltage_after_stim", 
+        "Weight": "1", 
+        "Mean": "-82.0939"
+    }, 
+    "voltage_after_stim.Step0.7": {
+        "Std": "0.3641", 
+        "Stimulus": "Step0.7", 
+        "Type": "voltage_after_stim", 
+        "Weight": "1", 
+        "Mean": "-81.9964"
+    }, 
+    "voltage_base.Step-0.014": {
+        "Std": "1.0147", 
+        "Stimulus": "Step-0.014", 
+        "Type": "voltage_base", 
+        "Weight": "1", 
+        "Mean": "-79.2022"
+    }, 
+    "voltage_base.Step-0.028": {
+        "Std": "0.938", 
+        "Stimulus": "Step-0.028", 
+        "Type": "voltage_base", 
+        "Weight": "1", 
+        "Mean": "-79.4486"
+    }, 
+    "voltage_base.Step-0.042": {
+        "Std": "0.9694", 
+        "Stimulus": "Step-0.042", 
+        "Type": "voltage_base", 
+        "Weight": "1", 
+        "Mean": "-78.5494"
+    }, 
+    "voltage_base.Step-0.056": {
+        "Std": "0.8774", 
+        "Stimulus": "Step-0.056", 
+        "Type": "voltage_base", 
+        "Weight": "1", 
+        "Mean": "-80.1279"
+    }, 
+    "voltage_base.Step-0.07": {
+        "Std": "1.3763", 
+        "Stimulus": "Step-0.07", 
+        "Type": "voltage_base", 
+        "Weight": "1", 
+        "Mean": "-80.0263"
+    }, 
+    "voltage_base.Step-0.084": {
+        "Std": "0.5761", 
+        "Stimulus": "Step-0.084", 
+        "Type": "voltage_base", 
+        "Weight": "1", 
+        "Mean": "-78.4888"
+    }, 
+    "voltage_base.Step-0.098": {
+        "Std": "1.459", 
+        "Stimulus": "Step-0.098", 
+        "Type": "voltage_base", 
+        "Weight": "1", 
+        "Mean": "-79.7544"
+    }, 
+    "voltage_base.Step-0.112": {
+        "Std": "1.0553", 
+        "Stimulus": "Step-0.112", 
+        "Type": "voltage_base", 
+        "Weight": "1", 
+        "Mean": "-80.0576"
+    }, 
+    "voltage_base.Step-0.126": {
+        "Std": "1.1071", 
+        "Stimulus": "Step-0.126", 
+        "Type": "voltage_base", 
+        "Weight": "1", 
+        "Mean": "-80.493"
+    }, 
+    "voltage_base.Step-0.14": {
+        "Std": "1.0673", 
+        "Stimulus": "Step-0.14", 
+        "Type": "voltage_base", 
+        "Weight": "1", 
+        "Mean": "-80.4356"
+    }, 
+    "voltage_base.Step0.014": {
+        "Std": "1.3232", 
+        "Stimulus": "Step0.014", 
+        "Type": "voltage_base", 
+        "Weight": "1", 
+        "Mean": "-79.7736"
+    }, 
+    "voltage_base.Step0.028": {
+        "Std": "1.7056", 
+        "Stimulus": "Step0.028", 
+        "Type": "voltage_base", 
+        "Weight": "1", 
+        "Mean": "-79.6069"
+    }, 
+    "voltage_base.Step0.042": {
+        "Std": "0.8761", 
+        "Stimulus": "Step0.042", 
+        "Type": "voltage_base", 
+        "Weight": "1", 
+        "Mean": "-79.6901"
+    }, 
+    "voltage_base.Step0.056": {
+        "Std": "1.5626", 
+        "Stimulus": "Step0.056", 
+        "Type": "voltage_base", 
+        "Weight": "1", 
+        "Mean": "-80.6706"
+    }, 
+    "voltage_base.Step0.07": {
+        "Std": "1.5532", 
+        "Stimulus": "Step0.07", 
+        "Type": "voltage_base", 
+        "Weight": "1", 
+        "Mean": "-80.2671"
+    }, 
+    "voltage_base.Step0.084": {
+        "Std": "1.5539", 
+        "Stimulus": "Step0.084", 
+        "Type": "voltage_base", 
+        "Weight": "1", 
+        "Mean": "-80.417"
+    }, 
+    "voltage_base.Step0.098": {
+        "Std": "0.6108", 
+        "Stimulus": "Step0.098", 
+        "Type": "voltage_base", 
+        "Weight": "1", 
+        "Mean": "-79.196"
+    }, 
+    "voltage_base.Step0.112": {
+        "Std": "1.0722", 
+        "Stimulus": "Step0.112", 
+        "Type": "voltage_base", 
+        "Weight": "1", 
+        "Mean": "-80.2893"
+    }, 
+    "voltage_base.Step0.126": {
+        "Std": "1.1674", 
+        "Stimulus": "Step0.126", 
+        "Type": "voltage_base", 
+        "Weight": "1", 
+        "Mean": "-80.4871"
+    }, 
+    "voltage_base.Step0.14": {
+        "Std": "1.2953", 
+        "Stimulus": "Step0.14", 
+        "Type": "voltage_base", 
+        "Weight": "1", 
+        "Mean": "-80.5089"
+    }, 
+    "voltage_base.Step0.21": {
+        "Std": "1.0576", 
+        "Stimulus": "Step0.21", 
+        "Type": "voltage_base", 
+        "Weight": "1", 
+        "Mean": "-80.2244"
+    }, 
+    "voltage_base.Step0.28": {
+        "Std": "0.1166", 
+        "Stimulus": "Step0.28", 
+        "Type": "voltage_base", 
+        "Weight": "1", 
+        "Mean": "-79.9791"
+    }, 
+    "voltage_base.Step0.35": {
+        "Std": "0.81", 
+        "Stimulus": "Step0.35", 
+        "Type": "voltage_base", 
+        "Weight": "1", 
+        "Mean": "-80.9235"
+    }, 
+    "voltage_base.Step0.42": {
+        "Std": "0.8393", 
+        "Stimulus": "Step0.42", 
+        "Type": "voltage_base", 
+        "Weight": "1", 
+        "Mean": "-81.5452"
+    }, 
+    "voltage_base.Step0.56": {
+        "Std": "0.3746", 
+        "Stimulus": "Step0.56", 
+        "Type": "voltage_base", 
+        "Weight": "1", 
+        "Mean": "-81.2371"
+    }, 
+    "voltage_base.Step0.7": {
+        "Std": "0.222", 
+        "Stimulus": "Step0.7", 
+        "Type": "voltage_base", 
+        "Weight": "1", 
+        "Mean": "-80.1809"
+    }, 
+    "voltage_deflection.Step-0.014": {
+        "Std": "0.2257", 
+        "Stimulus": "Step-0.014", 
+        "Type": "voltage_deflection", 
+        "Weight": "1", 
+        "Mean": "-1.4083"
+    }, 
+    "voltage_deflection.Step-0.028": {
+        "Std": "0.0347", 
+        "Stimulus": "Step-0.028", 
+        "Type": "voltage_deflection", 
+        "Weight": "1", 
+        "Mean": "-1.8681"
+    }, 
+    "voltage_deflection.Step-0.042": {
+        "Std": "0.0385", 
+        "Stimulus": "Step-0.042", 
+        "Type": "voltage_deflection", 
+        "Weight": "1", 
+        "Mean": "-4.1098"
+    }, 
+    "voltage_deflection.Step-0.056": {
+        "Std": "0.8925", 
+        "Stimulus": "Step-0.056", 
+        "Type": "voltage_deflection", 
+        "Weight": "1", 
+        "Mean": "-4.2129"
+    }, 
+    "voltage_deflection.Step-0.07": {
+        "Std": "0.2068", 
+        "Stimulus": "Step-0.07", 
+        "Type": "voltage_deflection", 
+        "Weight": "1", 
+        "Mean": "-5.9414"
+    }, 
+    "voltage_deflection.Step-0.084": {
+        "Std": "0.1981", 
+        "Stimulus": "Step-0.084", 
+        "Type": "voltage_deflection", 
+        "Weight": "1", 
+        "Mean": "-6.9144"
+    }, 
+    "voltage_deflection.Step-0.098": {
+        "Std": "0.0785", 
+        "Stimulus": "Step-0.098", 
+        "Type": "voltage_deflection", 
+        "Weight": "1", 
+        "Mean": "-7.8874"
+    }, 
+    "voltage_deflection.Step-0.112": {
+        "Std": "0.0262", 
+        "Stimulus": "Step-0.112", 
+        "Type": "voltage_deflection", 
+        "Weight": "1", 
+        "Mean": "-8.9429"
+    }, 
+    "voltage_deflection.Step-0.126": {
+        "Std": "0.7337", 
+        "Stimulus": "Step-0.126", 
+        "Type": "voltage_deflection", 
+        "Weight": "1", 
+        "Mean": "-10.5304"
+    }, 
+    "voltage_deflection.Step-0.14": {
+        "Std": "0.0069", 
+        "Stimulus": "Step-0.14", 
+        "Type": "voltage_deflection", 
+        "Weight": "1", 
+        "Mean": "-10.6563"
+    }, 
+    "voltage_deflection_begin.Step-0.014": {
+        "Std": "0.0803", 
+        "Stimulus": "Step-0.014", 
+        "Type": "voltage_deflection_begin", 
+        "Weight": "1", 
+        "Mean": "-1.163"
+    }, 
+    "voltage_deflection_begin.Step-0.028": {
+        "Std": "0.0301", 
+        "Stimulus": "Step-0.028", 
+        "Type": "voltage_deflection_begin", 
+        "Weight": "1", 
+        "Mean": "-2.4755"
+    }, 
+    "voltage_deflection_begin.Step-0.042": {
+        "Std": "0.2239", 
+        "Stimulus": "Step-0.042", 
+        "Type": "voltage_deflection_begin", 
+        "Weight": "1", 
+        "Mean": "-3.0804"
+    }, 
+    "voltage_deflection_begin.Step-0.056": {
+        "Std": "0.1494", 
+        "Stimulus": "Step-0.056", 
+        "Type": "voltage_deflection_begin", 
+        "Weight": "1", 
+        "Mean": "-4.1122"
+    }, 
+    "voltage_deflection_begin.Step-0.07": {
+        "Std": "0.0107", 
+        "Stimulus": "Step-0.07", 
+        "Type": "voltage_deflection_begin", 
+        "Weight": "1", 
+        "Mean": "-5.6167"
+    }, 
+    "voltage_deflection_begin.Step-0.084": {
+        "Std": "0.5143", 
+        "Stimulus": "Step-0.084", 
+        "Type": "voltage_deflection_begin", 
+        "Weight": "1", 
+        "Mean": "-6.3946"
+    }, 
+    "voltage_deflection_begin.Step-0.098": {
+        "Std": "0.0959", 
+        "Stimulus": "Step-0.098", 
+        "Type": "voltage_deflection_begin", 
+        "Weight": "1", 
+        "Mean": "-7.9787"
+    }, 
+    "voltage_deflection_begin.Step-0.112": {
+        "Std": "0.3199", 
+        "Stimulus": "Step-0.112", 
+        "Type": "voltage_deflection_begin", 
+        "Weight": "1", 
+        "Mean": "-8.683"
+    }, 
+    "voltage_deflection_begin.Step-0.126": {
+        "Std": "0.2598", 
+        "Stimulus": "Step-0.126", 
+        "Type": "voltage_deflection_begin", 
+        "Weight": "1", 
+        "Mean": "-9.3463"
+    }, 
+    "voltage_deflection_begin.Step-0.14": {
+        "Std": "0.5354", 
+        "Stimulus": "Step-0.14", 
+        "Type": "voltage_deflection_begin", 
+        "Weight": "1", 
+        "Mean": "-10.9288"
+    }, 
+    "voltage_deflection_vb_ssse.Step-0.014": {
+        "Std": "0.5799", 
+        "Stimulus": "Step-0.014", 
+        "Type": "voltage_deflection_vb_ssse", 
+        "Weight": "1", 
+        "Mean": "-1.6458"
+    }, 
+    "voltage_deflection_vb_ssse.Step-0.028": {
+        "Std": "0.6961", 
+        "Stimulus": "Step-0.028", 
+        "Type": "voltage_deflection_vb_ssse", 
+        "Weight": "1", 
+        "Mean": "-2.5474"
+    }, 
+    "voltage_deflection_vb_ssse.Step-0.042": {
+        "Std": "0.5003", 
+        "Stimulus": "Step-0.042", 
+        "Type": "voltage_deflection_vb_ssse", 
+        "Weight": "1", 
+        "Mean": "-4.7156"
+    }, 
+    "voltage_deflection_vb_ssse.Step-0.056": {
+        "Std": "0.7562", 
+        "Stimulus": "Step-0.056", 
+        "Type": "voltage_deflection_vb_ssse", 
+        "Weight": "1", 
+        "Mean": "-4.2867"
+    }, 
+    "voltage_deflection_vb_ssse.Step-0.07": {
+        "Std": "0.3456", 
+        "Stimulus": "Step-0.07", 
+        "Type": "voltage_deflection_vb_ssse", 
+        "Weight": "1", 
+        "Mean": "-5.3624"
+    }, 
+    "voltage_deflection_vb_ssse.Step-0.084": {
+        "Std": "0.0916", 
+        "Stimulus": "Step-0.084", 
+        "Type": "voltage_deflection_vb_ssse", 
+        "Weight": "1", 
+        "Mean": "-7.6847"
+    }, 
+    "voltage_deflection_vb_ssse.Step-0.098": {
+        "Std": "0.0963", 
+        "Stimulus": "Step-0.098", 
+        "Type": "voltage_deflection_vb_ssse", 
+        "Weight": "1", 
+        "Mean": "-7.808"
+    }, 
+    "voltage_deflection_vb_ssse.Step-0.112": {
+        "Std": "0.3733", 
+        "Stimulus": "Step-0.112", 
+        "Type": "voltage_deflection_vb_ssse", 
+        "Weight": "1", 
+        "Mean": "-9.0126"
+    }, 
+    "voltage_deflection_vb_ssse.Step-0.126": {
+        "Std": "0.9701", 
+        "Stimulus": "Step-0.126", 
+        "Type": "voltage_deflection_vb_ssse", 
+        "Weight": "1", 
+        "Mean": "-10.3186"
+    }, 
+    "voltage_deflection_vb_ssse.Step-0.14": {
+        "Std": "0.3226", 
+        "Stimulus": "Step-0.14", 
+        "Type": "voltage_deflection_vb_ssse", 
+        "Weight": "1", 
+        "Mean": "-11.5171"
+    }
+}

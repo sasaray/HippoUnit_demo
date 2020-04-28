@@ -1,0 +1,28 @@
+//Original file 'Model_validation.hoc' modified by Sára Sáray in order to run validation tests on the base model
+//Template is not loaded directly by HippoUnit, because "current_balanceFS(-68)" has to be called after initializing the template
+
+ 
+//Initialize NEURON
+	load_file("nrngui.hoc") 	
+        v_init = -68          // vrest
+
+	steps_per_ms=10
+	dt=1/steps_per_ms
+
+	  
+//Open Fast Spiking Template
+xopen("tempSomogyi23.hoc") // template
+objref FSdetailedtemplate
+FSdetailedtemplate = new FScell("Somogyi_2.hoc")// cell reconstruction. 
+
+
+xopen("../bash_templates/current_balance_fs.hoc")
+current_balanceFS(-68)
+
+
+
+
+
+
+
+
