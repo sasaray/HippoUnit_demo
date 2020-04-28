@@ -3,7 +3,7 @@
 
  
 //Initialize NEURON
-	load_file("nrngui.hoc") 	
+	//load_file("nrngui.hoc") 	
         v_init = -68          // vrest
 
 	steps_per_ms=10
