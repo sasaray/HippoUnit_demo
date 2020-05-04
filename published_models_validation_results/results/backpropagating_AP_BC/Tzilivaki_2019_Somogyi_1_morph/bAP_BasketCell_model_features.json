@@ -1,0 +1,9 @@
+{
+    "soma": {
+        "AP_half_duration": "0.2637305699481051 ms", 
+        "AP_rise_slope": "0.054001148721683136 V/ms", 
+        "AP_amplitude": "111.89189225598918 mV"
+    }, 
+    "basal": {}, 
+    "apical": {}
+}

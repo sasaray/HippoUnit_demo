@@ -1,0 +1,52 @@
+{
+    "soma": {
+        "APlast_half_duration": "0.1999999999998181 ms", 
+        "AP1_half_duration": "0.3000000000000682 ms", 
+        "AP1_amplitude": "122.5511182737561 mV", 
+        "APlast_amplitude": "110.69421374666337 mV"
+    }, 
+    "axon": {
+        "('FScell[0].axon[0]', 0.9499999999999998)": {
+            "APlast_half_duration": "0.1999999999998181 ms", 
+            "distance": 158.20175206654983, 
+            "AP1_half_duration": "0.20000000000004547 ms", 
+            "AP1_amplitude": "117.90625055187935 mV", 
+            "APlast_amplitude": "126.01986995141051 mV"
+        }, 
+        "('FScell[0].axon[383]', 0.7499999999999999)": {
+            "APlast_half_duration": "0.1999999999998181 ms", 
+            "distance": 191.17718488309123, 
+            "AP1_half_duration": "0.3000000000000682 ms", 
+            "AP1_amplitude": "118.21681865913118 mV", 
+            "APlast_amplitude": "127.1649769126568 mV"
+        }, 
+        "('FScell[0].axon[381]', 0.8499999999999999)": {
+            "APlast_half_duration": "0.1999999999998181 ms", 
+            "distance": 194.57451175944828, 
+            "AP1_half_duration": "0.3000000000000682 ms", 
+            "AP1_amplitude": "119.23513597433706 mV", 
+            "APlast_amplitude": "127.10538842971997 mV"
+        }, 
+        "('FScell[0].axon[381]', 0.15000000000000002)": {
+            "APlast_half_duration": "0.1999999999998181 ms", 
+            "distance": 189.1599348589761, 
+            "AP1_half_duration": "0.3000000000000682 ms", 
+            "AP1_amplitude": "119.20277892711233 mV", 
+            "APlast_amplitude": "127.02794521405289 mV"
+        }, 
+        "('FScell[0].axon[382]', 0.9499999999999998)": {
+            "APlast_half_duration": "0.29999999999972715 ms", 
+            "distance": 186.37998297717797, 
+            "AP1_half_duration": "0.3000000000000682 ms", 
+            "AP1_amplitude": "119.0155858659852 mV", 
+            "APlast_amplitude": "126.67965232349647 mV"
+        }, 
+        "('FScell[0].axon[382]', 0.15000000000000002)": {
+            "APlast_half_duration": "0.29999999999972715 ms", 
+            "distance": 166.72446384868311, 
+            "AP1_half_duration": "0.3000000000000682 ms", 
+            "AP1_amplitude": "117.69117704948556 mV", 
+            "APlast_amplitude": "127.09197963944925 mV"
+        }
+    }
+}

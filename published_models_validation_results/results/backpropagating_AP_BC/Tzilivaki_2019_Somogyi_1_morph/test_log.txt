@@ -1,0 +1,7 @@
+Apical dendritic locations to be tested (with their actual distances):
+[]
+Basal dendritic locations to be tested (with their actual distances):
+OrderedDict()
+---------------------------------------------------------------------------------------------------
+ZScore_avg = 5.35
+---------------------------------------------------------------------------------------------------

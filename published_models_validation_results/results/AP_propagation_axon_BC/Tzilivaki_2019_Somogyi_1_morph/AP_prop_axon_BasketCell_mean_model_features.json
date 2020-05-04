@@ -1,0 +1,82 @@
+{
+    "soma": {
+        "APlast_half_duration": "0.1999999999998181 ms", 
+        "AP1_half_duration": "0.3000000000000682 ms", 
+        "AP1_amplitude": "122.5511182737561 mV", 
+        "APlast_amplitude": "110.69421374666337 mV"
+    }, 
+    "axon": {
+        "50": {
+            "APlast_half_duration": {
+                "std": "nan ms", 
+                "mean": "nan ms"
+            }, 
+            "AP1_half_duration": {
+                "std": "nan ms", 
+                "mean": "nan ms"
+            }, 
+            "AP1_amplitude": {
+                "std": "nan mV", 
+                "mean": "nan mV"
+            }, 
+            "APlast_amplitude": {
+                "std": "nan mV", 
+                "mean": "nan mV"
+            }
+        }, 
+        "100": {
+            "APlast_half_duration": {
+                "std": "nan ms", 
+                "mean": "nan ms"
+            }, 
+            "AP1_half_duration": {
+                "std": "nan ms", 
+                "mean": "nan ms"
+            }, 
+            "AP1_amplitude": {
+                "std": "nan mV", 
+                "mean": "nan mV"
+            }, 
+            "APlast_amplitude": {
+                "std": "nan mV", 
+                "mean": "nan mV"
+            }
+        }, 
+        "150": {
+            "APlast_half_duration": {
+                "std": "0.0471404520790335 ms", 
+                "mean": "0.2666666666666136 ms"
+            }, 
+            "AP1_half_duration": {
+                "std": "0.05000000000001137 ms", 
+                "mean": "0.25000000000005684 ms"
+            }, 
+            "AP1_amplitude": {
+                "std": "0.10753675119689632 mV", 
+                "mean": "117.79871380068246 mV"
+            }, 
+            "APlast_amplitude": {
+                "std": "4.381767335183469 mV", 
+                "mean": "120.89646908027139 mV"
+            }
+        }, 
+        "200": {
+            "APlast_half_duration": {
+                "std": "1.3642420571769013e-13 ms", 
+                "mean": "0.3 ms"
+            }, 
+            "AP1_half_duration": {
+                "std": "0.0 ms", 
+                "mean": "0.3000000000000682 ms"
+            }, 
+            "AP1_amplitude": {
+                "std": "0.413174246380047 mV", 
+                "mean": "118.91757985664144 mV"
+            }, 
+            "APlast_amplitude": {
+                "std": "3.126744857389358 mV", 
+                "mean": "120.46999435001244 mV"
+            }
+        }
+    }
+}

@@ -1,0 +1,115 @@
+{
+    "soma": {
+        "AP_half_duration": "0.2637305699481051 ms", 
+        "AP_rise_slope": "0.054001148721683136 V/ms", 
+        "AP_amplitude": "111.89189225598918 mV"
+    }, 
+    "basal": {
+        "20": {
+            "APlast_half_duration": {
+                "std": "nan ms", 
+                "mean": "nan ms"
+            }, 
+            "AP1_half_duration": {
+                "std": "nan ms", 
+                "mean": "nan ms"
+            }, 
+            "AP1_rise_slope": {
+                "std": "nan V/ms", 
+                "mean": "nan V/ms"
+            }, 
+            "APlast_rise_slope": {
+                "std": "nan V/ms", 
+                "mean": "nan V/ms"
+            }, 
+            "AP1_amplitude": {
+                "std": "nan mV", 
+                "mean": "nan mV"
+            }, 
+            "APlast_amplitude": {
+                "std": "nan mV", 
+                "mean": "nan mV"
+            }
+        }, 
+        "50": {
+            "APlast_half_duration": {
+                "std": "nan ms", 
+                "mean": "nan ms"
+            }, 
+            "AP1_half_duration": {
+                "std": "nan ms", 
+                "mean": "nan ms"
+            }, 
+            "AP1_rise_slope": {
+                "std": "nan V/ms", 
+                "mean": "nan V/ms"
+            }, 
+            "APlast_rise_slope": {
+                "std": "nan V/ms", 
+                "mean": "nan V/ms"
+            }, 
+            "AP1_amplitude": {
+                "std": "nan mV", 
+                "mean": "nan mV"
+            }, 
+            "APlast_amplitude": {
+                "std": "nan mV", 
+                "mean": "nan mV"
+            }
+        }
+    }, 
+    "apical": {
+        "50": {
+            "APlast_half_duration": {
+                "std": "nan ms", 
+                "mean": "nan ms"
+            }, 
+            "AP1_half_duration": {
+                "std": "nan ms", 
+                "mean": "nan ms"
+            }, 
+            "AP1_rise_slope": {
+                "std": "nan V/ms", 
+                "mean": "nan V/ms"
+            }, 
+            "APlast_rise_slope": {
+                "std": "nan V/ms", 
+                "mean": "nan V/ms"
+            }, 
+            "AP1_amplitude": {
+                "std": "nan mV", 
+                "mean": "nan mV"
+            }, 
+            "APlast_amplitude": {
+                "std": "nan mV", 
+                "mean": "nan mV"
+            }
+        }, 
+        "150": {
+            "APlast_half_duration": {
+                "std": "nan ms", 
+                "mean": "nan ms"
+            }, 
+            "AP1_half_duration": {
+                "std": "nan ms", 
+                "mean": "nan ms"
+            }, 
+            "AP1_rise_slope": {
+                "std": "nan V/ms", 
+                "mean": "nan V/ms"
+            }, 
+            "APlast_rise_slope": {
+                "std": "nan V/ms", 
+                "mean": "nan V/ms"
+            }, 
+            "AP1_amplitude": {
+                "std": "nan mV", 
+                "mean": "nan mV"
+            }, 
+            "APlast_amplitude": {
+                "std": "nan mV", 
+                "mean": "nan mV"
+            }
+        }
+    }
+}

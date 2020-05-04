@@ -1,0 +1,124 @@
+{
+    "soma": {
+        "AP_rise_slope": {
+            "std": "0.0827408953828154 V/ms", 
+            "mean": "0.46292750000000005 V/ms"
+        }, 
+        "AP_half_duration": {
+            "std": "0.13720136661126958 ms", 
+            "mean": "0.4928 ms"
+        }, 
+        "AP_amplitude": {
+            "std": "4.724113329504277 mV", 
+            "mean": "67.29650000000001 mV"
+        }
+    }, 
+    "basal": {
+        "50": {
+            "APlast_rise_slope": {
+                "std": "0.06805727789884047 V/ms", 
+                "mean": "0.164065 V/ms"
+            }, 
+            "APlast_half_duration": {
+                "std": "0.3060911459026543 ms", 
+                "mean": "1.0027199999999998 ms"
+            }, 
+            "AP1_half_duration": {
+                "std": "0.1878773280627548 ms", 
+                "mean": "0.67916 ms"
+            }, 
+            "AP1_amplitude": {
+                "std": "9.73011133315316 mV", 
+                "mean": "58.86933333333334 mV"
+            }, 
+            "APlast_amplitude": {
+                "std": "10.702970496081917 mV", 
+                "mean": "41.3284 mV"
+            }, 
+            "AP1_rise_slope": {
+                "std": "0.08548446832612344 V/ms", 
+                "mean": "0.26931499999999997 V/ms"
+            }
+        }, 
+        "20": {
+            "APlast_rise_slope": {
+                "std": "0.04180204241421703 V/ms", 
+                "mean": "0.14427 V/ms"
+            }, 
+            "APlast_half_duration": {
+                "std": "0.26653880467954383 ms", 
+                "mean": "1.15986 ms"
+            }, 
+            "AP1_half_duration": {
+                "std": "0.03433737840248662 ms", 
+                "mean": "0.47603333333333336 ms"
+            }, 
+            "AP1_amplitude": {
+                "std": "8.298923584819097 mV", 
+                "mean": "58.862 mV"
+            }, 
+            "APlast_amplitude": {
+                "std": "1.7630275628872063 mV", 
+                "mean": "38.37125 mV"
+            }, 
+            "AP1_rise_slope": {
+                "std": "0.031484999999999985 V/ms", 
+                "mean": "0.299155 V/ms"
+            }
+        }
+    }, 
+    "apical": {
+        "50": {
+            "APlast_rise_slope": {
+                "std": "0.01745872600990373 V/ms", 
+                "mean": "0.20130833333333334 V/ms"
+            }, 
+            "APlast_half_duration": {
+                "std": "0.16059248083269653 ms", 
+                "mean": "0.82311 ms"
+            }, 
+            "AP1_half_duration": {
+                "std": "0.05286701607702944 ms", 
+                "mean": "0.5110166666666667 ms"
+            }, 
+            "AP1_amplitude": {
+                "std": "16.534183313267537 mV", 
+                "mean": "60.88185714285714 mV"
+            }, 
+            "APlast_amplitude": {
+                "std": "9.788293645472638 mV", 
+                "mean": "55.728899999999996 mV"
+            }, 
+            "AP1_rise_slope": {
+                "std": "0.024778746653418244 V/ms", 
+                "mean": "0.35536 V/ms"
+            }
+        }, 
+        "150": {
+            "APlast_rise_slope": {
+                "std": "0.022601746245220378 V/ms", 
+                "mean": "0.07742 V/ms"
+            }, 
+            "APlast_half_duration": {
+                "std": "0.4768993743161554 ms", 
+                "mean": "1.3934363636363636 ms"
+            }, 
+            "AP1_half_duration": {
+                "std": "0.12649325673726644 ms", 
+                "mean": "0.6134999999999999 ms"
+            }, 
+            "AP1_amplitude": {
+                "std": "10.13968794150098 mV", 
+                "mean": "26.190857142857144 mV"
+            }, 
+            "APlast_amplitude": {
+                "std": "8.180314650291747 mV", 
+                "mean": "24.308333333333334 mV"
+            }, 
+            "AP1_rise_slope": {
+                "std": "0.053186773694218384 V/ms", 
+                "mean": "0.127972 V/ms"
+            }
+        }
+    }
+}

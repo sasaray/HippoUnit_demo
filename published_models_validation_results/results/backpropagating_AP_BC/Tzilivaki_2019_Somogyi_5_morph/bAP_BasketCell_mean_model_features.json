@@ -1,0 +1,115 @@
+{
+    "soma": {
+        "AP_half_duration": "0.36302521008391936 ms", 
+        "AP_rise_slope": "0.09489302588685941 V/ms", 
+        "AP_amplitude": "95.81520532485334 mV"
+    }, 
+    "basal": {
+        "20": {
+            "APlast_half_duration": {
+                "std": "0.09270248108870728 ms", 
+                "mean": "0.4875000000000398 ms"
+            }, 
+            "AP1_half_duration": {
+                "std": "0.09897433186110119 ms", 
+                "mean": "0.4857142857143962 ms"
+            }, 
+            "AP1_rise_slope": {
+                "std": "0.007305694217934296 V/ms", 
+                "mean": "0.0844985760176851 V/ms"
+            }, 
+            "APlast_rise_slope": {
+                "std": "0.00683542871288941 V/ms", 
+                "mean": "0.08444307352896459 V/ms"
+            }, 
+            "AP1_amplitude": {
+                "std": "2.3323673388436212 mV", 
+                "mean": "93.55533124647825 mV"
+            }, 
+            "APlast_amplitude": {
+                "std": "2.211597869265232 mV", 
+                "mean": "93.41841630549712 mV"
+            }
+        }, 
+        "50": {
+            "APlast_half_duration": {
+                "std": "0.41395413356005734 ms", 
+                "mean": "0.744444444444538 ms"
+            }, 
+            "AP1_half_duration": {
+                "std": "0.4357106264484335 ms", 
+                "mean": "0.7625000000001734 ms"
+            }, 
+            "AP1_rise_slope": {
+                "std": "0.0049064211186934424 V/ms", 
+                "mean": "0.07576789274727969 V/ms"
+            }, 
+            "APlast_rise_slope": {
+                "std": "0.004640558970243369 V/ms", 
+                "mean": "0.07589856103250922 V/ms"
+            }, 
+            "AP1_amplitude": {
+                "std": "1.331320927184572 mV", 
+                "mean": "90.58351275332649 mV"
+            }, 
+            "APlast_amplitude": {
+                "std": "1.3702790726912455 mV", 
+                "mean": "90.77786564486028 mV"
+            }
+        }
+    }, 
+    "apical": {
+        "50": {
+            "APlast_half_duration": {
+                "std": "nan ms", 
+                "mean": "nan ms"
+            }, 
+            "AP1_half_duration": {
+                "std": "nan ms", 
+                "mean": "nan ms"
+            }, 
+            "AP1_rise_slope": {
+                "std": "nan V/ms", 
+                "mean": "nan V/ms"
+            }, 
+            "APlast_rise_slope": {
+                "std": "nan V/ms", 
+                "mean": "nan V/ms"
+            }, 
+            "AP1_amplitude": {
+                "std": "nan mV", 
+                "mean": "nan mV"
+            }, 
+            "APlast_amplitude": {
+                "std": "nan mV", 
+                "mean": "nan mV"
+            }
+        }, 
+        "150": {
+            "APlast_half_duration": {
+                "std": "nan ms", 
+                "mean": "nan ms"
+            }, 
+            "AP1_half_duration": {
+                "std": "nan ms", 
+                "mean": "nan ms"
+            }, 
+            "AP1_rise_slope": {
+                "std": "nan V/ms", 
+                "mean": "nan V/ms"
+            }, 
+            "APlast_rise_slope": {
+                "std": "nan V/ms", 
+                "mean": "nan V/ms"
+            }, 
+            "AP1_amplitude": {
+                "std": "nan mV", 
+                "mean": "nan mV"
+            }, 
+            "APlast_amplitude": {
+                "std": "nan mV", 
+                "mean": "nan mV"
+            }
+        }
+    }
+}

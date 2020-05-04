@@ -1,0 +1,34 @@
+{
+    "soma": {
+        "APlast_half_duration": 0.35985206588701213, 
+        "AP1_half_duration": 2.539538425061915, 
+        "AP1_amplitude": 1.5325102154416304, 
+        "APlast_amplitude": 2.292842932929965
+    }, 
+    "axon": {
+        "200": {
+            "APlast_half_duration": Infinity, 
+            "AP1_half_duration": 4.186230058769176, 
+            "AP1_amplitude": 14.469509031619824, 
+            "APlast_amplitude": 15.944644453242528
+        }, 
+        "50": {
+            "APlast_half_duration": NaN, 
+            "AP1_half_duration": NaN, 
+            "AP1_amplitude": NaN, 
+            "APlast_amplitude": NaN
+        }, 
+        "100": {
+            "APlast_half_duration": 3.812965301951408, 
+            "AP1_half_duration": 0.35968189863064903, 
+            "AP1_amplitude": 2.006473340359672, 
+            "APlast_amplitude": 4.6905122442431315
+        }, 
+        "150": {
+            "APlast_half_duration": 5.487109871127221, 
+            "AP1_half_duration": 0.9248887297639937, 
+            "AP1_amplitude": 3.4092331043938486, 
+            "APlast_amplitude": 2.9378699366930623
+        }
+    }
+}

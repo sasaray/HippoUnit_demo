@@ -1,0 +1,43 @@
+{
+    "soma": {
+        "AP_rise_slope": 4.942251946710834, 
+        "AP_half_duration": 1.6695856295725802, 
+        "AP_amplitude": 9.439949710238803
+    }, 
+    "basal": {
+        "50": {
+            "APlast_rise_slope": NaN, 
+            "APlast_half_duration": NaN, 
+            "AP1_half_duration": NaN, 
+            "AP1_amplitude": NaN, 
+            "APlast_amplitude": NaN, 
+            "AP1_rise_slope": NaN
+        }, 
+        "20": {
+            "APlast_rise_slope": NaN, 
+            "APlast_half_duration": NaN, 
+            "AP1_half_duration": NaN, 
+            "AP1_amplitude": NaN, 
+            "APlast_amplitude": NaN, 
+            "AP1_rise_slope": NaN
+        }
+    }, 
+    "apical": {
+        "50": {
+            "APlast_rise_slope": NaN, 
+            "APlast_half_duration": NaN, 
+            "AP1_half_duration": NaN, 
+            "AP1_amplitude": NaN, 
+            "APlast_amplitude": NaN, 
+            "AP1_rise_slope": NaN
+        }, 
+        "150": {
+            "APlast_rise_slope": NaN, 
+            "APlast_half_duration": NaN, 
+            "AP1_half_duration": NaN, 
+            "AP1_amplitude": NaN, 
+            "APlast_amplitude": NaN, 
+            "AP1_rise_slope": NaN
+        }
+    }
+}

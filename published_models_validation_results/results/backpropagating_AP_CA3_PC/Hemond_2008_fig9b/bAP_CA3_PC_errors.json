@@ -1,0 +1,110 @@
+{
+    "soma": {
+        "long input": {
+            "AP amplitude": 2.4766495246694427, 
+            "AP half-duration": 1.0496311483040488
+        }, 
+        "train of brief inputs": {
+            "50 Hz": {
+                "AP amplitude-AP5/AP1": 1.720356785369125, 
+                "AP half-duration-AP5/AP1": 1.2691683893550711
+            }, 
+            "20 Hz": {
+                "AP amplitude-AP5/AP1": 27.213626997037174, 
+                "AP half-duration-AP5/AP1": 1.3989102064608403
+            }, 
+            "100 Hz": {
+                "AP amplitude-AP5/AP1": 0.4573583061721331, 
+                "AP half-duration-AP5/AP1": 1.4006392764838842
+            }
+        }
+    }, 
+    "basal": {
+        "long input": {
+            "50": {
+                "AP amplitude": 3.515258489055129, 
+                "AP half-duration": 4.110879193088537
+            }
+        }, 
+        "train of brief inputs": {
+            "50 Hz": {
+                "50": {
+                    "AP amplitude-AP5/AP1": 2.854273553753068, 
+                    "AP half-duration-AP5/AP1": 2.7465758479217213
+                }
+            }, 
+            "20 Hz": {
+                "50": {
+                    "AP amplitude-AP5/AP1": 6.823375046487185, 
+                    "AP half-duration-AP5/AP1": 0.6862880886426587
+                }
+            }, 
+            "100 Hz": {
+                "50": {
+                    "AP amplitude-AP5/AP1": 13.84168393841376, 
+                    "AP half-duration-AP5/AP1": 13.240212570528502
+                }
+            }
+        }
+    }, 
+    "apical": {
+        "long input": {
+            "200": {
+                "AP amplitude": 1.3370544228623378, 
+                "AP half-duration": 3.673186154244308
+            }, 
+            "100": {
+                "AP amplitude": 1.900691895634115, 
+                "AP half-duration": 1.5309296849165892
+            }, 
+            "300": {
+                "AP amplitude": 3.7892376040427194, 
+                "AP half-duration": 2.7442077410773487
+            }
+        }, 
+        "train of brief inputs": {
+            "50 Hz": {
+                "200": {
+                    "AP amplitude-AP5/AP1": 3.4291273701317735, 
+                    "AP half-duration-AP5/AP1": 4.588376465133527
+                }, 
+                "300": {
+                    "AP amplitude-AP5/AP1": 10.74582304083812, 
+                    "AP half-duration-AP5/AP1": 6.051325437112237
+                }, 
+                "100": {
+                    "AP amplitude-AP5/AP1": 2.592033064780083, 
+                    "AP half-duration-AP5/AP1": 2.2991398786938273
+                }
+            }, 
+            "20 Hz": {
+                "200": {
+                    "AP amplitude-AP5/AP1": 3.132066513651347, 
+                    "AP half-duration-AP5/AP1": 4.214996663001883
+                }, 
+                "300": {
+                    "AP amplitude-AP5/AP1": 3.34562695320919, 
+                    "AP half-duration-AP5/AP1": 1.2005444554942797
+                }, 
+                "100": {
+                    "AP amplitude-AP5/AP1": 3.6584628811728304, 
+                    "AP half-duration-AP5/AP1": 0.6877733160732459
+                }
+            }, 
+            "100 Hz": {
+                "200": {
+                    "AP amplitude-AP5/AP1": 2.168262576347113, 
+                    "AP half-duration-AP5/AP1": 0.05571706432007957
+                }, 
+                "300": {
+                    "AP amplitude-AP5/AP1": 15.35715204814413, 
+                    "AP half-duration-AP5/AP1": 1.403541451075083
+                }, 
+                "100": {
+                    "AP amplitude-AP5/AP1": 1.9931741838558246, 
+                    "AP half-duration-AP5/AP1": 2.6479351001344127
+                }
+            }
+        }
+    }
+}
