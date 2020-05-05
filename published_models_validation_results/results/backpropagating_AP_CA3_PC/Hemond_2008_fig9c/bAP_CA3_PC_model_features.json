@@ -6,8 +6,8 @@
         }, 
         "train of brief inputs": {
             "50 Hz": {
-                "AP amplitude-AP5/AP1": "0.5391687065810414", 
-                "AP half-duration-AP5/AP1": "0.625"
+                "AP amplitude-AP5/AP1": "0.9585811436259138", 
+                "AP half-duration-AP5/AP1": "0.8823529411764706"
             }, 
             "20 Hz": {
                 "AP amplitude-AP5/AP1": "1.0102730367916082", 
@@ -46,23 +46,23 @@
             "50 Hz": {
                 "('dendrite[1]', 0.03333333333333333)": {
                     "distance": 57.03782358057081, 
-                    "AP amplitude-AP5/AP1": "0.954115690085812", 
-                    "AP half-duration-AP5/AP1": "1.0"
+                    "AP amplitude-AP5/AP1": "0.9543253248688474", 
+                    "AP half-duration-AP5/AP1": "0.9375"
                 }, 
                 "('dendrite[1]', 0.1)": {
                     "distance": 72.14248582071593, 
-                    "AP amplitude-AP5/AP1": "0.9604909457188566", 
-                    "AP half-duration-AP5/AP1": "0.9375"
+                    "AP amplitude-AP5/AP1": "0.9568604366386235", 
+                    "AP half-duration-AP5/AP1": "1.0"
                 }, 
                 "('dendrite[41]', 0.1)": {
                     "distance": 71.45895130423679, 
-                    "AP amplitude-AP5/AP1": "0.9645153830681589", 
-                    "AP half-duration-AP5/AP1": "1.0"
+                    "AP amplitude-AP5/AP1": "0.953322050388987", 
+                    "AP half-duration-AP5/AP1": "0.25"
                 }, 
                 "('dendrite[32]', 0.5)": {
                     "distance": 43.98126520143197, 
-                    "AP amplitude-AP5/AP1": "0.955451496871063", 
-                    "AP half-duration-AP5/AP1": "1.0"
+                    "AP amplitude-AP5/AP1": "0.9549927285515247", 
+                    "AP half-duration-AP5/AP1": "0.9375"
                 }
             }, 
             "20 Hz": {
@@ -115,308 +115,308 @@
         "long input": {
             "('apical_dendrite[25]', 0.8999999999999999)": {
                 "AP amplitude": "61.451533309512016 mV", 
-                "distance": 220.1854481795559, 
+                "distance": 208.9674477675686, 
                 "AP half-duration": "1.2000000000002728 mV"
             }, 
             "('apical_dendrite[26]', 0.49999999999999994)": {
                 "AP amplitude": "65.25241635354486 mV", 
-                "distance": 300.1286104610597, 
+                "distance": 288.9106100490724, 
                 "AP half-duration": "1.2000000000002728 mV"
             }, 
             "('apical_dendrite[25]', 0.7)": {
                 "AP amplitude": "59.91682530750335 mV", 
-                "distance": 202.14269500166426, 
+                "distance": 190.92469458967696, 
                 "AP half-duration": "1.3000000000002956 mV"
             }, 
             "('apical_dendrite[50]', 0.5)": {
                 "AP amplitude": "58.9372777097265 mV", 
-                "distance": 68.56678293941548, 
+                "distance": 57.34878252742817, 
                 "AP half-duration": "0.40000000000009095 mV"
             }, 
             "('apical_dendrite[66]', 0.16666666666666666)": {
                 "AP amplitude": "58.50288981640087 mV", 
-                "distance": 91.2326626725648, 
+                "distance": 80.0146622605775, 
                 "AP half-duration": "1.2000000000002728 mV"
             }, 
             "('apical_dendrite[6]', 0.8333333333333333)": {
                 "AP amplitude": "59.248287874285566 mV", 
-                "distance": 154.43717533519117, 
+                "distance": 143.21917492320387, 
                 "AP half-duration": "1.2000000000002728 mV"
             }, 
             "('apical_dendrite[10]', 0.5)": {
                 "AP amplitude": "58.80324860867608 mV", 
-                "distance": 196.09332587018287, 
+                "distance": 184.87532545819556, 
                 "AP half-duration": "1.3000000000002956 mV"
             }, 
             "('apical_dendrite[53]', 0.6111111111111112)": {
                 "AP amplitude": "60.16994443320045 mV", 
-                "distance": 220.7202994010967, 
+                "distance": 209.5022989891094, 
                 "AP half-duration": "1.3000000000002956 mV"
             }, 
             "('apical_dendrite[53]', 0.9444444444444446)": {
                 "AP amplitude": "64.8357407365273 mV", 
-                "distance": 275.7224796007019, 
+                "distance": 264.5044791887146, 
                 "AP half-duration": "1.3000000000002956 mV"
             }, 
             "('apical_dendrite[53]', 0.5)": {
                 "AP amplitude": "60.523082464333065 mV", 
-                "distance": 202.38623933456162, 
+                "distance": 191.16823892257432, 
                 "AP half-duration": "1.3000000000002956 mV"
             }, 
             "('apical_dendrite[2]', 0.8333333333333333)": {
                 "AP amplitude": "59.342121287565405 mV", 
-                "distance": 119.10844645551028, 
+                "distance": 107.89044604352297, 
                 "AP half-duration": "1.2000000000002728 mV"
             }, 
             "('apical_dendrite[25]', 0.30000000000000004)": {
                 "AP amplitude": "58.84023151243743 mV", 
-                "distance": 166.057188645881, 
+                "distance": 154.8391882338937, 
                 "AP half-duration": "1.2000000000002728 mV"
             }, 
             "('apical_dendrite[25]', 0.5)": {
                 "AP amplitude": "59.15608011594419 mV", 
-                "distance": 184.09994182377264, 
+                "distance": 172.88194141178533, 
                 "AP half-duration": "1.3000000000002956 mV"
             }, 
             "('apical_dendrite[72]', 0.16666666666666666)": {
                 "AP amplitude": "61.666599845234536 mV", 
-                "distance": 177.63437108739043, 
+                "distance": 166.41637067540313, 
                 "AP half-duration": "1.2000000000002728 mV"
             }, 
             "('apical_dendrite[11]', 0.8333333333333333)": {
                 "AP amplitude": "63.414408158247184 mV", 
-                "distance": 287.7188365643476, 
+                "distance": 276.5008361523603, 
                 "AP half-duration": "0.40000000000009095 mV"
             }
         }, 
         "train of brief inputs": {
             "50 Hz": {
                 "('apical_dendrite[25]', 0.8999999999999999)": {
-                    "distance": 220.1854481795559, 
-                    "AP amplitude-AP5/AP1": "0.9360694428285111", 
-                    "AP half-duration-AP5/AP1": "0.9230769230769231"
+                    "distance": 208.9674477675686, 
+                    "AP amplitude-AP5/AP1": "0.9290225110700988", 
+                    "AP half-duration-AP5/AP1": "0.9375"
                 }, 
                 "('apical_dendrite[26]', 0.49999999999999994)": {
-                    "distance": 300.1286104610597, 
-                    "AP amplitude-AP5/AP1": "0.9474646366415179", 
-                    "AP half-duration-AP5/AP1": "0.2857142857142857"
+                    "distance": 288.9106100490724, 
+                    "AP amplitude-AP5/AP1": "0.9647855981933345", 
+                    "AP half-duration-AP5/AP1": "3.5"
                 }, 
                 "('apical_dendrite[25]', 0.7)": {
-                    "distance": 202.14269500166426, 
-                    "AP amplitude-AP5/AP1": "0.7445339907263551", 
-                    "AP half-duration-AP5/AP1": "0.25"
+                    "distance": 190.92469458967696, 
+                    "AP amplitude-AP5/AP1": "0.954971674216784", 
+                    "AP half-duration-AP5/AP1": "0.8888888888888888"
                 }, 
                 "('apical_dendrite[50]', 0.5)": {
-                    "distance": 68.56678293941548, 
-                    "AP amplitude-AP5/AP1": "0.9552242383874832", 
-                    "AP half-duration-AP5/AP1": "1.0"
+                    "distance": 57.34878252742817, 
+                    "AP amplitude-AP5/AP1": "0.9561735814435518", 
+                    "AP half-duration-AP5/AP1": "0.9375"
                 }, 
                 "('apical_dendrite[66]', 0.16666666666666666)": {
-                    "distance": 91.2326626725648, 
-                    "AP amplitude-AP5/AP1": "0.9572353695669326", 
-                    "AP half-duration-AP5/AP1": "1.0"
+                    "distance": 80.0146622605775, 
+                    "AP amplitude-AP5/AP1": "0.9585863586072922", 
+                    "AP half-duration-AP5/AP1": "0.9333333333333333"
                 }, 
                 "('apical_dendrite[6]', 0.8333333333333333)": {
-                    "distance": 154.43717533519117, 
-                    "AP amplitude-AP5/AP1": "0.9665665672634922", 
+                    "distance": 143.21917492320387, 
+                    "AP amplitude-AP5/AP1": "0.9566367615235916", 
                     "AP half-duration-AP5/AP1": "1.0"
                 }, 
                 "('apical_dendrite[10]', 0.5)": {
-                    "distance": 196.09332587018287, 
-                    "AP amplitude-AP5/AP1": "0.9566654084235774", 
-                    "AP half-duration-AP5/AP1": "0.29411764705882354"
+                    "distance": 184.87532545819556, 
+                    "AP amplitude-AP5/AP1": "0.9551324836757045", 
+                    "AP half-duration-AP5/AP1": "3.2"
                 }, 
                 "('apical_dendrite[53]', 0.6111111111111112)": {
-                    "distance": 220.7202994010967, 
-                    "AP amplitude-AP5/AP1": "0.9304151440243204", 
-                    "AP half-duration-AP5/AP1": "0.9333333333333333"
+                    "distance": 209.5022989891094, 
+                    "AP amplitude-AP5/AP1": "0.9410049956634582", 
+                    "AP half-duration-AP5/AP1": "0.8"
                 }, 
                 "('apical_dendrite[53]', 0.9444444444444446)": {
-                    "distance": 275.7224796007019, 
-                    "AP amplitude-AP5/AP1": "0.9652115730902004", 
-                    "AP half-duration-AP5/AP1": "2.3333333333333335"
-                }, 
-                "('apical_dendrite[53]', 0.5)": {
-                    "distance": 202.38623933456162, 
-                    "AP amplitude-AP5/AP1": "0.9366198682138186", 
+                    "distance": 264.5044791887146, 
+                    "AP amplitude-AP5/AP1": "0.9633147493919828", 
                     "AP half-duration-AP5/AP1": "0.8333333333333334"
                 }, 
+                "('apical_dendrite[53]', 0.5)": {
+                    "distance": 191.16823892257432, 
+                    "AP amplitude-AP5/AP1": "0.9543084607297754", 
+                    "AP half-duration-AP5/AP1": "0.8"
+                }, 
                 "('apical_dendrite[2]', 0.8333333333333333)": {
-                    "distance": 119.10844645551028, 
-                    "AP amplitude-AP5/AP1": "0.965360729612723", 
-                    "AP half-duration-AP5/AP1": "1.0"
+                    "distance": 107.89044604352297, 
+                    "AP amplitude-AP5/AP1": "0.9531928160597968", 
+                    "AP half-duration-AP5/AP1": "0.9375"
                 }, 
                 "('apical_dendrite[25]', 0.30000000000000004)": {
-                    "distance": 166.057188645881, 
-                    "AP amplitude-AP5/AP1": "0.9636637916889308", 
-                    "AP half-duration-AP5/AP1": "1.0"
+                    "distance": 154.8391882338937, 
+                    "AP amplitude-AP5/AP1": "0.9551770842918239", 
+                    "AP half-duration-AP5/AP1": "3.2"
                 }, 
                 "('apical_dendrite[25]', 0.5)": {
-                    "distance": 184.09994182377264, 
-                    "AP amplitude-AP5/AP1": "0.9532513014268893", 
-                    "AP half-duration-AP5/AP1": "1.0"
+                    "distance": 172.88194141178533, 
+                    "AP amplitude-AP5/AP1": "0.9550511097308064", 
+                    "AP half-duration-AP5/AP1": "0.8333333333333334"
                 }, 
                 "('apical_dendrite[72]', 0.16666666666666666)": {
-                    "distance": 177.63437108739043, 
-                    "AP amplitude-AP5/AP1": "0.9584301469585773", 
-                    "AP half-duration-AP5/AP1": "1.0"
+                    "distance": 166.41637067540313, 
+                    "AP amplitude-AP5/AP1": "0.9423152163245736", 
+                    "AP half-duration-AP5/AP1": "3.0"
                 }, 
                 "('apical_dendrite[11]', 0.8333333333333333)": {
-                    "distance": 287.7188365643476, 
-                    "AP amplitude-AP5/AP1": "0.9496869977104729", 
-                    "AP half-duration-AP5/AP1": "0.2857142857142857"
+                    "distance": 276.5008361523603, 
+                    "AP amplitude-AP5/AP1": "0.9658788716671173", 
+                    "AP half-duration-AP5/AP1": "0.9333333333333333"
                 }
             }, 
             "20 Hz": {
                 "('apical_dendrite[25]', 0.8999999999999999)": {
-                    "distance": 220.1854481795559, 
+                    "distance": 208.9674477675686, 
                     "AP amplitude-AP5/AP1": "1.0166333416034312", 
                     "AP half-duration-AP5/AP1": "1.0"
                 }, 
                 "('apical_dendrite[26]', 0.49999999999999994)": {
-                    "distance": 300.1286104610597, 
+                    "distance": 288.9106100490724, 
                     "AP amplitude-AP5/AP1": "0.9939367621173771", 
                     "AP half-duration-AP5/AP1": "1.0"
                 }, 
                 "('apical_dendrite[25]', 0.7)": {
-                    "distance": 202.14269500166426, 
+                    "distance": 190.92469458967696, 
                     "AP amplitude-AP5/AP1": "1.0177381206236817", 
                     "AP half-duration-AP5/AP1": "1.0"
                 }, 
                 "('apical_dendrite[50]', 0.5)": {
-                    "distance": 68.56678293941548, 
+                    "distance": 57.34878252742817, 
                     "AP amplitude-AP5/AP1": "1.0109889484794967", 
                     "AP half-duration-AP5/AP1": "1.0"
                 }, 
                 "('apical_dendrite[66]', 0.16666666666666666)": {
-                    "distance": 91.2326626725648, 
+                    "distance": 80.0146622605775, 
                     "AP amplitude-AP5/AP1": "1.0155910579054812", 
                     "AP half-duration-AP5/AP1": "1.0"
                 }, 
                 "('apical_dendrite[6]', 0.8333333333333333)": {
-                    "distance": 154.43717533519117, 
+                    "distance": 143.21917492320387, 
                     "AP amplitude-AP5/AP1": "1.0185423223194123", 
                     "AP half-duration-AP5/AP1": "1.0666666666666667"
                 }, 
                 "('apical_dendrite[10]', 0.5)": {
-                    "distance": 196.09332587018287, 
+                    "distance": 184.87532545819556, 
                     "AP amplitude-AP5/AP1": "1.0189449230765046", 
                     "AP half-duration-AP5/AP1": "1.2"
                 }, 
                 "('apical_dendrite[53]', 0.6111111111111112)": {
-                    "distance": 220.7202994010967, 
+                    "distance": 209.5022989891094, 
                     "AP amplitude-AP5/AP1": "1.014675573531096", 
                     "AP half-duration-AP5/AP1": "1.0"
                 }, 
                 "('apical_dendrite[53]', 0.9444444444444446)": {
-                    "distance": 275.7224796007019, 
+                    "distance": 264.5044791887146, 
                     "AP amplitude-AP5/AP1": "0.9929393997966348", 
                     "AP half-duration-AP5/AP1": "0.9444444444444444"
                 }, 
                 "('apical_dendrite[53]', 0.5)": {
-                    "distance": 202.38623933456162, 
+                    "distance": 191.16823892257432, 
                     "AP amplitude-AP5/AP1": "1.0163228600447516", 
                     "AP half-duration-AP5/AP1": "1.0"
                 }, 
                 "('apical_dendrite[2]', 0.8333333333333333)": {
-                    "distance": 119.10844645551028, 
+                    "distance": 107.89044604352297, 
                     "AP amplitude-AP5/AP1": "1.015402151310336", 
                     "AP half-duration-AP5/AP1": "1.0"
                 }, 
                 "('apical_dendrite[25]', 0.30000000000000004)": {
-                    "distance": 166.057188645881, 
+                    "distance": 154.8391882338937, 
                     "AP amplitude-AP5/AP1": "1.0175863902171522", 
                     "AP half-duration-AP5/AP1": "3.6"
                 }, 
                 "('apical_dendrite[25]', 0.5)": {
-                    "distance": 184.09994182377264, 
+                    "distance": 172.88194141178533, 
                     "AP amplitude-AP5/AP1": "1.0180480286580496", 
                     "AP half-duration-AP5/AP1": "1.0"
                 }, 
                 "('apical_dendrite[72]', 0.16666666666666666)": {
-                    "distance": 177.63437108739043, 
+                    "distance": 166.41637067540313, 
                     "AP amplitude-AP5/AP1": "1.0183104811096968", 
                     "AP half-duration-AP5/AP1": "1.0"
                 }, 
                 "('apical_dendrite[11]', 0.8333333333333333)": {
-                    "distance": 287.7188365643476, 
+                    "distance": 276.5008361523603, 
                     "AP amplitude-AP5/AP1": "0.9934236677769858", 
                     "AP half-duration-AP5/AP1": "1.0"
                 }
             }, 
             "100 Hz": {
                 "('apical_dendrite[25]', 0.8999999999999999)": {
-                    "distance": 220.1854481795559, 
+                    "distance": 208.9674477675686, 
                     "AP amplitude-AP5/AP1": "0.8265105663274823", 
                     "AP half-duration-AP5/AP1": "0.8125"
                 }, 
                 "('apical_dendrite[26]', 0.49999999999999994)": {
-                    "distance": 300.1286104610597, 
+                    "distance": 288.9106100490724, 
                     "AP amplitude-AP5/AP1": "0.9185527221554187", 
                     "AP half-duration-AP5/AP1": "3.0"
                 }, 
                 "('apical_dendrite[25]', 0.7)": {
-                    "distance": 202.14269500166426, 
+                    "distance": 190.92469458967696, 
                     "AP amplitude-AP5/AP1": "0.8617303360837141", 
                     "AP half-duration-AP5/AP1": "0.8333333333333334"
                 }, 
                 "('apical_dendrite[50]', 0.5)": {
-                    "distance": 68.56678293941548, 
+                    "distance": 57.34878252742817, 
                     "AP amplitude-AP5/AP1": "0.9174929736625533", 
                     "AP half-duration-AP5/AP1": "0.8125"
                 }, 
                 "('apical_dendrite[66]', 0.16666666666666666)": {
-                    "distance": 91.2326626725648, 
+                    "distance": 80.0146622605775, 
                     "AP amplitude-AP5/AP1": "0.9061406393901158", 
                     "AP half-duration-AP5/AP1": "0.8666666666666667"
                 }, 
                 "('apical_dendrite[6]', 0.8333333333333333)": {
-                    "distance": 154.43717533519117, 
+                    "distance": 143.21917492320387, 
                     "AP amplitude-AP5/AP1": "0.8909896796084127", 
                     "AP half-duration-AP5/AP1": "0.9333333333333333"
                 }, 
                 "('apical_dendrite[10]', 0.5)": {
-                    "distance": 196.09332587018287, 
+                    "distance": 184.87532545819556, 
                     "AP amplitude-AP5/AP1": "0.87505990525773", 
                     "AP half-duration-AP5/AP1": "2.8"
                 }, 
                 "('apical_dendrite[53]', 0.6111111111111112)": {
-                    "distance": 220.7202994010967, 
+                    "distance": 209.5022989891094, 
                     "AP amplitude-AP5/AP1": "0.8106110244438217", 
                     "AP half-duration-AP5/AP1": "0.7"
                 }, 
                 "('apical_dendrite[53]', 0.9444444444444446)": {
-                    "distance": 275.7224796007019, 
+                    "distance": 264.5044791887146, 
                     "AP amplitude-AP5/AP1": "0.9115251238760802", 
                     "AP half-duration-AP5/AP1": "0.7777777777777778"
                 }, 
                 "('apical_dendrite[53]', 0.5)": {
-                    "distance": 202.38623933456162, 
+                    "distance": 191.16823892257432, 
                     "AP amplitude-AP5/AP1": "0.8696132264162064", 
                     "AP half-duration-AP5/AP1": "3.0"
                 }, 
                 "('apical_dendrite[2]', 0.8333333333333333)": {
-                    "distance": 119.10844645551028, 
+                    "distance": 107.89044604352297, 
                     "AP amplitude-AP5/AP1": "0.9019210796426957", 
                     "AP half-duration-AP5/AP1": "0.8125"
                 }, 
                 "('apical_dendrite[25]', 0.30000000000000004)": {
-                    "distance": 166.057188645881, 
+                    "distance": 154.8391882338937, 
                     "AP amplitude-AP5/AP1": "0.8731989110102797", 
                     "AP half-duration-AP5/AP1": "2.8"
                 }, 
                 "('apical_dendrite[25]', 0.5)": {
-                    "distance": 184.09994182377264, 
+                    "distance": 172.88194141178533, 
                     "AP amplitude-AP5/AP1": "0.8708205954472839", 
                     "AP half-duration-AP5/AP1": "0.6666666666666666"
                 }, 
                 "('apical_dendrite[72]', 0.16666666666666666)": {
-                    "distance": 177.63437108739043, 
+                    "distance": 166.41637067540313, 
                     "AP amplitude-AP5/AP1": "0.8609055614146637", 
                     "AP half-duration-AP5/AP1": "2.6"
                 }, 
                 "('apical_dendrite[11]', 0.8333333333333333)": {
-                    "distance": 287.7188365643476, 
+                    "distance": 276.5008361523603, 
                     "AP amplitude-AP5/AP1": "0.9269451351983331", 
                     "AP half-duration-AP5/AP1": "0.9333333333333333"
                 }
