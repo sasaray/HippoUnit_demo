@@ -4,6 +4,142 @@
         "AP_rise_slope": "0.054001148721683136 V/ms", 
         "AP_amplitude": "111.89189225598918 mV"
     }, 
-    "basal": {}, 
+    "basal": {
+        "('FScell[0].dend[59]', 0.5)": {
+            "APlast_half_duration": "0.5999999999994543 ms", 
+            "distance": 25.903526682068772, 
+            "AP1_half_duration": "1.900000000000432 ms", 
+            "AP1_rise_slope": "0.046085372059082294 V/ms", 
+            "APlast_rise_slope": "0.05132063998902638 V/ms", 
+            "AP1_amplitude": "96.77928132409482 mV", 
+            "APlast_amplitude": "87.2450879812655 mV"
+        }, 
+        "('FScell[0].dend[171]', 0.7)": {
+            "APlast_half_duration": "0.6999999999993634 ms", 
+            "distance": 9.730736579044883, 
+            "AP1_half_duration": "0.8000000000001819 ms", 
+            "AP1_rise_slope": "0.04297995790849884 V/ms", 
+            "APlast_rise_slope": "0.06454940995804427 V/ms", 
+            "AP1_amplitude": "103.15189898042067 mV", 
+            "APlast_amplitude": "83.91423294538123 mV"
+        }, 
+        "('FScell[0].dend[59]', 0.30000000000000004)": {
+            "APlast_half_duration": "1.6999999999984539 ms", 
+            "distance": 15.542116009241262, 
+            "AP1_half_duration": "1.900000000000432 ms", 
+            "AP1_rise_slope": "0.04583900996505189 V/ms", 
+            "APlast_rise_slope": "0.051123954343167854 V/ms", 
+            "AP1_amplitude": "96.26192092663086 mV", 
+            "APlast_amplitude": "86.91072238330631 mV"
+        }, 
+        "('FScell[0].dend[59]', 0.7)": {
+            "APlast_half_duration": "0.5999999999994543 ms", 
+            "distance": 36.264937354896276, 
+            "AP1_half_duration": "0.7000000000001592 ms", 
+            "AP1_rise_slope": "0.04633795648438615 V/ms", 
+            "APlast_rise_slope": "0.05390306558124257 V/ms", 
+            "AP1_amplitude": "97.30970861723304 mV", 
+            "APlast_amplitude": "86.24490492990967 mV"
+        }, 
+        "('FScell[0].dend[173]', 0.5)": {
+            "APlast_half_duration": "1.899999999998272 ms", 
+            "distance": 22.97736495229333, 
+            "AP1_half_duration": "2.2000000000005002 ms", 
+            "AP1_rise_slope": "0.042699385276401755 V/ms", 
+            "APlast_rise_slope": "0.060449900689892845 V/ms", 
+            "AP1_amplitude": "102.47852466338752 mV", 
+            "APlast_amplitude": "84.629860965773 mV"
+        }, 
+        "('FScell[0].dend[0]', 0.8999999999999999)": {
+            "APlast_half_duration": "0.6999999999993634 ms", 
+            "distance": 35.24489891962203, 
+            "AP1_half_duration": "0.8000000000001819 ms", 
+            "AP1_rise_slope": "0.012659545947222833 V/ms", 
+            "APlast_rise_slope": "0.02892120751846017 V/ms", 
+            "AP1_amplitude": "93.68064000947027 mV", 
+            "APlast_amplitude": "72.30301879608467 mV"
+        }, 
+        "('FScell[0].dend[182]', 0.30000000000000004)": {
+            "APlast_half_duration": "0.5999999999994543 ms", 
+            "distance": 11.138797839155457, 
+            "AP1_half_duration": "2.1000000000004775 ms", 
+            "AP1_rise_slope": "0.01251964160670801 V/ms", 
+            "APlast_rise_slope": "0.011514539525120226 V/ms", 
+            "AP1_amplitude": "96.4012403716736 mV", 
+            "APlast_amplitude": "84.0561385333012 mV"
+        }, 
+        "('FScell[0].dend[182]', 0.7)": {
+            "APlast_half_duration": "0.5999999999994543 ms", 
+            "distance": 25.99052829136273, 
+            "AP1_half_duration": "2.1000000000004775 ms", 
+            "AP1_rise_slope": "0.012668565894119356 V/ms", 
+            "APlast_rise_slope": "0.011617817346267479 V/ms", 
+            "AP1_amplitude": "96.281100795329 mV", 
+            "APlast_amplitude": "84.81006662767547 mV"
+        }, 
+        "('FScell[0].dend[171]', 0.5)": {
+            "APlast_half_duration": "0.6999999999993634 ms", 
+            "distance": 6.950526127889203, 
+            "AP1_half_duration": "0.9000000000002046 ms", 
+            "AP1_rise_slope": "0.042943660669108354 V/ms", 
+            "APlast_rise_slope": "0.06444564052840755 V/ms", 
+            "AP1_amplitude": "103.06478560588349 mV", 
+            "APlast_amplitude": "83.77933268685362 mV"
+        }, 
+        "('FScell[0].dend[59]', 0.1)": {
+            "APlast_half_duration": "1.6999999999984539 ms", 
+            "distance": 5.180705336413755, 
+            "AP1_half_duration": "2.0000000000004547 ms", 
+            "AP1_rise_slope": "0.04538493499293358 V/ms", 
+            "APlast_rise_slope": "0.05073542429693389 V/ms", 
+            "AP1_amplitude": "95.30836348518218 mV", 
+            "APlast_amplitude": "86.25022130470916 mV"
+        }, 
+        "('FScell[0].dend[59]', 0.8999999999999999)": {
+            "APlast_half_duration": "0.5999999999994543 ms", 
+            "distance": 46.62634802772379, 
+            "AP1_half_duration": "0.7000000000001592 ms", 
+            "AP1_rise_slope": "0.04823798904760803 V/ms", 
+            "APlast_rise_slope": "0.0540236478069194 V/ms", 
+            "AP1_amplitude": "96.475978095238 mV", 
+            "APlast_amplitude": "86.43783649099242 mV"
+        }, 
+        "('FScell[0].dend[171]', 0.8999999999999999)": {
+            "APlast_half_duration": "0.6999999999993634 ms", 
+            "distance": 12.510947030200565, 
+            "AP1_half_duration": "0.8000000000001819 ms", 
+            "AP1_rise_slope": "0.04300319059756277 V/ms", 
+            "APlast_rise_slope": "0.06462469196267927 V/ms", 
+            "AP1_amplitude": "103.2076574341741 mV", 
+            "APlast_amplitude": "84.01209955140664 mV"
+        }, 
+        "('FScell[0].dend[173]', 0.1)": {
+            "APlast_half_duration": "1.899999999998272 ms", 
+            "distance": 15.716314795081392, 
+            "AP1_half_duration": "0.8000000000001819 ms", 
+            "AP1_rise_slope": "0.04301704553169486 V/ms", 
+            "APlast_rise_slope": "0.06009690448431528 V/ms", 
+            "AP1_amplitude": "103.24090927609114 mV", 
+            "APlast_amplitude": "84.13566627796487 mV"
+        }, 
+        "('FScell[0].dend[173]', 0.8999999999999999)": {
+            "APlast_half_duration": "0.6999999999993634 ms", 
+            "distance": 30.238415109505265, 
+            "AP1_half_duration": "0.8000000000001819 ms", 
+            "AP1_rise_slope": "0.04578645566283847 V/ms", 
+            "APlast_rise_slope": "0.06077859810073202 V/ms", 
+            "AP1_amplitude": "100.73020245826754 mV", 
+            "APlast_amplitude": "85.09003734094745 mV"
+        }, 
+        "('FScell[0].dend[173]', 0.30000000000000004)": {
+            "APlast_half_duration": "1.899999999998272 ms", 
+            "distance": 19.346839873687358, 
+            "AP1_half_duration": "2.2000000000005002 ms", 
+            "AP1_rise_slope": "0.04263132242336319 V/ms", 
+            "APlast_rise_slope": "0.06025965254989967 V/ms", 
+            "AP1_amplitude": "102.31517381609493 mV", 
+            "APlast_amplitude": "84.36351356978281 mV"
+        }
+    }, 
     "apical": {}
 }

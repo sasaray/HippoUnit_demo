@@ -8,91 +8,91 @@
     "axon": {
         "('FScell[0].axon[0]', 0.9499999999999998)": {
             "APlast_half_duration": "0.29999999999972715 ms", 
-            "distance": 91.90883696526718, 
+            "distance": 91.90873696526971, 
             "AP1_half_duration": "0.3000000000000682 ms", 
             "AP1_amplitude": "114.95745557231389 mV", 
             "APlast_amplitude": "112.04034943087163 mV"
         }, 
         "('FScell[0].axon[384]', 0.15000000000000002)": {
             "APlast_half_duration": "0.1999999999998181 ms", 
-            "distance": 129.56854754958428, 
+            "distance": 129.5684475495868, 
             "AP1_half_duration": "0.20000000000004547 ms", 
             "AP1_amplitude": "105.7300410890833 mV", 
             "APlast_amplitude": "53.51746839764951 mV"
         }, 
         "('FScell[0].axon[389]', 0.5499999999999999)": {
             "APlast_half_duration": "0.1999999999998181 ms", 
-            "distance": 166.96656977393064, 
+            "distance": 166.96646977393317, 
             "AP1_half_duration": "0.20000000000004547 ms", 
             "AP1_amplitude": "108.544070391342 mV", 
             "APlast_amplitude": "123.35895440486455 mV"
         }, 
         "('FScell[0].axon[434]', 0.05)": {
             "APlast_half_duration": "0.1999999999998181 ms", 
-            "distance": 183.59792244909102, 
+            "distance": 183.59782244909354, 
             "AP1_half_duration": "0.3000000000000682 ms", 
             "AP1_amplitude": "113.81765595665482 mV", 
             "APlast_amplitude": "122.91657788875743 mV"
         }, 
         "('FScell[0].axon[754]', 0.15000000000000002)": {
             "APlast_half_duration": "0.1999999999998181 ms", 
-            "distance": 195.8365582497114, 
+            "distance": 195.83645824971393, 
             "AP1_half_duration": "0.20000000000004547 ms", 
             "AP1_amplitude": "113.44283018260063 mV", 
             "APlast_amplitude": "121.53278187349139 mV"
         }, 
         "('FScell[0].axon[390]', 0.5499999999999999)": {
             "APlast_half_duration": "0.29999999999972715 ms", 
-            "distance": 165.9889351074654, 
+            "distance": 165.98883510746793, 
             "AP1_half_duration": "0.3000000000000682 ms", 
             "AP1_amplitude": "110.16306461145017 mV", 
             "APlast_amplitude": "123.58957293715113 mV"
         }, 
         "('FScell[0].axon[4]', 0.25)": {
             "APlast_half_duration": "0.29999999999972715 ms", 
-            "distance": 215.50233188306242, 
+            "distance": 215.50223188306495, 
             "AP1_half_duration": "0.20000000000004547 ms", 
             "AP1_amplitude": "119.28046014923349 mV", 
             "APlast_amplitude": "123.96562226338149 mV"
         }, 
         "('FScell[0].axon[878]', 0.05)": {
             "APlast_half_duration": "0.1999999999998181 ms", 
-            "distance": 126.31553782142628, 
+            "distance": 126.3154378214288, 
             "AP1_half_duration": "0.20000000000004547 ms", 
             "AP1_amplitude": "104.67724269411812 mV", 
             "APlast_amplitude": "104.1839828625165 mV"
         }, 
         "('FScell[0].axon[878]', 0.7499999999999999)": {
             "APlast_half_duration": "0.1999999999998181 ms", 
-            "distance": 196.3155378214263, 
+            "distance": 196.31543782142882, 
             "AP1_half_duration": "0.20000000000004547 ms", 
             "AP1_amplitude": "104.67975185081464 mV", 
             "APlast_amplitude": "104.18595703755304 mV"
         }, 
         "('FScell[0].axon[691]', 0.15000000000000002)": {
             "APlast_half_duration": "0.1999999999998181 ms", 
-            "distance": 189.9041277900693, 
+            "distance": 189.90402779007184, 
             "AP1_half_duration": "0.20000000000004547 ms", 
             "AP1_amplitude": "114.21336917645462 mV", 
             "APlast_amplitude": "123.25358241123567 mV"
         }, 
         "('FScell[0].axon[878]', 0.5499999999999999)": {
             "APlast_half_duration": "0.1999999999998181 ms", 
-            "distance": 176.3155378214263, 
+            "distance": 176.31543782142882, 
             "AP1_half_duration": "0.20000000000004547 ms", 
             "AP1_amplitude": "104.6793666306749 mV", 
             "APlast_amplitude": "104.18565899916831 mV"
         }, 
         "('FScell[0].axon[389]', 0.35)": {
             "APlast_half_duration": "0.1999999999998181 ms", 
-            "distance": 162.61639745834398, 
+            "distance": 162.6162974583465, 
             "AP1_half_duration": "0.20000000000004547 ms", 
             "AP1_amplitude": "108.5175506306897 mV", 
             "APlast_amplitude": "123.29647454351479 mV"
         }, 
         "('FScell[0].axon[389]', 0.05)": {
             "APlast_half_duration": "0.29999999999972715 ms", 
-            "distance": 156.09113898496398, 
+            "distance": 156.0910389849665, 
             "AP1_half_duration": "0.20000000000004547 ms", 
             "AP1_amplitude": "108.45482796993142 mV", 
             "APlast_amplitude": "123.1055285704804 mV"

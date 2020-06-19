@@ -1,25 +1,25 @@
 {
     "soma": {
-        "AP_rise_slope": 4.605823060855226, 
-        "AP_half_duration": 1.1452922679770503, 
-        "AP_amplitude": 5.7517773755500725
+        "AP_rise_slope": 4.650495025963224, 
+        "AP_half_duration": 2.5738633009526772, 
+        "AP_amplitude": 2.6044893970894685
     }, 
     "basal": {
         "50": {
-            "APlast_rise_slope": 1.6898254639041168, 
-            "APlast_half_duration": 0.07422625679953343, 
-            "AP1_half_duration": 1.8851307764780822, 
-            "AP1_amplitude": 4.692344555142657, 
-            "APlast_amplitude": 5.745141958552057, 
-            "AP1_rise_slope": 2.607500515800871
+            "APlast_rise_slope": 1.2525453100365325, 
+            "APlast_half_duration": 0.41364190750804786, 
+            "AP1_half_duration": 2.162725437080659, 
+            "AP1_amplitude": 4.571125786324711, 
+            "APlast_amplitude": 7.654758876373643, 
+            "AP1_rise_slope": 2.689391016955881
         }, 
         "20": {
-            "APlast_rise_slope": 2.43956629133518, 
-            "APlast_half_duration": 1.8324965070604846, 
-            "AP1_half_duration": 7.007912209048268, 
-            "AP1_amplitude": 6.581044408076519, 
-            "APlast_amplitude": 40.8142048584439, 
-            "AP1_rise_slope": 8.337742792195666
+            "APlast_rise_slope": 1.9625608859742254, 
+            "APlast_half_duration": 1.3331862349183305, 
+            "AP1_half_duration": 0.18869772842866994, 
+            "AP1_amplitude": 5.698304438689161, 
+            "APlast_amplitude": 9.69820676049952, 
+            "AP1_rise_slope": 3.3691144966995683
         }
     }, 
     "apical": {

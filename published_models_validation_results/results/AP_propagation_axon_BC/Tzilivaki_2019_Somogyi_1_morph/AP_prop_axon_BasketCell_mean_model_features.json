@@ -26,56 +26,56 @@
         }, 
         "100": {
             "APlast_half_duration": {
-                "std": "nan ms", 
-                "mean": "nan ms"
+                "std": "0.037267799624979545 ms", 
+                "mean": "0.28333333333334093 ms"
             }, 
             "AP1_half_duration": {
-                "std": "nan ms", 
-                "mean": "nan ms"
+                "std": "0.0400000000000091 ms", 
+                "mean": "0.28000000000006364 ms"
             }, 
             "AP1_amplitude": {
-                "std": "nan mV", 
-                "mean": "nan mV"
+                "std": "0.600493324590877 mV", 
+                "mean": "118.40652221071873 mV"
             }, 
             "APlast_amplitude": {
-                "std": "nan mV", 
-                "mean": "nan mV"
+                "std": "3.2829679184043434 mV", 
+                "mean": "119.85409844884049 mV"
             }
         }, 
         "150": {
             "APlast_half_duration": {
-                "std": "0.0471404520790335 ms", 
-                "mean": "0.2666666666666136 ms"
-            }, 
-            "AP1_half_duration": {
-                "std": "0.05000000000001137 ms", 
-                "mean": "0.25000000000005684 ms"
-            }, 
-            "AP1_amplitude": {
-                "std": "0.10753675119689632 mV", 
-                "mean": "117.79871380068246 mV"
-            }, 
-            "APlast_amplitude": {
-                "std": "4.381767335183469 mV", 
-                "mean": "120.89646908027139 mV"
-            }
-        }, 
-        "200": {
-            "APlast_half_duration": {
-                "std": "1.3642420571769013e-13 ms", 
-                "mean": "0.3 ms"
+                "std": "0.050000000000125056 ms", 
+                "mean": "0.24999999999994316 ms"
             }, 
             "AP1_half_duration": {
                 "std": "0.0 ms", 
                 "mean": "0.3000000000000682 ms"
             }, 
             "AP1_amplitude": {
-                "std": "0.413174246380047 mV", 
-                "mean": "118.91757985664144 mV"
+                "std": "0.0 mV", 
+                "mean": "119.23513597433706 mV"
             }, 
             "APlast_amplitude": {
-                "std": "3.126744857389358 mV", 
-                "mean": "120.46999435001244 mV"
+                "std": "3.9351262276914554 mV", 
+                "mean": "123.17026220202851 mV"
+            }
+        }, 
+        "200": {
+            "APlast_half_duration": {
+                "std": "0.04714045207907369 ms", 
+                "mean": "0.26666666666667044 ms"
+            }, 
+            "AP1_half_duration": {
+                "std": "0.0489897948556747 ms", 
+                "mean": "0.26000000000005913 ms"
+            }, 
+            "AP1_amplitude": {
+                "std": "0.3983622523514362 mV", 
+                "mean": "120.54797808524093 mV"
+            }, 
+            "APlast_amplitude": {
+                "std": "3.3030444304014206 mV", 
+                "mean": "122.01616463826865 mV"
             }
         }
     }
