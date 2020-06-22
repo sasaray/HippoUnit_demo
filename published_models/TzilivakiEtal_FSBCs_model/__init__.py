@@ -1,4 +1,4 @@
-# Added by Sara Saray to run validation tests and register the results in the HBP Validation Framework
+# Added by Sara Saray to run validation tests on the basket cell models and register the results in the HBP Validation Framework
 
 from __future__ import print_function
 import os
@@ -13,7 +13,7 @@ class Tzilivaki_2019_Somogyi_1_morph(ModelLoader):
         # path to mod files
         model_path = os.path.dirname(os.path.abspath(__file__))
         print("model_path = ", model_path)
-        mod_files_path = model_path + "/mechanism/"
+        mod_files_path = model_path + "/Multicompartmental_Biophysical_models/mechanism/"
 
         #Load cell model
         ModelLoader.__init__(self, mod_files_path = mod_files_path)
@@ -23,7 +23,7 @@ class Tzilivaki_2019_Somogyi_1_morph(ModelLoader):
 
         # path to hoc file
         # the model must not display any GUI!!
-        self.hocpath = model_path + "/experiment/main_model_Somogyi_1.hoc"
+        self.hocpath = model_path + "/Multicompartmental_Biophysical_models/experiment/main_model_Somogyi_1.hoc"
 
 
         # If the hoc file doesn't contain a template, this must be None (the default value is None)
@@ -64,7 +64,7 @@ class Tzilivaki_2019_Somogyi_2_morph(ModelLoader):
         # path to mod files
         model_path = os.path.dirname(os.path.abspath(__file__))
         print("model_path = ", model_path)
-        mod_files_path = model_path + "/mechanism/"
+        mod_files_path = model_path + "/Multicompartmental_Biophysical_models/mechanism/"
 
         #Load cell model
         ModelLoader.__init__(self, mod_files_path = mod_files_path)
@@ -74,7 +74,7 @@ class Tzilivaki_2019_Somogyi_2_morph(ModelLoader):
 
         # path to hoc file
         # the model must not display any GUI!!
-        self.hocpath = model_path + "/experiment/main_model_Somogyi_2.hoc"
+        self.hocpath = model_path + "/Multicompartmental_Biophysical_models/experiment/main_model_Somogyi_2.hoc"
 
 
         # If the hoc file doesn't contain a template, this must be None (the default value is None)
@@ -114,7 +114,7 @@ class Tzilivaki_2019_Somogyi_3_morph(ModelLoader):
         # path to mod files
         model_path = os.path.dirname(os.path.abspath(__file__))
         print("model_path = ", model_path)
-        mod_files_path = model_path + "/mechanism/"
+        mod_files_path = model_path + "/Multicompartmental_Biophysical_models/mechanism/"
 
         #Load cell model
         ModelLoader.__init__(self, mod_files_path = mod_files_path)
@@ -124,7 +124,7 @@ class Tzilivaki_2019_Somogyi_3_morph(ModelLoader):
 
         # path to hoc file
         # the model must not display any GUI!!
-        self.hocpath = model_path + "/experiment/main_model_Somogyi_3.hoc"
+        self.hocpath = model_path + "/Multicompartmental_Biophysical_models/experiment/main_model_Somogyi_3.hoc"
 
 
         # If the hoc file doesn't contain a template, this must be None (the default value is None)
@@ -164,7 +164,7 @@ class Tzilivaki_2019_Somogyi_4_morph(ModelLoader):
         # path to mod files
         model_path = os.path.dirname(os.path.abspath(__file__))
         print("model_path = ", model_path)
-        mod_files_path = model_path + "/mechanism/"
+        mod_files_path = model_path + "/Multicompartmental_Biophysical_models/mechanism/"
 
         #Load cell model
         ModelLoader.__init__(self, mod_files_path = mod_files_path)
@@ -174,7 +174,7 @@ class Tzilivaki_2019_Somogyi_4_morph(ModelLoader):
 
         # path to hoc file
         # the model must not display any GUI!!
-        self.hocpath = model_path + "/experiment/main_model_Somogyi_4.hoc"
+        self.hocpath = model_path + "/Multicompartmental_Biophysical_models/experiment/main_model_Somogyi_4.hoc"
 
 
         # If the hoc file doesn't contain a template, this must be None (the default value is None)
@@ -214,7 +214,7 @@ class Tzilivaki_2019_Somogyi_5_morph(ModelLoader):
         # path to mod files
         model_path = os.path.dirname(os.path.abspath(__file__))
         print("model_path = ", model_path)
-        mod_files_path = model_path + "/mechanism/"
+        mod_files_path = model_path + "/Multicompartmental_Biophysical_models/mechanism/"
 
         #Load cell model
         ModelLoader.__init__(self, mod_files_path = mod_files_path)
@@ -224,7 +224,7 @@ class Tzilivaki_2019_Somogyi_5_morph(ModelLoader):
 
         # path to hoc file
         # the model must not display any GUI!!
-        self.hocpath = model_path + "/experiment/main_model_Somogyi_5.hoc"
+        self.hocpath = model_path + "/Multicompartmental_Biophysical_models/experiment/main_model_Somogyi_5.hoc"
 
 
         # If the hoc file doesn't contain a template, this must be None (the default value is None)
