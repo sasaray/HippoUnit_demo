@@ -158,7 +158,7 @@ class Tzilivaki_2019_Somogyi_3_morph(ModelLoader):
 class Tzilivaki_2019_Somogyi_4_morph(ModelLoader):
     # model on HBP Model Catalog
 
-    model_version = "Somogy_4_morph"
+    model_version = "Somogyi_4_morph"
 
     def __init__(self):
         # path to mod files
@@ -208,7 +208,7 @@ class Tzilivaki_2019_Somogyi_4_morph(ModelLoader):
 class Tzilivaki_2019_Somogyi_5_morph(ModelLoader):
     # model on HBP Model Catalog
 
-    model_version = "Somogy_5_morph"
+    model_version = "Somogyi_5_morph"
 
     def __init__(self):
         # path to mod files
